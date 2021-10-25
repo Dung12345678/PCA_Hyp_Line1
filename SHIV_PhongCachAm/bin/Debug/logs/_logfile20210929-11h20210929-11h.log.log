@@ -1,0 +1,20 @@
+2021-09-29 11:41:25,929 INFO Mo file excel
+2021-09-29 11:41:25,946 INFO Dong tat ca file excel dang mo
+2021-09-29 11:41:25,946 INFO Khoi tao du lieu
+2021-09-29 11:41:25,947 INFO Khoi tao tat ca bien trang thai
+2021-09-29 11:41:25,948 INFO Khoi tao ket noi chuong trinh
+2021-09-29 11:41:25,949 INFO Tao ket noi du lieu voi PLC FX5U
+2021-09-29 11:41:26,773 INFO Tao ket noi du lieu voi PLC FX3G
+2021-09-29 11:41:27,853 INFO Ket noi cong COM7 - lay du lieu dong dien nhap luc
+2021-09-29 11:41:33,633 INFO Ket noi cong COM5 - lay du lieu tieng on
+2021-09-29 11:41:35,370 INFO Ket noi cong COM8 - lay du lieu vong quay
+2021-09-29 11:41:35,371 INFO Khoi tao thread lay du lieu lien tuc
+2021-09-29 11:41:35,371 INFO Khoi tao thread lay du lieu lien tuc --Chutrinh_LayDuLieu--
+2021-09-29 11:41:35,469 INFO Chu trinh - 0 - Khoi tao + Doi tin hieu bat dau chay
+2021-09-29 11:41:55,918 INFO Chu trinh - 0 - Khoi tao + Doi tin hieu bat dau chay
+2021-09-29 11:42:30,984 ERROR Thoi gian chu trinh vuot qua 100ms
+2021-09-29 11:42:30,984 INFO Chu trinh - 0 - Khoi tao + Doi tin hieu bat dau chay
+2021-09-29 11:42:44,555 INFO Chu trinh - 0 - Khoi tao + Doi tin hieu bat dau chay
+2021-09-29 11:42:44,841 INFO Chu trinh - 0 - Khoi tao + Doi tin hieu bat dau chay
+2021-09-29 11:42:55,920 ERROR Thoi gian chu trinh vuot qua 100ms
+2021-09-29 11:42:55,920 INFO Chu trinh - 0 - Khoi tao + Doi tin hieu bat dau chay

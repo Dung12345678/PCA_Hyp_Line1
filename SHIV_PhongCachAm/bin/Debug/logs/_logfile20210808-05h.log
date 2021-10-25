@@ -1,0 +1,19 @@
+2021-08-08 05:52:49,807 ERROR Thoi gian chu trinh vuot qua 100ms
+2021-08-08 05:52:49,907 ERROR Thoi gian chu trinh vuot qua 100ms
+2021-08-08 05:52:49,907 INFO Chu trinh - 19 - Hoan tat lay du lieu - bat dau ghi ra file
+2021-08-08 05:52:49,907 INFO Ghi ra file csv
+2021-08-08 05:52:49,917 INFO Upload du lieu am thanh len server
+2021-08-08 05:52:50,027 INFO Chu trinh - 0 - Khoi tao + Doi tin hieu bat dau chay
+2021-08-08 05:52:57,555 INFO Mo file excel
+2021-08-08 05:52:57,563 INFO Dong tat ca file excel dang mo
+2021-08-08 05:52:57,563 INFO Khoi tao du lieu
+2021-08-08 05:52:57,563 INFO Khoi tao tat ca bien trang thai
+2021-08-08 05:52:57,565 INFO Khoi tao ket noi chuong trinh
+2021-08-08 05:52:57,565 INFO Tao ket noi du lieu voi PLC FX5U
+2021-08-08 05:52:58,095 INFO Tao ket noi du lieu voi PLC FX3G
+2021-08-08 05:52:58,616 INFO Ket noi cong COM7 - lay du lieu dong dien nhap luc
+2021-08-08 05:52:58,775 INFO Ket noi cong COM5 - lay du lieu tieng on
+2021-08-08 05:52:58,935 INFO Ket noi cong COM8 - lay du lieu vong quay
+2021-08-08 05:52:58,935 INFO Khoi tao thread lay du lieu lien tuc
+2021-08-08 05:52:58,935 INFO Khoi tao thread lay du lieu lien tuc --Chutrinh_LayDuLieu--
+2021-08-08 05:52:59,035 INFO Chu trinh - 0 - Khoi tao + Doi tin hieu bat dau chay

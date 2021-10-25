@@ -1,0 +1,15 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="SHIV_PhongCachAm" GeneratedClassName="Settingsm">
+  <Profiles />
+  <Settings>
+    <Setting Name="DBServer" Type="System.String" Scope="User">
+      <Value Profile="(Default)">U:\Engineering\1TAI LIEU CHUNG VAN BAN ISO_KTSX\15. BIEU CHECK CONG DOAN\2. LAP RAP HY - PREST\KTVH HYPONIC\DATA KTVH HYPO.xlsx</Value>
+    </Setting>
+    <Setting Name="KHServer" Type="System.String" Scope="User">
+      <Value Profile="(Default)">U:\GearMotorG\100. Ke hoach lap rap\2. KE HOACH LR HYPOINIC &amp; PREST.xlsm</Value>
+    </Setting>
+    <Setting Name="DBLocation" Type="System.String" Scope="User">
+      <Value Profile="(Default)">E:\KHLocal.xlsx</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>

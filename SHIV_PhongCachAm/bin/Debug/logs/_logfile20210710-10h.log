@@ -1,0 +1,2910 @@
+2021-07-10 10:16:01,217 ERROR Thoi gian chu trinh vuot qua 100ms
+2021-07-10 10:16:01,217 INFO Chu trinh - 0 - Khoi tao + Doi tin hieu bat dau chay
+2021-07-10 10:16:34,091 INFO Chu trinh - 0 - Khoi tao + Doi tin hieu bat dau chay
+2021-07-10 10:17:05,916 ERROR Thoi gian chu trinh vuot qua 100ms
+2021-07-10 10:17:05,956 INFO Chu trinh - 3 - Lay du lieu chieu thuan
+2021-07-10 10:17:06,006 INFO   Lay du lieu - Forward
+2021-07-10 10:17:06,006 INFO       Lay du lieu dong dien
+2021-07-10 10:17:06,006 INFO       Lay du lieu nhap luc
+2021-07-10 10:17:06,006 INFO       Lay du lieu do rung
+2021-07-10 10:17:06,006 INFO       Lay du lieu tieng on
+2021-07-10 10:17:06,006 INFO       Ve do thi du lieu
+2021-07-10 10:17:06,056 INFO Chu trinh - 3 - Lay du lieu chieu thuan
+2021-07-10 10:17:06,086 INFO   Lay du lieu - Forward
+2021-07-10 10:17:06,086 INFO       Lay du lieu dong dien
+2021-07-10 10:17:06,086 INFO       Lay du lieu nhap luc
+2021-07-10 10:17:06,086 INFO       Lay du lieu do rung
+2021-07-10 10:17:06,086 INFO       Lay du lieu tieng on
+2021-07-10 10:17:06,136 INFO Chu trinh - 3 - Lay du lieu chieu thuan
+2021-07-10 10:17:06,136 INFO   Lay du lieu - Forward
+2021-07-10 10:17:06,136 INFO       Lay du lieu dong dien
+2021-07-10 10:17:06,136 INFO       Lay du lieu nhap luc
+2021-07-10 10:17:06,136 INFO       Lay du lieu do rung
+2021-07-10 10:17:06,136 INFO       Lay du lieu tieng on
+2021-07-10 10:17:06,276 INFO Chu trinh - 3 - Lay du lieu chieu thuan
+2021-07-10 10:17:06,285 INFO   Lay du lieu - Forward
+2021-07-10 10:17:06,285 INFO       Lay du lieu dong dien
+2021-07-10 10:17:06,285 INFO       Lay du lieu nhap luc
+2021-07-10 10:17:06,285 INFO       Lay du lieu do rung
+2021-07-10 10:17:06,285 INFO       Lay du lieu tieng on
+2021-07-10 10:17:06,346 INFO Chu trinh - 3 - Lay du lieu chieu thuan
+2021-07-10 10:17:06,386 INFO   Lay du lieu - Forward
+2021-07-10 10:17:06,386 INFO       Lay du lieu dong dien
+2021-07-10 10:17:06,386 INFO       Lay du lieu nhap luc
+2021-07-10 10:17:06,386 INFO       Lay du lieu do rung
+2021-07-10 10:17:06,386 INFO       Lay du lieu tieng on
+2021-07-10 10:17:06,476 INFO Chu trinh - 3 - Lay du lieu chieu thuan
+2021-07-10 10:17:06,486 INFO   Lay du lieu - Forward
+2021-07-10 10:17:06,486 INFO       Lay du lieu dong dien
+2021-07-10 10:17:06,486 INFO       Lay du lieu nhap luc
+2021-07-10 10:17:06,486 INFO       Lay du lieu do rung
+2021-07-10 10:17:06,486 INFO       Lay du lieu tieng on
+2021-07-10 10:17:06,545 INFO Chu trinh - 3 - Lay du lieu chieu thuan
+2021-07-10 10:17:06,585 INFO   Lay du lieu - Forward
+2021-07-10 10:17:06,585 INFO       Lay du lieu dong dien
+2021-07-10 10:17:06,585 INFO       Lay du lieu nhap luc
+2021-07-10 10:17:06,585 INFO       Lay du lieu do rung
+2021-07-10 10:17:06,585 INFO       Lay du lieu tieng on
+2021-07-10 10:17:06,685 INFO Chu trinh - 3 - Lay du lieu chieu thuan
+2021-07-10 10:17:06,686 INFO   Lay du lieu - Forward
+2021-07-10 10:17:06,686 INFO       Lay du lieu dong dien
+2021-07-10 10:17:06,686 INFO       Lay du lieu nhap luc
+2021-07-10 10:17:06,686 INFO       Lay du lieu do rung
+2021-07-10 10:17:06,686 INFO       Lay du lieu tieng on
+2021-07-10 10:17:06,745 INFO Chu trinh - 3 - Lay du lieu chieu thuan
+2021-07-10 10:17:06,786 INFO   Lay du lieu - Forward
+2021-07-10 10:17:06,786 INFO       Lay du lieu dong dien
+2021-07-10 10:17:06,786 INFO       Lay du lieu nhap luc
+2021-07-10 10:17:06,786 INFO       Lay du lieu do rung
+2021-07-10 10:17:06,786 INFO       Lay du lieu tieng on
+2021-07-10 10:17:06,786 INFO       Ve do thi du lieu
+2021-07-10 10:17:06,885 INFO Chu trinh - 3 - Lay du lieu chieu thuan
+2021-07-10 10:17:06,885 INFO   Lay du lieu - Forward
+2021-07-10 10:17:06,885 INFO       Lay du lieu dong dien
+2021-07-10 10:17:06,885 INFO       Lay du lieu nhap luc
+2021-07-10 10:17:06,885 INFO       Lay du lieu do rung
+2021-07-10 10:17:06,885 INFO       Lay du lieu tieng on
+2021-07-10 10:17:06,986 INFO Chu trinh - 3 - Lay du lieu chieu thuan
+2021-07-10 10:17:06,995 INFO   Lay du lieu - Forward
+2021-07-10 10:17:06,995 INFO       Lay du lieu dong dien
+2021-07-10 10:17:06,995 INFO       Lay du lieu nhap luc
+2021-07-10 10:17:06,995 INFO       Lay du lieu do rung
+2021-07-10 10:17:06,995 INFO       Lay du lieu tieng on
+2021-07-10 10:17:07,060 INFO Chu trinh - 3 - Lay du lieu chieu thuan
+2021-07-10 10:17:07,105 INFO   Lay du lieu - Forward
+2021-07-10 10:17:07,105 INFO       Lay du lieu dong dien
+2021-07-10 10:17:07,105 INFO       Lay du lieu nhap luc
+2021-07-10 10:17:07,105 INFO       Lay du lieu do rung
+2021-07-10 10:17:07,105 INFO       Lay du lieu tieng on
+2021-07-10 10:17:07,156 INFO Chu trinh - 3 - Lay du lieu chieu thuan
+2021-07-10 10:17:07,196 INFO   Lay du lieu - Forward
+2021-07-10 10:17:07,196 INFO       Lay du lieu dong dien
+2021-07-10 10:17:07,196 INFO       Lay du lieu nhap luc
+2021-07-10 10:17:07,196 INFO       Lay du lieu do rung
+2021-07-10 10:17:07,196 INFO       Lay du lieu tieng on
+2021-07-10 10:17:07,255 INFO Chu trinh - 3 - Lay du lieu chieu thuan
+2021-07-10 10:17:07,295 INFO   Lay du lieu - Forward
+2021-07-10 10:17:07,295 INFO       Lay du lieu dong dien
+2021-07-10 10:17:07,295 INFO       Lay du lieu nhap luc
+2021-07-10 10:17:07,295 INFO       Lay du lieu do rung
+2021-07-10 10:17:07,295 INFO       Lay du lieu tieng on
+2021-07-10 10:17:07,395 INFO Chu trinh - 3 - Lay du lieu chieu thuan
+2021-07-10 10:17:07,395 INFO   Lay du lieu - Forward
+2021-07-10 10:17:07,395 INFO       Lay du lieu dong dien
+2021-07-10 10:17:07,395 INFO       Lay du lieu nhap luc
+2021-07-10 10:17:07,395 INFO       Lay du lieu do rung
+2021-07-10 10:17:07,395 INFO       Lay du lieu tieng on
+2021-07-10 10:17:07,455 INFO Chu trinh - 3 - Lay du lieu chieu thuan
+2021-07-10 10:17:07,455 INFO   Lay du lieu - Forward
+2021-07-10 10:17:07,455 INFO       Lay du lieu dong dien
+2021-07-10 10:17:07,455 INFO       Lay du lieu nhap luc
+2021-07-10 10:17:07,455 INFO       Lay du lieu do rung
+2021-07-10 10:17:07,455 INFO       Lay du lieu tieng on
+2021-07-10 10:17:07,565 INFO Chu trinh - 3 - Lay du lieu chieu thuan
+2021-07-10 10:17:07,615 INFO   Lay du lieu - Forward
+2021-07-10 10:17:07,615 INFO       Lay du lieu dong dien
+2021-07-10 10:17:07,615 INFO       Lay du lieu nhap luc
+2021-07-10 10:17:07,615 INFO       Lay du lieu do rung
+2021-07-10 10:17:07,615 INFO       Lay du lieu tieng on
+2021-07-10 10:17:07,655 INFO Chu trinh - 3 - Lay du lieu chieu thuan
+2021-07-10 10:17:07,655 INFO   Lay du lieu - Forward
+2021-07-10 10:17:07,655 INFO       Lay du lieu dong dien
+2021-07-10 10:17:07,655 INFO       Lay du lieu nhap luc
+2021-07-10 10:17:07,655 INFO       Lay du lieu do rung
+2021-07-10 10:17:07,655 INFO       Lay du lieu tieng on
+2021-07-10 10:17:07,766 INFO Chu trinh - 3 - Lay du lieu chieu thuan
+2021-07-10 10:17:07,815 INFO   Lay du lieu - Forward
+2021-07-10 10:17:07,815 INFO       Lay du lieu dong dien
+2021-07-10 10:17:07,815 INFO       Lay du lieu nhap luc
+2021-07-10 10:17:07,815 INFO       Lay du lieu do rung
+2021-07-10 10:17:07,815 INFO       Lay du lieu tieng on
+2021-07-10 10:17:07,815 INFO       Ve do thi du lieu
+2021-07-10 10:17:07,856 INFO Chu trinh - 3 - Lay du lieu chieu thuan
+2021-07-10 10:17:07,873 INFO   Lay du lieu - Forward
+2021-07-10 10:17:07,873 INFO       Lay du lieu dong dien
+2021-07-10 10:17:07,873 INFO       Lay du lieu nhap luc
+2021-07-10 10:17:07,873 INFO       Lay du lieu do rung
+2021-07-10 10:17:07,873 INFO       Lay du lieu tieng on
+2021-07-10 10:17:07,960 INFO Chu trinh - 3 - Lay du lieu chieu thuan
+2021-07-10 10:17:08,005 INFO   Lay du lieu - Forward
+2021-07-10 10:17:08,005 INFO       Lay du lieu dong dien
+2021-07-10 10:17:08,005 INFO       Lay du lieu nhap luc
+2021-07-10 10:17:08,005 INFO       Lay du lieu do rung
+2021-07-10 10:17:08,005 INFO       Lay du lieu tieng on
+2021-07-10 10:17:08,056 INFO Chu trinh - 3 - Lay du lieu chieu thuan
+2021-07-10 10:17:08,056 INFO   Lay du lieu - Forward
+2021-07-10 10:17:08,056 INFO       Lay du lieu dong dien
+2021-07-10 10:17:08,056 INFO       Lay du lieu nhap luc
+2021-07-10 10:17:08,056 INFO       Lay du lieu do rung
+2021-07-10 10:17:08,056 INFO       Lay du lieu tieng on
+2021-07-10 10:17:08,176 INFO Chu trinh - 3 - Lay du lieu chieu thuan
+2021-07-10 10:17:08,225 INFO   Lay du lieu - Forward
+2021-07-10 10:17:08,225 INFO       Lay du lieu dong dien
+2021-07-10 10:17:08,225 INFO       Lay du lieu nhap luc
+2021-07-10 10:17:08,225 INFO       Lay du lieu do rung
+2021-07-10 10:17:08,225 INFO       Lay du lieu tieng on
+2021-07-10 10:17:08,266 INFO Chu trinh - 3 - Lay du lieu chieu thuan
+2021-07-10 10:17:08,275 INFO   Lay du lieu - Forward
+2021-07-10 10:17:08,275 INFO       Lay du lieu dong dien
+2021-07-10 10:17:08,275 INFO       Lay du lieu nhap luc
+2021-07-10 10:17:08,275 INFO       Lay du lieu do rung
+2021-07-10 10:17:08,275 INFO       Lay du lieu tieng on
+2021-07-10 10:17:08,376 INFO Chu trinh - 3 - Lay du lieu chieu thuan
+2021-07-10 10:17:08,425 INFO   Lay du lieu - Forward
+2021-07-10 10:17:08,425 INFO       Lay du lieu dong dien
+2021-07-10 10:17:08,425 INFO       Lay du lieu nhap luc
+2021-07-10 10:17:08,425 INFO       Lay du lieu do rung
+2021-07-10 10:17:08,425 INFO       Lay du lieu tieng on
+2021-07-10 10:17:08,465 INFO Chu trinh - 3 - Lay du lieu chieu thuan
+2021-07-10 10:17:08,475 INFO   Lay du lieu - Forward
+2021-07-10 10:17:08,475 INFO       Lay du lieu dong dien
+2021-07-10 10:17:08,475 INFO       Lay du lieu nhap luc
+2021-07-10 10:17:08,475 INFO       Lay du lieu do rung
+2021-07-10 10:17:08,475 INFO       Lay du lieu tieng on
+2021-07-10 10:17:08,575 INFO Chu trinh - 3 - Lay du lieu chieu thuan
+2021-07-10 10:17:08,634 INFO   Lay du lieu - Forward
+2021-07-10 10:17:08,634 INFO       Lay du lieu dong dien
+2021-07-10 10:17:08,634 INFO       Lay du lieu nhap luc
+2021-07-10 10:17:08,634 INFO       Lay du lieu do rung
+2021-07-10 10:17:08,634 INFO       Lay du lieu tieng on
+2021-07-10 10:17:08,675 INFO Chu trinh - 3 - Lay du lieu chieu thuan
+2021-07-10 10:17:08,675 INFO   Lay du lieu - Forward
+2021-07-10 10:17:08,675 INFO       Lay du lieu dong dien
+2021-07-10 10:17:08,675 INFO       Lay du lieu nhap luc
+2021-07-10 10:17:08,675 INFO       Lay du lieu do rung
+2021-07-10 10:17:08,675 INFO       Lay du lieu tieng on
+2021-07-10 10:17:08,755 INFO Chu trinh - 3 - Lay du lieu chieu thuan
+2021-07-10 10:17:08,795 INFO   Lay du lieu - Forward
+2021-07-10 10:17:08,795 INFO       Lay du lieu dong dien
+2021-07-10 10:17:08,795 INFO       Lay du lieu nhap luc
+2021-07-10 10:17:08,795 INFO       Lay du lieu do rung
+2021-07-10 10:17:08,795 INFO       Lay du lieu tieng on
+2021-07-10 10:17:08,795 INFO       Ve do thi du lieu
+2021-07-10 10:17:08,940 INFO Chu trinh - 3 - Lay du lieu chieu thuan
+2021-07-10 10:17:09,000 INFO   Lay du lieu - Forward
+2021-07-10 10:17:09,000 INFO       Lay du lieu dong dien
+2021-07-10 10:17:09,000 INFO       Lay du lieu nhap luc
+2021-07-10 10:17:09,000 INFO       Lay du lieu do rung
+2021-07-10 10:17:09,000 INFO       Lay du lieu tieng on
+2021-07-10 10:17:09,000 ERROR Thoi gian chu trinh vuot qua 100ms
+2021-07-10 10:17:09,000 INFO Chu trinh - 3 - Lay du lieu chieu thuan
+2021-07-10 10:17:09,025 INFO   Lay du lieu - Forward
+2021-07-10 10:17:09,025 INFO       Lay du lieu dong dien
+2021-07-10 10:17:09,025 INFO       Lay du lieu nhap luc
+2021-07-10 10:17:09,025 INFO       Lay du lieu do rung
+2021-07-10 10:17:09,025 INFO       Lay du lieu tieng on
+2021-07-10 10:17:09,145 INFO Chu trinh - 3 - Lay du lieu chieu thuan
+2021-07-10 10:17:09,199 INFO   Lay du lieu - Forward
+2021-07-10 10:17:09,199 INFO       Lay du lieu dong dien
+2021-07-10 10:17:09,199 INFO       Lay du lieu nhap luc
+2021-07-10 10:17:09,199 INFO       Lay du lieu do rung
+2021-07-10 10:17:09,199 INFO       Lay du lieu tieng on
+2021-07-10 10:17:09,215 INFO Chu trinh - 3 - Lay du lieu chieu thuan
+2021-07-10 10:17:09,215 INFO   Lay du lieu - Forward
+2021-07-10 10:17:09,215 INFO       Lay du lieu dong dien
+2021-07-10 10:17:09,215 INFO       Lay du lieu nhap luc
+2021-07-10 10:17:09,215 INFO       Lay du lieu do rung
+2021-07-10 10:17:09,215 INFO       Lay du lieu tieng on
+2021-07-10 10:17:09,355 INFO Chu trinh - 3 - Lay du lieu chieu thuan
+2021-07-10 10:17:09,405 INFO   Lay du lieu - Forward
+2021-07-10 10:17:09,405 INFO       Lay du lieu dong dien
+2021-07-10 10:17:09,405 INFO       Lay du lieu nhap luc
+2021-07-10 10:17:09,405 INFO       Lay du lieu do rung
+2021-07-10 10:17:09,405 INFO       Lay du lieu tieng on
+2021-07-10 10:17:09,435 INFO Chu trinh - 3 - Lay du lieu chieu thuan
+2021-07-10 10:17:09,435 INFO   Lay du lieu - Forward
+2021-07-10 10:17:09,435 INFO       Lay du lieu dong dien
+2021-07-10 10:17:09,435 INFO       Lay du lieu nhap luc
+2021-07-10 10:17:09,435 INFO       Lay du lieu do rung
+2021-07-10 10:17:09,435 INFO       Lay du lieu tieng on
+2021-07-10 10:17:09,565 INFO Chu trinh - 3 - Lay du lieu chieu thuan
+2021-07-10 10:17:09,615 INFO   Lay du lieu - Forward
+2021-07-10 10:17:09,615 INFO       Lay du lieu dong dien
+2021-07-10 10:17:09,615 INFO       Lay du lieu nhap luc
+2021-07-10 10:17:09,615 INFO       Lay du lieu do rung
+2021-07-10 10:17:09,615 INFO       Lay du lieu tieng on
+2021-07-10 10:17:09,635 INFO Chu trinh - 3 - Lay du lieu chieu thuan
+2021-07-10 10:17:09,635 INFO   Lay du lieu - Forward
+2021-07-10 10:17:09,635 INFO       Lay du lieu dong dien
+2021-07-10 10:17:09,635 INFO       Lay du lieu nhap luc
+2021-07-10 10:17:09,635 INFO       Lay du lieu do rung
+2021-07-10 10:17:09,635 INFO       Lay du lieu tieng on
+2021-07-10 10:17:09,736 INFO Chu trinh - 3 - Lay du lieu chieu thuan
+2021-07-10 10:17:09,785 INFO   Lay du lieu - Forward
+2021-07-10 10:17:09,785 INFO       Lay du lieu dong dien
+2021-07-10 10:17:09,785 INFO       Lay du lieu nhap luc
+2021-07-10 10:17:09,785 INFO       Lay du lieu do rung
+2021-07-10 10:17:09,785 INFO       Lay du lieu tieng on
+2021-07-10 10:17:09,836 INFO Chu trinh - 3 - Lay du lieu chieu thuan
+2021-07-10 10:17:09,845 INFO   Lay du lieu - Forward
+2021-07-10 10:17:09,845 INFO       Lay du lieu dong dien
+2021-07-10 10:17:09,845 INFO       Lay du lieu nhap luc
+2021-07-10 10:17:09,845 INFO       Lay du lieu do rung
+2021-07-10 10:17:09,845 INFO       Lay du lieu tieng on
+2021-07-10 10:17:09,845 INFO       Ve do thi du lieu
+2021-07-10 10:17:09,944 INFO Chu trinh - 3 - Lay du lieu chieu thuan
+2021-07-10 10:17:09,995 INFO   Lay du lieu - Forward
+2021-07-10 10:17:09,995 INFO       Lay du lieu dong dien
+2021-07-10 10:17:09,995 INFO       Lay du lieu nhap luc
+2021-07-10 10:17:09,995 INFO       Lay du lieu do rung
+2021-07-10 10:17:09,995 INFO       Lay du lieu tieng on
+2021-07-10 10:17:10,045 INFO Chu trinh - 3 - Lay du lieu chieu thuan
+2021-07-10 10:17:10,045 INFO   Lay du lieu - Forward
+2021-07-10 10:17:10,045 INFO       Lay du lieu dong dien
+2021-07-10 10:17:10,045 INFO       Lay du lieu nhap luc
+2021-07-10 10:17:10,045 INFO       Lay du lieu do rung
+2021-07-10 10:17:10,045 INFO       Lay du lieu tieng on
+2021-07-10 10:17:10,155 INFO Chu trinh - 3 - Lay du lieu chieu thuan
+2021-07-10 10:17:10,205 INFO   Lay du lieu - Forward
+2021-07-10 10:17:10,205 INFO       Lay du lieu dong dien
+2021-07-10 10:17:10,205 INFO       Lay du lieu nhap luc
+2021-07-10 10:17:10,205 INFO       Lay du lieu do rung
+2021-07-10 10:17:10,205 INFO       Lay du lieu tieng on
+2021-07-10 10:17:10,245 INFO Chu trinh - 3 - Lay du lieu chieu thuan
+2021-07-10 10:17:10,255 INFO   Lay du lieu - Forward
+2021-07-10 10:17:10,255 INFO       Lay du lieu dong dien
+2021-07-10 10:17:10,255 INFO       Lay du lieu nhap luc
+2021-07-10 10:17:10,255 INFO       Lay du lieu do rung
+2021-07-10 10:17:10,255 INFO       Lay du lieu tieng on
+2021-07-10 10:17:10,355 INFO Chu trinh - 3 - Lay du lieu chieu thuan
+2021-07-10 10:17:10,405 INFO   Lay du lieu - Forward
+2021-07-10 10:17:10,405 INFO       Lay du lieu dong dien
+2021-07-10 10:17:10,405 INFO       Lay du lieu nhap luc
+2021-07-10 10:17:10,405 INFO       Lay du lieu do rung
+2021-07-10 10:17:10,405 INFO       Lay du lieu tieng on
+2021-07-10 10:17:10,445 INFO Chu trinh - 3 - Lay du lieu chieu thuan
+2021-07-10 10:17:10,455 INFO   Lay du lieu - Forward
+2021-07-10 10:17:10,455 INFO       Lay du lieu dong dien
+2021-07-10 10:17:10,455 INFO       Lay du lieu nhap luc
+2021-07-10 10:17:10,455 INFO       Lay du lieu do rung
+2021-07-10 10:17:10,455 INFO       Lay du lieu tieng on
+2021-07-10 10:17:10,555 INFO Chu trinh - 3 - Lay du lieu chieu thuan
+2021-07-10 10:17:10,604 INFO   Lay du lieu - Forward
+2021-07-10 10:17:10,604 INFO       Lay du lieu dong dien
+2021-07-10 10:17:10,604 INFO       Lay du lieu nhap luc
+2021-07-10 10:17:10,604 INFO       Lay du lieu do rung
+2021-07-10 10:17:10,604 INFO       Lay du lieu tieng on
+2021-07-10 10:17:10,655 INFO Chu trinh - 3 - Lay du lieu chieu thuan
+2021-07-10 10:17:10,655 INFO   Lay du lieu - Forward
+2021-07-10 10:17:10,655 INFO       Lay du lieu dong dien
+2021-07-10 10:17:10,655 INFO       Lay du lieu nhap luc
+2021-07-10 10:17:10,655 INFO       Lay du lieu do rung
+2021-07-10 10:17:10,655 INFO       Lay du lieu tieng on
+2021-07-10 10:17:10,805 INFO Chu trinh - 3 - Lay du lieu chieu thuan
+2021-07-10 10:17:10,945 INFO   Lay du lieu - Forward
+2021-07-10 10:17:10,945 INFO       Lay du lieu dong dien
+2021-07-10 10:17:10,945 INFO       Lay du lieu nhap luc
+2021-07-10 10:17:10,945 INFO       Lay du lieu do rung
+2021-07-10 10:17:10,945 INFO       Lay du lieu tieng on
+2021-07-10 10:17:10,945 ERROR Thoi gian chu trinh vuot qua 100ms
+2021-07-10 10:17:10,945 INFO Chu trinh - 3 - Lay du lieu chieu thuan
+2021-07-10 10:17:10,955 INFO   Lay du lieu - Forward
+2021-07-10 10:17:10,955 INFO       Lay du lieu dong dien
+2021-07-10 10:17:10,955 INFO       Lay du lieu nhap luc
+2021-07-10 10:17:10,955 INFO       Lay du lieu do rung
+2021-07-10 10:17:10,955 INFO       Lay du lieu tieng on
+2021-07-10 10:17:10,955 INFO       Ve do thi du lieu
+2021-07-10 10:17:11,095 INFO Chu trinh - 3 - Lay du lieu chieu thuan
+2021-07-10 10:17:11,145 INFO   Lay du lieu - Forward
+2021-07-10 10:17:11,145 INFO       Lay du lieu dong dien
+2021-07-10 10:17:11,145 INFO       Lay du lieu nhap luc
+2021-07-10 10:17:11,145 INFO       Lay du lieu do rung
+2021-07-10 10:17:11,145 INFO       Lay du lieu tieng on
+2021-07-10 10:17:11,165 INFO Chu trinh - 3 - Lay du lieu chieu thuan
+2021-07-10 10:17:11,165 INFO   Lay du lieu - Forward
+2021-07-10 10:17:11,165 INFO       Lay du lieu dong dien
+2021-07-10 10:17:11,165 INFO       Lay du lieu nhap luc
+2021-07-10 10:17:11,165 INFO       Lay du lieu do rung
+2021-07-10 10:17:11,165 INFO       Lay du lieu tieng on
+2021-07-10 10:17:11,295 INFO Chu trinh - 3 - Lay du lieu chieu thuan
+2021-07-10 10:17:11,345 INFO   Lay du lieu - Forward
+2021-07-10 10:17:11,345 INFO       Lay du lieu dong dien
+2021-07-10 10:17:11,345 INFO       Lay du lieu nhap luc
+2021-07-10 10:17:11,345 INFO       Lay du lieu do rung
+2021-07-10 10:17:11,345 INFO       Lay du lieu tieng on
+2021-07-10 10:17:11,365 INFO Chu trinh - 3 - Lay du lieu chieu thuan
+2021-07-10 10:17:11,365 INFO   Lay du lieu - Forward
+2021-07-10 10:17:11,365 INFO       Lay du lieu dong dien
+2021-07-10 10:17:11,365 INFO       Lay du lieu nhap luc
+2021-07-10 10:17:11,365 INFO       Lay du lieu do rung
+2021-07-10 10:17:11,365 INFO       Lay du lieu tieng on
+2021-07-10 10:17:11,494 INFO Chu trinh - 3 - Lay du lieu chieu thuan
+2021-07-10 10:17:11,544 INFO   Lay du lieu - Forward
+2021-07-10 10:17:11,544 INFO       Lay du lieu dong dien
+2021-07-10 10:17:11,544 INFO       Lay du lieu nhap luc
+2021-07-10 10:17:11,544 INFO       Lay du lieu do rung
+2021-07-10 10:17:11,544 INFO       Lay du lieu tieng on
+2021-07-10 10:17:11,565 INFO Chu trinh - 3 - Lay du lieu chieu thuan
+2021-07-10 10:17:11,565 INFO   Lay du lieu - Forward
+2021-07-10 10:17:11,565 INFO       Lay du lieu dong dien
+2021-07-10 10:17:11,565 INFO       Lay du lieu nhap luc
+2021-07-10 10:17:11,565 INFO       Lay du lieu do rung
+2021-07-10 10:17:11,565 INFO       Lay du lieu tieng on
+2021-07-10 10:17:11,695 INFO Chu trinh - 3 - Lay du lieu chieu thuan
+2021-07-10 10:17:11,745 INFO   Lay du lieu - Forward
+2021-07-10 10:17:11,745 INFO       Lay du lieu dong dien
+2021-07-10 10:17:11,745 INFO       Lay du lieu nhap luc
+2021-07-10 10:17:11,745 INFO       Lay du lieu do rung
+2021-07-10 10:17:11,745 INFO       Lay du lieu tieng on
+2021-07-10 10:17:11,765 INFO Chu trinh - 3 - Lay du lieu chieu thuan
+2021-07-10 10:17:11,765 INFO   Lay du lieu - Forward
+2021-07-10 10:17:11,765 INFO       Lay du lieu dong dien
+2021-07-10 10:17:11,765 INFO       Lay du lieu nhap luc
+2021-07-10 10:17:11,765 INFO       Lay du lieu do rung
+2021-07-10 10:17:11,765 INFO       Lay du lieu tieng on
+2021-07-10 10:17:11,865 INFO Chu trinh - 3 - Lay du lieu chieu thuan
+2021-07-10 10:17:11,924 INFO   Lay du lieu - Forward
+2021-07-10 10:17:11,924 INFO       Lay du lieu dong dien
+2021-07-10 10:17:11,924 INFO       Lay du lieu nhap luc
+2021-07-10 10:17:11,924 INFO       Lay du lieu do rung
+2021-07-10 10:17:11,924 INFO       Lay du lieu tieng on
+2021-07-10 10:17:11,965 INFO Chu trinh - 3 - Lay du lieu chieu thuan
+2021-07-10 10:17:11,965 INFO   Lay du lieu - Forward
+2021-07-10 10:17:11,965 INFO       Lay du lieu dong dien
+2021-07-10 10:17:11,965 INFO       Lay du lieu nhap luc
+2021-07-10 10:17:11,965 INFO       Lay du lieu do rung
+2021-07-10 10:17:11,965 INFO       Lay du lieu tieng on
+2021-07-10 10:17:11,965 INFO       Ve do thi du lieu
+2021-07-10 10:17:12,085 INFO Chu trinh - 3 - Lay du lieu chieu thuan
+2021-07-10 10:17:12,135 INFO   Lay du lieu - Forward
+2021-07-10 10:17:12,135 INFO       Lay du lieu dong dien
+2021-07-10 10:17:12,135 INFO       Lay du lieu nhap luc
+2021-07-10 10:17:12,135 INFO       Lay du lieu do rung
+2021-07-10 10:17:12,135 INFO       Lay du lieu tieng on
+2021-07-10 10:17:12,174 INFO Chu trinh - 3 - Lay du lieu chieu thuan
+2021-07-10 10:17:12,184 INFO   Lay du lieu - Forward
+2021-07-10 10:17:12,184 INFO       Lay du lieu dong dien
+2021-07-10 10:17:12,184 INFO       Lay du lieu nhap luc
+2021-07-10 10:17:12,184 INFO       Lay du lieu do rung
+2021-07-10 10:17:12,184 INFO       Lay du lieu tieng on
+2021-07-10 10:17:12,284 INFO Chu trinh - 3 - Lay du lieu chieu thuan
+2021-07-10 10:17:12,335 INFO   Lay du lieu - Forward
+2021-07-10 10:17:12,335 INFO       Lay du lieu dong dien
+2021-07-10 10:17:12,335 INFO       Lay du lieu nhap luc
+2021-07-10 10:17:12,335 INFO       Lay du lieu do rung
+2021-07-10 10:17:12,335 INFO       Lay du lieu tieng on
+2021-07-10 10:17:12,374 INFO Chu trinh - 3 - Lay du lieu chieu thuan
+2021-07-10 10:17:12,384 INFO   Lay du lieu - Forward
+2021-07-10 10:17:12,384 INFO       Lay du lieu dong dien
+2021-07-10 10:17:12,384 INFO       Lay du lieu nhap luc
+2021-07-10 10:17:12,384 INFO       Lay du lieu do rung
+2021-07-10 10:17:12,384 INFO       Lay du lieu tieng on
+2021-07-10 10:17:12,464 INFO Chu trinh - 3 - Lay du lieu chieu thuan
+2021-07-10 10:17:12,514 INFO   Lay du lieu - Forward
+2021-07-10 10:17:12,514 INFO       Lay du lieu dong dien
+2021-07-10 10:17:12,514 INFO       Lay du lieu nhap luc
+2021-07-10 10:17:12,514 INFO       Lay du lieu do rung
+2021-07-10 10:17:12,514 INFO       Lay du lieu tieng on
+2021-07-10 10:17:12,604 INFO Chu trinh - 3 - Lay du lieu chieu thuan
+2021-07-10 10:17:12,614 INFO   Lay du lieu - Forward
+2021-07-10 10:17:12,614 INFO       Lay du lieu dong dien
+2021-07-10 10:17:12,614 INFO       Lay du lieu nhap luc
+2021-07-10 10:17:12,614 INFO       Lay du lieu do rung
+2021-07-10 10:17:12,614 INFO       Lay du lieu tieng on
+2021-07-10 10:17:12,774 INFO Chu trinh - 3 - Lay du lieu chieu thuan
+2021-07-10 10:17:12,839 INFO   Lay du lieu - Forward
+2021-07-10 10:17:12,839 INFO       Lay du lieu dong dien
+2021-07-10 10:17:12,839 INFO       Lay du lieu nhap luc
+2021-07-10 10:17:12,839 INFO       Lay du lieu do rung
+2021-07-10 10:17:12,839 INFO       Lay du lieu tieng on
+2021-07-10 10:17:12,839 ERROR Thoi gian chu trinh vuot qua 100ms
+2021-07-10 10:17:12,885 INFO Chu trinh - 3 - Lay du lieu chieu thuan
+2021-07-10 10:17:12,895 INFO   Lay du lieu - Forward
+2021-07-10 10:17:12,895 INFO       Lay du lieu dong dien
+2021-07-10 10:17:12,895 INFO       Lay du lieu nhap luc
+2021-07-10 10:17:12,895 INFO       Lay du lieu do rung
+2021-07-10 10:17:12,895 INFO       Lay du lieu tieng on
+2021-07-10 10:17:12,954 INFO Chu trinh - 3 - Lay du lieu chieu thuan
+2021-07-10 10:17:13,004 INFO   Lay du lieu - Forward
+2021-07-10 10:17:13,004 INFO       Lay du lieu dong dien
+2021-07-10 10:17:13,004 INFO       Lay du lieu nhap luc
+2021-07-10 10:17:13,004 INFO       Lay du lieu do rung
+2021-07-10 10:17:13,004 INFO       Lay du lieu tieng on
+2021-07-10 10:17:13,094 INFO Chu trinh - 3 - Lay du lieu chieu thuan
+2021-07-10 10:17:13,094 INFO   Lay du lieu - Forward
+2021-07-10 10:17:13,094 INFO       Lay du lieu dong dien
+2021-07-10 10:17:13,094 INFO       Lay du lieu nhap luc
+2021-07-10 10:17:13,094 INFO       Lay du lieu do rung
+2021-07-10 10:17:13,094 INFO       Lay du lieu tieng on
+2021-07-10 10:17:13,094 INFO       Ve do thi du lieu
+2021-07-10 10:17:13,164 INFO Chu trinh - 3 - Lay du lieu chieu thuan
+2021-07-10 10:17:13,209 INFO   Lay du lieu - Forward
+2021-07-10 10:17:13,209 INFO       Lay du lieu dong dien
+2021-07-10 10:17:13,209 INFO       Lay du lieu nhap luc
+2021-07-10 10:17:13,209 INFO       Lay du lieu do rung
+2021-07-10 10:17:13,209 INFO       Lay du lieu tieng on
+2021-07-10 10:17:13,305 INFO Chu trinh - 3 - Lay du lieu chieu thuan
+2021-07-10 10:17:13,314 INFO   Lay du lieu - Forward
+2021-07-10 10:17:13,314 INFO       Lay du lieu dong dien
+2021-07-10 10:17:13,314 INFO       Lay du lieu nhap luc
+2021-07-10 10:17:13,314 INFO       Lay du lieu do rung
+2021-07-10 10:17:13,314 INFO       Lay du lieu tieng on
+2021-07-10 10:17:13,364 INFO Chu trinh - 3 - Lay du lieu chieu thuan
+2021-07-10 10:17:13,364 INFO   Lay du lieu - Forward
+2021-07-10 10:17:13,364 INFO       Lay du lieu dong dien
+2021-07-10 10:17:13,364 INFO       Lay du lieu nhap luc
+2021-07-10 10:17:13,364 INFO       Lay du lieu do rung
+2021-07-10 10:17:13,364 INFO       Lay du lieu tieng on
+2021-07-10 10:17:13,475 INFO Chu trinh - 3 - Lay du lieu chieu thuan
+2021-07-10 10:17:13,524 INFO   Lay du lieu - Forward
+2021-07-10 10:17:13,524 INFO       Lay du lieu dong dien
+2021-07-10 10:17:13,524 INFO       Lay du lieu nhap luc
+2021-07-10 10:17:13,524 INFO       Lay du lieu do rung
+2021-07-10 10:17:13,524 INFO       Lay du lieu tieng on
+2021-07-10 10:17:13,564 INFO Chu trinh - 3 - Lay du lieu chieu thuan
+2021-07-10 10:17:13,564 INFO   Lay du lieu - Forward
+2021-07-10 10:17:13,564 INFO       Lay du lieu dong dien
+2021-07-10 10:17:13,564 INFO       Lay du lieu nhap luc
+2021-07-10 10:17:13,564 INFO       Lay du lieu do rung
+2021-07-10 10:17:13,564 INFO       Lay du lieu tieng on
+2021-07-10 10:17:13,714 INFO Chu trinh - 3 - Lay du lieu chieu thuan
+2021-07-10 10:17:13,724 INFO   Lay du lieu - Forward
+2021-07-10 10:17:13,724 INFO       Lay du lieu dong dien
+2021-07-10 10:17:13,724 INFO       Lay du lieu nhap luc
+2021-07-10 10:17:13,724 INFO       Lay du lieu do rung
+2021-07-10 10:17:13,724 INFO       Lay du lieu tieng on
+2021-07-10 10:17:13,784 INFO Chu trinh - 3 - Lay du lieu chieu thuan
+2021-07-10 10:17:13,834 INFO   Lay du lieu - Forward
+2021-07-10 10:17:13,834 INFO       Lay du lieu dong dien
+2021-07-10 10:17:13,834 INFO       Lay du lieu nhap luc
+2021-07-10 10:17:13,834 INFO       Lay du lieu do rung
+2021-07-10 10:17:13,834 INFO       Lay du lieu tieng on
+2021-07-10 10:17:13,924 INFO Chu trinh - 3 - Lay du lieu chieu thuan
+2021-07-10 10:17:13,929 INFO   Lay du lieu - Forward
+2021-07-10 10:17:13,929 INFO       Lay du lieu dong dien
+2021-07-10 10:17:13,929 INFO       Lay du lieu nhap luc
+2021-07-10 10:17:13,929 INFO       Lay du lieu do rung
+2021-07-10 10:17:13,929 INFO       Lay du lieu tieng on
+2021-07-10 10:17:13,984 INFO Chu trinh - 3 - Lay du lieu chieu thuan
+2021-07-10 10:17:14,029 INFO   Lay du lieu - Forward
+2021-07-10 10:17:14,029 INFO       Lay du lieu dong dien
+2021-07-10 10:17:14,029 INFO       Lay du lieu nhap luc
+2021-07-10 10:17:14,029 INFO       Lay du lieu do rung
+2021-07-10 10:17:14,034 INFO       Lay du lieu tieng on
+2021-07-10 10:17:14,114 INFO Chu trinh - 3 - Lay du lieu chieu thuan
+2021-07-10 10:17:14,124 INFO   Lay du lieu - Forward
+2021-07-10 10:17:14,124 INFO       Lay du lieu dong dien
+2021-07-10 10:17:14,124 INFO       Lay du lieu nhap luc
+2021-07-10 10:17:14,124 INFO       Lay du lieu do rung
+2021-07-10 10:17:14,124 INFO       Lay du lieu tieng on
+2021-07-10 10:17:14,124 INFO       Ve do thi du lieu
+2021-07-10 10:17:14,184 INFO Chu trinh - 3 - Lay du lieu chieu thuan
+2021-07-10 10:17:14,225 INFO   Lay du lieu - Forward
+2021-07-10 10:17:14,225 INFO       Lay du lieu dong dien
+2021-07-10 10:17:14,225 INFO       Lay du lieu nhap luc
+2021-07-10 10:17:14,225 INFO       Lay du lieu do rung
+2021-07-10 10:17:14,225 INFO       Lay du lieu tieng on
+2021-07-10 10:17:14,314 INFO Chu trinh - 3 - Lay du lieu chieu thuan
+2021-07-10 10:17:14,324 INFO   Lay du lieu - Forward
+2021-07-10 10:17:14,324 INFO       Lay du lieu dong dien
+2021-07-10 10:17:14,324 INFO       Lay du lieu nhap luc
+2021-07-10 10:17:14,324 INFO       Lay du lieu do rung
+2021-07-10 10:17:14,324 INFO       Lay du lieu tieng on
+2021-07-10 10:17:14,384 INFO Chu trinh - 3 - Lay du lieu chieu thuan
+2021-07-10 10:17:14,434 INFO   Lay du lieu - Forward
+2021-07-10 10:17:14,434 INFO       Lay du lieu dong dien
+2021-07-10 10:17:14,434 INFO       Lay du lieu nhap luc
+2021-07-10 10:17:14,434 INFO       Lay du lieu do rung
+2021-07-10 10:17:14,434 INFO       Lay du lieu tieng on
+2021-07-10 10:17:14,524 INFO Chu trinh - 3 - Lay du lieu chieu thuan
+2021-07-10 10:17:14,574 INFO   Lay du lieu - Forward
+2021-07-10 10:17:14,574 INFO       Lay du lieu dong dien
+2021-07-10 10:17:14,574 INFO       Lay du lieu nhap luc
+2021-07-10 10:17:14,574 INFO       Lay du lieu do rung
+2021-07-10 10:17:14,574 INFO       Lay du lieu tieng on
+2021-07-10 10:17:14,634 INFO Chu trinh - 3 - Lay du lieu chieu thuan
+2021-07-10 10:17:14,639 INFO   Lay du lieu - Forward
+2021-07-10 10:17:14,639 INFO       Lay du lieu dong dien
+2021-07-10 10:17:14,639 INFO       Lay du lieu nhap luc
+2021-07-10 10:17:14,639 INFO       Lay du lieu do rung
+2021-07-10 10:17:14,639 INFO       Lay du lieu tieng on
+2021-07-10 10:17:14,728 INFO Chu trinh - 3 - Lay du lieu chieu thuan
+2021-07-10 10:17:14,784 INFO   Lay du lieu - Forward
+2021-07-10 10:17:14,784 INFO       Lay du lieu dong dien
+2021-07-10 10:17:14,784 INFO       Lay du lieu nhap luc
+2021-07-10 10:17:14,784 INFO       Lay du lieu do rung
+2021-07-10 10:17:14,784 INFO       Lay du lieu tieng on
+2021-07-10 10:17:14,824 INFO Chu trinh - 3 - Lay du lieu chieu thuan
+2021-07-10 10:17:14,834 INFO   Lay du lieu - Forward
+2021-07-10 10:17:14,834 INFO       Lay du lieu dong dien
+2021-07-10 10:17:14,834 INFO       Lay du lieu nhap luc
+2021-07-10 10:17:14,834 INFO       Lay du lieu do rung
+2021-07-10 10:17:14,834 INFO       Lay du lieu tieng on
+2021-07-10 10:17:14,914 INFO Chu trinh - 3 - Lay du lieu chieu thuan
+2021-07-10 10:17:14,964 INFO   Lay du lieu - Forward
+2021-07-10 10:17:14,964 INFO       Lay du lieu dong dien
+2021-07-10 10:17:14,964 INFO       Lay du lieu nhap luc
+2021-07-10 10:17:14,964 INFO       Lay du lieu do rung
+2021-07-10 10:17:14,964 INFO       Lay du lieu tieng on
+2021-07-10 10:17:15,014 INFO Chu trinh - 3 - Lay du lieu chieu thuan
+2021-07-10 10:17:15,064 INFO   Lay du lieu - Forward
+2021-07-10 10:17:15,064 INFO       Lay du lieu dong dien
+2021-07-10 10:17:15,064 INFO       Lay du lieu nhap luc
+2021-07-10 10:17:15,064 INFO       Lay du lieu do rung
+2021-07-10 10:17:15,064 INFO       Lay du lieu tieng on
+2021-07-10 10:17:15,119 INFO Chu trinh - 3 - Lay du lieu chieu thuan
+2021-07-10 10:17:15,119 INFO   Lay du lieu - Forward
+2021-07-10 10:17:15,119 INFO       Lay du lieu dong dien
+2021-07-10 10:17:15,119 INFO       Lay du lieu nhap luc
+2021-07-10 10:17:15,119 INFO       Lay du lieu do rung
+2021-07-10 10:17:15,119 INFO       Lay du lieu tieng on
+2021-07-10 10:17:15,119 INFO       Ve do thi du lieu
+2021-07-10 10:17:15,234 INFO Chu trinh - 3 - Lay du lieu chieu thuan
+2021-07-10 10:17:15,305 INFO   Lay du lieu - Forward
+2021-07-10 10:17:15,305 INFO       Lay du lieu dong dien
+2021-07-10 10:17:15,305 INFO       Lay du lieu nhap luc
+2021-07-10 10:17:15,305 INFO       Lay du lieu do rung
+2021-07-10 10:17:15,305 INFO       Lay du lieu tieng on
+2021-07-10 10:17:15,322 INFO Chu trinh - 3 - Lay du lieu chieu thuan
+2021-07-10 10:17:15,324 INFO   Lay du lieu - Forward
+2021-07-10 10:17:15,324 INFO       Lay du lieu dong dien
+2021-07-10 10:17:15,324 INFO       Lay du lieu nhap luc
+2021-07-10 10:17:15,324 INFO       Lay du lieu do rung
+2021-07-10 10:17:15,324 INFO       Lay du lieu tieng on
+2021-07-10 10:17:15,444 INFO Chu trinh - 3 - Lay du lieu chieu thuan
+2021-07-10 10:17:15,494 INFO   Lay du lieu - Forward
+2021-07-10 10:17:15,494 INFO       Lay du lieu dong dien
+2021-07-10 10:17:15,494 INFO       Lay du lieu nhap luc
+2021-07-10 10:17:15,494 INFO       Lay du lieu do rung
+2021-07-10 10:17:15,494 INFO       Lay du lieu tieng on
+2021-07-10 10:17:15,534 INFO Chu trinh - 3 - Lay du lieu chieu thuan
+2021-07-10 10:17:15,550 INFO   Lay du lieu - Forward
+2021-07-10 10:17:15,550 INFO       Lay du lieu dong dien
+2021-07-10 10:17:15,550 INFO       Lay du lieu nhap luc
+2021-07-10 10:17:15,550 INFO       Lay du lieu do rung
+2021-07-10 10:17:15,550 INFO       Lay du lieu tieng on
+2021-07-10 10:17:15,664 INFO Chu trinh - 3 - Lay du lieu chieu thuan
+2021-07-10 10:17:15,714 INFO   Lay du lieu - Forward
+2021-07-10 10:17:15,714 INFO       Lay du lieu dong dien
+2021-07-10 10:17:15,714 INFO       Lay du lieu nhap luc
+2021-07-10 10:17:15,714 INFO       Lay du lieu do rung
+2021-07-10 10:17:15,714 INFO       Lay du lieu tieng on
+2021-07-10 10:17:15,754 INFO Chu trinh - 3 - Lay du lieu chieu thuan
+2021-07-10 10:17:15,764 INFO   Lay du lieu - Forward
+2021-07-10 10:17:15,764 INFO       Lay du lieu dong dien
+2021-07-10 10:17:15,764 INFO       Lay du lieu nhap luc
+2021-07-10 10:17:15,764 INFO       Lay du lieu do rung
+2021-07-10 10:17:15,764 INFO       Lay du lieu tieng on
+2021-07-10 10:17:15,864 INFO Chu trinh - 3 - Lay du lieu chieu thuan
+2021-07-10 10:17:15,914 INFO   Lay du lieu - Forward
+2021-07-10 10:17:15,914 INFO       Lay du lieu dong dien
+2021-07-10 10:17:15,914 INFO       Lay du lieu nhap luc
+2021-07-10 10:17:15,914 INFO       Lay du lieu do rung
+2021-07-10 10:17:15,914 INFO       Lay du lieu tieng on
+2021-07-10 10:17:15,959 INFO Chu trinh - 3 - Lay du lieu chieu thuan
+2021-07-10 10:17:15,964 INFO   Lay du lieu - Forward
+2021-07-10 10:17:15,964 INFO       Lay du lieu dong dien
+2021-07-10 10:17:15,964 INFO       Lay du lieu nhap luc
+2021-07-10 10:17:15,964 INFO       Lay du lieu do rung
+2021-07-10 10:17:15,964 INFO       Lay du lieu tieng on
+2021-07-10 10:17:16,069 INFO Chu trinh - 3 - Lay du lieu chieu thuan
+2021-07-10 10:17:16,124 INFO   Lay du lieu - Forward
+2021-07-10 10:17:16,124 INFO       Lay du lieu dong dien
+2021-07-10 10:17:16,124 INFO       Lay du lieu nhap luc
+2021-07-10 10:17:16,124 INFO       Lay du lieu do rung
+2021-07-10 10:17:16,124 INFO       Lay du lieu tieng on
+2021-07-10 10:17:16,164 INFO Chu trinh - 3 - Lay du lieu chieu thuan
+2021-07-10 10:17:16,174 INFO   Lay du lieu - Forward
+2021-07-10 10:17:16,174 INFO       Lay du lieu dong dien
+2021-07-10 10:17:16,174 INFO       Lay du lieu nhap luc
+2021-07-10 10:17:16,174 INFO       Lay du lieu do rung
+2021-07-10 10:17:16,174 INFO       Lay du lieu tieng on
+2021-07-10 10:17:16,174 INFO       Ve do thi du lieu
+2021-07-10 10:17:16,244 INFO Chu trinh - 3 - Lay du lieu chieu thuan
+2021-07-10 10:17:16,284 INFO   Lay du lieu - Forward
+2021-07-10 10:17:16,284 INFO       Lay du lieu dong dien
+2021-07-10 10:17:16,284 INFO       Lay du lieu nhap luc
+2021-07-10 10:17:16,284 INFO       Lay du lieu do rung
+2021-07-10 10:17:16,284 INFO       Lay du lieu tieng on
+2021-07-10 10:17:16,374 INFO Chu trinh - 3 - Lay du lieu chieu thuan
+2021-07-10 10:17:16,384 INFO   Lay du lieu - Forward
+2021-07-10 10:17:16,384 INFO       Lay du lieu dong dien
+2021-07-10 10:17:16,384 INFO       Lay du lieu nhap luc
+2021-07-10 10:17:16,384 INFO       Lay du lieu do rung
+2021-07-10 10:17:16,384 INFO       Lay du lieu tieng on
+2021-07-10 10:17:16,515 INFO Chu trinh - 3 - Lay du lieu chieu thuan
+2021-07-10 10:17:16,644 INFO   Lay du lieu - Forward
+2021-07-10 10:17:16,644 INFO       Lay du lieu dong dien
+2021-07-10 10:17:16,644 INFO       Lay du lieu nhap luc
+2021-07-10 10:17:16,644 INFO       Lay du lieu do rung
+2021-07-10 10:17:16,644 INFO       Lay du lieu tieng on
+2021-07-10 10:17:16,644 ERROR Thoi gian chu trinh vuot qua 100ms
+2021-07-10 10:17:16,685 INFO Chu trinh - 3 - Lay du lieu chieu thuan
+2021-07-10 10:17:16,700 INFO   Lay du lieu - Forward
+2021-07-10 10:17:16,700 INFO       Lay du lieu dong dien
+2021-07-10 10:17:16,700 INFO       Lay du lieu nhap luc
+2021-07-10 10:17:16,700 INFO       Lay du lieu do rung
+2021-07-10 10:17:16,700 INFO       Lay du lieu tieng on
+2021-07-10 10:17:16,744 INFO Chu trinh - 3 - Lay du lieu chieu thuan
+2021-07-10 10:17:16,744 INFO   Lay du lieu - Forward
+2021-07-10 10:17:16,744 INFO       Lay du lieu dong dien
+2021-07-10 10:17:16,744 INFO       Lay du lieu nhap luc
+2021-07-10 10:17:16,744 INFO       Lay du lieu do rung
+2021-07-10 10:17:16,744 INFO       Lay du lieu tieng on
+2021-07-10 10:17:16,854 INFO Chu trinh - 3 - Lay du lieu chieu thuan
+2021-07-10 10:17:16,904 INFO   Lay du lieu - Forward
+2021-07-10 10:17:16,904 INFO       Lay du lieu dong dien
+2021-07-10 10:17:16,904 INFO       Lay du lieu nhap luc
+2021-07-10 10:17:16,904 INFO       Lay du lieu do rung
+2021-07-10 10:17:16,904 INFO       Lay du lieu tieng on
+2021-07-10 10:17:16,944 INFO Chu trinh - 3 - Lay du lieu chieu thuan
+2021-07-10 10:17:16,944 INFO   Lay du lieu - Forward
+2021-07-10 10:17:16,944 INFO       Lay du lieu dong dien
+2021-07-10 10:17:16,944 INFO       Lay du lieu nhap luc
+2021-07-10 10:17:16,944 INFO       Lay du lieu do rung
+2021-07-10 10:17:16,944 INFO       Lay du lieu tieng on
+2021-07-10 10:17:17,074 INFO Chu trinh - 3 - Lay du lieu chieu thuan
+2021-07-10 10:17:17,124 INFO   Lay du lieu - Forward
+2021-07-10 10:17:17,124 INFO       Lay du lieu dong dien
+2021-07-10 10:17:17,124 INFO       Lay du lieu nhap luc
+2021-07-10 10:17:17,124 INFO       Lay du lieu do rung
+2021-07-10 10:17:17,124 INFO       Lay du lieu tieng on
+2021-07-10 10:17:17,144 INFO Chu trinh - 3 - Lay du lieu chieu thuan
+2021-07-10 10:17:17,144 INFO   Lay du lieu - Forward
+2021-07-10 10:17:17,144 INFO       Lay du lieu dong dien
+2021-07-10 10:17:17,144 INFO       Lay du lieu nhap luc
+2021-07-10 10:17:17,144 INFO       Lay du lieu do rung
+2021-07-10 10:17:17,144 INFO       Lay du lieu tieng on
+2021-07-10 10:17:17,274 INFO Chu trinh - 3 - Lay du lieu chieu thuan
+2021-07-10 10:17:17,324 INFO   Lay du lieu - Forward
+2021-07-10 10:17:17,324 INFO       Lay du lieu dong dien
+2021-07-10 10:17:17,324 INFO       Lay du lieu nhap luc
+2021-07-10 10:17:17,324 INFO       Lay du lieu do rung
+2021-07-10 10:17:17,324 INFO       Lay du lieu tieng on
+2021-07-10 10:17:17,324 INFO       Ve do thi du lieu
+2021-07-10 10:17:17,344 INFO Chu trinh - 3 - Lay du lieu chieu thuan
+2021-07-10 10:17:17,356 INFO   Lay du lieu - Forward
+2021-07-10 10:17:17,356 INFO       Lay du lieu dong dien
+2021-07-10 10:17:17,356 INFO       Lay du lieu nhap luc
+2021-07-10 10:17:17,356 INFO       Lay du lieu do rung
+2021-07-10 10:17:17,356 INFO       Lay du lieu tieng on
+2021-07-10 10:17:17,453 INFO Chu trinh - 3 - Lay du lieu chieu thuan
+2021-07-10 10:17:17,513 INFO   Lay du lieu - Forward
+2021-07-10 10:17:17,513 INFO       Lay du lieu dong dien
+2021-07-10 10:17:17,513 INFO       Lay du lieu nhap luc
+2021-07-10 10:17:17,513 INFO       Lay du lieu do rung
+2021-07-10 10:17:17,513 INFO       Lay du lieu tieng on
+2021-07-10 10:17:17,554 INFO Chu trinh - 3 - Lay du lieu chieu thuan
+2021-07-10 10:17:17,574 INFO   Lay du lieu - Forward
+2021-07-10 10:17:17,574 INFO       Lay du lieu dong dien
+2021-07-10 10:17:17,574 INFO       Lay du lieu nhap luc
+2021-07-10 10:17:17,574 INFO       Lay du lieu do rung
+2021-07-10 10:17:17,574 INFO       Lay du lieu tieng on
+2021-07-10 10:17:17,673 INFO Chu trinh - 3 - Lay du lieu chieu thuan
+2021-07-10 10:17:17,724 INFO   Lay du lieu - Forward
+2021-07-10 10:17:17,724 INFO       Lay du lieu dong dien
+2021-07-10 10:17:17,724 INFO       Lay du lieu nhap luc
+2021-07-10 10:17:17,724 INFO       Lay du lieu do rung
+2021-07-10 10:17:17,724 INFO       Lay du lieu tieng on
+2021-07-10 10:17:17,764 INFO Chu trinh - 3 - Lay du lieu chieu thuan
+2021-07-10 10:17:17,774 INFO   Lay du lieu - Forward
+2021-07-10 10:17:17,774 INFO       Lay du lieu dong dien
+2021-07-10 10:17:17,774 INFO       Lay du lieu nhap luc
+2021-07-10 10:17:17,774 INFO       Lay du lieu do rung
+2021-07-10 10:17:17,774 INFO       Lay du lieu tieng on
+2021-07-10 10:17:17,873 INFO Chu trinh - 3 - Lay du lieu chieu thuan
+2021-07-10 10:17:17,923 INFO   Lay du lieu - Forward
+2021-07-10 10:17:17,923 INFO       Lay du lieu dong dien
+2021-07-10 10:17:17,923 INFO       Lay du lieu nhap luc
+2021-07-10 10:17:17,923 INFO       Lay du lieu do rung
+2021-07-10 10:17:17,923 INFO       Lay du lieu tieng on
+2021-07-10 10:17:17,964 INFO Chu trinh - 3 - Lay du lieu chieu thuan
+2021-07-10 10:17:17,974 INFO   Lay du lieu - Forward
+2021-07-10 10:17:17,974 INFO       Lay du lieu dong dien
+2021-07-10 10:17:17,974 INFO       Lay du lieu nhap luc
+2021-07-10 10:17:17,974 INFO       Lay du lieu do rung
+2021-07-10 10:17:17,974 INFO       Lay du lieu tieng on
+2021-07-10 10:17:18,074 INFO Chu trinh - 3 - Lay du lieu chieu thuan
+2021-07-10 10:17:18,124 INFO   Lay du lieu - Forward
+2021-07-10 10:17:18,124 INFO       Lay du lieu dong dien
+2021-07-10 10:17:18,124 INFO       Lay du lieu nhap luc
+2021-07-10 10:17:18,124 INFO       Lay du lieu do rung
+2021-07-10 10:17:18,124 INFO       Lay du lieu tieng on
+2021-07-10 10:17:18,173 INFO Chu trinh - 3 - Lay du lieu chieu thuan
+2021-07-10 10:17:18,178 INFO   Lay du lieu - Forward
+2021-07-10 10:17:18,178 INFO       Lay du lieu dong dien
+2021-07-10 10:17:18,178 INFO       Lay du lieu nhap luc
+2021-07-10 10:17:18,178 INFO       Lay du lieu do rung
+2021-07-10 10:17:18,178 INFO       Lay du lieu tieng on
+2021-07-10 10:17:18,279 INFO Chu trinh - 3 - Lay du lieu chieu thuan
+2021-07-10 10:17:18,424 INFO   Lay du lieu - Forward
+2021-07-10 10:17:18,424 INFO       Lay du lieu dong dien
+2021-07-10 10:17:18,424 INFO       Lay du lieu nhap luc
+2021-07-10 10:17:18,424 INFO       Lay du lieu do rung
+2021-07-10 10:17:18,424 INFO       Lay du lieu tieng on
+2021-07-10 10:17:18,424 INFO       Ve do thi du lieu
+2021-07-10 10:17:18,424 ERROR Thoi gian chu trinh vuot qua 100ms
+2021-07-10 10:17:18,463 INFO Chu trinh - 3 - Lay du lieu chieu thuan
+2021-07-10 10:17:18,478 INFO   Lay du lieu - Forward
+2021-07-10 10:17:18,478 INFO       Lay du lieu dong dien
+2021-07-10 10:17:18,478 INFO       Lay du lieu nhap luc
+2021-07-10 10:17:18,478 INFO       Lay du lieu do rung
+2021-07-10 10:17:18,478 INFO       Lay du lieu tieng on
+2021-07-10 10:17:18,520 INFO Chu trinh - 3 - Lay du lieu chieu thuan
+2021-07-10 10:17:18,583 INFO   Lay du lieu - Forward
+2021-07-10 10:17:18,583 INFO       Lay du lieu dong dien
+2021-07-10 10:17:18,583 INFO       Lay du lieu nhap luc
+2021-07-10 10:17:18,583 INFO       Lay du lieu do rung
+2021-07-10 10:17:18,583 INFO       Lay du lieu tieng on
+2021-07-10 10:17:18,674 INFO Chu trinh - 3 - Lay du lieu chieu thuan
+2021-07-10 10:17:18,683 INFO   Lay du lieu - Forward
+2021-07-10 10:17:18,683 INFO       Lay du lieu dong dien
+2021-07-10 10:17:18,683 INFO       Lay du lieu nhap luc
+2021-07-10 10:17:18,683 INFO       Lay du lieu do rung
+2021-07-10 10:17:18,683 INFO       Lay du lieu tieng on
+2021-07-10 10:17:18,734 INFO Chu trinh - 3 - Lay du lieu chieu thuan
+2021-07-10 10:17:18,744 INFO   Lay du lieu - Forward
+2021-07-10 10:17:18,744 INFO       Lay du lieu dong dien
+2021-07-10 10:17:18,744 INFO       Lay du lieu nhap luc
+2021-07-10 10:17:18,744 INFO       Lay du lieu do rung
+2021-07-10 10:17:18,744 INFO       Lay du lieu tieng on
+2021-07-10 10:17:18,844 INFO Chu trinh - 3 - Lay du lieu chieu thuan
+2021-07-10 10:17:18,893 INFO   Lay du lieu - Forward
+2021-07-10 10:17:18,893 INFO       Lay du lieu dong dien
+2021-07-10 10:17:18,893 INFO       Lay du lieu nhap luc
+2021-07-10 10:17:18,893 INFO       Lay du lieu do rung
+2021-07-10 10:17:18,893 INFO       Lay du lieu tieng on
+2021-07-10 10:17:18,934 INFO Chu trinh - 3 - Lay du lieu chieu thuan
+2021-07-10 10:17:18,934 INFO   Lay du lieu - Forward
+2021-07-10 10:17:18,934 INFO       Lay du lieu dong dien
+2021-07-10 10:17:18,934 INFO       Lay du lieu nhap luc
+2021-07-10 10:17:18,934 INFO       Lay du lieu do rung
+2021-07-10 10:17:18,934 INFO       Lay du lieu tieng on
+2021-07-10 10:17:19,044 INFO Chu trinh - 3 - Lay du lieu chieu thuan
+2021-07-10 10:17:19,094 INFO   Lay du lieu - Forward
+2021-07-10 10:17:19,094 INFO       Lay du lieu dong dien
+2021-07-10 10:17:19,094 INFO       Lay du lieu nhap luc
+2021-07-10 10:17:19,094 INFO       Lay du lieu do rung
+2021-07-10 10:17:19,094 INFO       Lay du lieu tieng on
+2021-07-10 10:17:19,133 INFO Chu trinh - 3 - Lay du lieu chieu thuan
+2021-07-10 10:17:19,133 INFO   Lay du lieu - Forward
+2021-07-10 10:17:19,133 INFO       Lay du lieu dong dien
+2021-07-10 10:17:19,133 INFO       Lay du lieu nhap luc
+2021-07-10 10:17:19,133 INFO       Lay du lieu do rung
+2021-07-10 10:17:19,133 INFO       Lay du lieu tieng on
+2021-07-10 10:17:19,264 INFO Chu trinh - 3 - Lay du lieu chieu thuan
+2021-07-10 10:17:19,314 INFO   Lay du lieu - Forward
+2021-07-10 10:17:19,314 INFO       Lay du lieu dong dien
+2021-07-10 10:17:19,314 INFO       Lay du lieu nhap luc
+2021-07-10 10:17:19,314 INFO       Lay du lieu do rung
+2021-07-10 10:17:19,314 INFO       Lay du lieu tieng on
+2021-07-10 10:17:19,343 INFO Chu trinh - 3 - Lay du lieu chieu thuan
+2021-07-10 10:17:19,343 INFO   Lay du lieu - Forward
+2021-07-10 10:17:19,343 INFO       Lay du lieu dong dien
+2021-07-10 10:17:19,343 INFO       Lay du lieu nhap luc
+2021-07-10 10:17:19,343 INFO       Lay du lieu do rung
+2021-07-10 10:17:19,343 INFO       Lay du lieu tieng on
+2021-07-10 10:17:19,343 INFO       Ve do thi du lieu
+2021-07-10 10:17:19,439 INFO Chu trinh - 3 - Lay du lieu chieu thuan
+2021-07-10 10:17:19,493 INFO   Lay du lieu - Forward
+2021-07-10 10:17:19,493 INFO       Lay du lieu dong dien
+2021-07-10 10:17:19,493 INFO       Lay du lieu nhap luc
+2021-07-10 10:17:19,493 INFO       Lay du lieu do rung
+2021-07-10 10:17:19,493 INFO       Lay du lieu tieng on
+2021-07-10 10:17:19,553 INFO Chu trinh - 3 - Lay du lieu chieu thuan
+2021-07-10 10:17:19,553 INFO   Lay du lieu - Forward
+2021-07-10 10:17:19,553 INFO       Lay du lieu dong dien
+2021-07-10 10:17:19,553 INFO       Lay du lieu nhap luc
+2021-07-10 10:17:19,553 INFO       Lay du lieu do rung
+2021-07-10 10:17:19,553 INFO       Lay du lieu tieng on
+2021-07-10 10:17:19,654 INFO Chu trinh - 3 - Lay du lieu chieu thuan
+2021-07-10 10:17:19,703 INFO   Lay du lieu - Forward
+2021-07-10 10:17:19,703 INFO       Lay du lieu dong dien
+2021-07-10 10:17:19,703 INFO       Lay du lieu nhap luc
+2021-07-10 10:17:19,703 INFO       Lay du lieu do rung
+2021-07-10 10:17:19,703 INFO       Lay du lieu tieng on
+2021-07-10 10:17:19,753 INFO Chu trinh - 3 - Lay du lieu chieu thuan
+2021-07-10 10:17:19,753 INFO   Lay du lieu - Forward
+2021-07-10 10:17:19,753 INFO       Lay du lieu dong dien
+2021-07-10 10:17:19,753 INFO       Lay du lieu nhap luc
+2021-07-10 10:17:19,753 INFO       Lay du lieu do rung
+2021-07-10 10:17:19,753 INFO       Lay du lieu tieng on
+2021-07-10 10:17:19,853 INFO Chu trinh - 3 - Lay du lieu chieu thuan
+2021-07-10 10:17:19,913 INFO   Lay du lieu - Forward
+2021-07-10 10:17:19,913 INFO       Lay du lieu dong dien
+2021-07-10 10:17:19,913 INFO       Lay du lieu nhap luc
+2021-07-10 10:17:19,913 INFO       Lay du lieu do rung
+2021-07-10 10:17:19,913 INFO       Lay du lieu tieng on
+2021-07-10 10:17:19,953 INFO Chu trinh - 3 - Lay du lieu chieu thuan
+2021-07-10 10:17:19,963 INFO   Lay du lieu - Forward
+2021-07-10 10:17:19,963 INFO       Lay du lieu dong dien
+2021-07-10 10:17:19,963 INFO       Lay du lieu nhap luc
+2021-07-10 10:17:19,963 INFO       Lay du lieu do rung
+2021-07-10 10:17:19,963 INFO       Lay du lieu tieng on
+2021-07-10 10:17:20,073 INFO Chu trinh - 3 - Lay du lieu chieu thuan
+2021-07-10 10:17:20,123 INFO   Lay du lieu - Forward
+2021-07-10 10:17:20,123 INFO       Lay du lieu dong dien
+2021-07-10 10:17:20,123 INFO       Lay du lieu nhap luc
+2021-07-10 10:17:20,123 INFO       Lay du lieu do rung
+2021-07-10 10:17:20,123 INFO       Lay du lieu tieng on
+2021-07-10 10:17:20,173 INFO Chu trinh - 3 - Lay du lieu chieu thuan
+2021-07-10 10:17:20,173 INFO   Lay du lieu - Forward
+2021-07-10 10:17:20,173 INFO       Lay du lieu dong dien
+2021-07-10 10:17:20,173 INFO       Lay du lieu nhap luc
+2021-07-10 10:17:20,173 INFO       Lay du lieu do rung
+2021-07-10 10:17:20,173 INFO       Lay du lieu tieng on
+2021-07-10 10:17:20,324 INFO Chu trinh - 3 - Lay du lieu chieu thuan
+2021-07-10 10:17:20,463 INFO   Lay du lieu - Forward
+2021-07-10 10:17:20,463 INFO       Lay du lieu dong dien
+2021-07-10 10:17:20,463 INFO       Lay du lieu nhap luc
+2021-07-10 10:17:20,463 INFO       Lay du lieu do rung
+2021-07-10 10:17:20,463 INFO       Lay du lieu tieng on
+2021-07-10 10:17:20,463 ERROR Thoi gian chu trinh vuot qua 100ms
+2021-07-10 10:17:20,463 INFO Chu trinh - 3 - Lay du lieu chieu thuan
+2021-07-10 10:17:20,473 INFO   Lay du lieu - Forward
+2021-07-10 10:17:20,473 INFO       Lay du lieu dong dien
+2021-07-10 10:17:20,473 INFO       Lay du lieu nhap luc
+2021-07-10 10:17:20,473 INFO       Lay du lieu do rung
+2021-07-10 10:17:20,473 INFO       Lay du lieu tieng on
+2021-07-10 10:17:20,473 INFO       Ve do thi du lieu
+2021-07-10 10:17:20,581 INFO Chu trinh - 3 - Lay du lieu chieu thuan
+2021-07-10 10:17:20,624 INFO   Lay du lieu - Forward
+2021-07-10 10:17:20,624 INFO       Lay du lieu dong dien
+2021-07-10 10:17:20,624 INFO       Lay du lieu nhap luc
+2021-07-10 10:17:20,624 INFO       Lay du lieu do rung
+2021-07-10 10:17:20,624 INFO       Lay du lieu tieng on
+2021-07-10 10:17:21,563 ERROR Thoi gian chu trinh vuot qua 100ms
+2021-07-10 10:17:21,563 INFO Chu trinh - 9 - Ghi du lieu am thanh chieu thuan
+2021-07-10 10:17:21,623 INFO Chu trinh - 11 - Doi du lieu bat dau chieu nghich
+2021-07-10 10:17:22,683 ERROR Thoi gian chu trinh vuot qua 100ms
+2021-07-10 10:17:24,232 ERROR Thoi gian chu trinh vuot qua 100ms
+2021-07-10 10:17:28,702 ERROR Thoi gian chu trinh vuot qua 100ms
+2021-07-10 10:17:28,742 INFO Chu trinh - 13 - Lay du lieu chieu nghich
+2021-07-10 10:17:28,742 INFO   Lay du lieu - Backward
+2021-07-10 10:17:28,742 INFO       Lay du lieu dong dien
+2021-07-10 10:17:28,742 INFO       Lay du lieu nhap luc
+2021-07-10 10:17:28,742 INFO       Lay du lieu do rung
+2021-07-10 10:17:28,742 INFO       Lay du lieu tieng on
+2021-07-10 10:17:28,742 INFO       Ve do thi du lieu
+2021-07-10 10:17:28,811 INFO Chu trinh - 13 - Lay du lieu chieu nghich
+2021-07-10 10:17:28,811 INFO   Lay du lieu - Backward
+2021-07-10 10:17:28,811 INFO       Lay du lieu dong dien
+2021-07-10 10:17:28,811 INFO       Lay du lieu nhap luc
+2021-07-10 10:17:28,811 INFO       Lay du lieu do rung
+2021-07-10 10:17:28,811 INFO       Lay du lieu tieng on
+2021-07-10 10:17:28,992 INFO Chu trinh - 13 - Lay du lieu chieu nghich
+2021-07-10 10:17:28,992 INFO   Lay du lieu - Backward
+2021-07-10 10:17:28,992 INFO       Lay du lieu dong dien
+2021-07-10 10:17:28,992 INFO       Lay du lieu nhap luc
+2021-07-10 10:17:28,992 INFO       Lay du lieu do rung
+2021-07-10 10:17:28,992 INFO       Lay du lieu tieng on
+2021-07-10 10:17:29,013 INFO Chu trinh - 13 - Lay du lieu chieu nghich
+2021-07-10 10:17:29,013 INFO   Lay du lieu - Backward
+2021-07-10 10:17:29,013 INFO       Lay du lieu dong dien
+2021-07-10 10:17:29,013 INFO       Lay du lieu nhap luc
+2021-07-10 10:17:29,013 INFO       Lay du lieu do rung
+2021-07-10 10:17:29,013 INFO       Lay du lieu tieng on
+2021-07-10 10:17:29,182 INFO Chu trinh - 13 - Lay du lieu chieu nghich
+2021-07-10 10:17:29,182 INFO   Lay du lieu - Backward
+2021-07-10 10:17:29,182 INFO       Lay du lieu dong dien
+2021-07-10 10:17:29,182 INFO       Lay du lieu nhap luc
+2021-07-10 10:17:29,182 INFO       Lay du lieu do rung
+2021-07-10 10:17:29,182 INFO       Lay du lieu tieng on
+2021-07-10 10:17:29,213 INFO Chu trinh - 13 - Lay du lieu chieu nghich
+2021-07-10 10:17:29,213 INFO   Lay du lieu - Backward
+2021-07-10 10:17:29,213 INFO       Lay du lieu dong dien
+2021-07-10 10:17:29,213 INFO       Lay du lieu nhap luc
+2021-07-10 10:17:29,213 INFO       Lay du lieu do rung
+2021-07-10 10:17:29,213 INFO       Lay du lieu tieng on
+2021-07-10 10:17:29,387 INFO Chu trinh - 13 - Lay du lieu chieu nghich
+2021-07-10 10:17:29,387 INFO   Lay du lieu - Backward
+2021-07-10 10:17:29,387 INFO       Lay du lieu dong dien
+2021-07-10 10:17:29,387 INFO       Lay du lieu nhap luc
+2021-07-10 10:17:29,387 INFO       Lay du lieu do rung
+2021-07-10 10:17:29,387 INFO       Lay du lieu tieng on
+2021-07-10 10:17:29,413 INFO Chu trinh - 13 - Lay du lieu chieu nghich
+2021-07-10 10:17:29,413 INFO   Lay du lieu - Backward
+2021-07-10 10:17:29,413 INFO       Lay du lieu dong dien
+2021-07-10 10:17:29,413 INFO       Lay du lieu nhap luc
+2021-07-10 10:17:29,413 INFO       Lay du lieu do rung
+2021-07-10 10:17:29,413 INFO       Lay du lieu tieng on
+2021-07-10 10:17:29,582 INFO Chu trinh - 13 - Lay du lieu chieu nghich
+2021-07-10 10:17:29,582 INFO   Lay du lieu - Backward
+2021-07-10 10:17:29,582 INFO       Lay du lieu dong dien
+2021-07-10 10:17:29,582 INFO       Lay du lieu nhap luc
+2021-07-10 10:17:29,582 INFO       Lay du lieu do rung
+2021-07-10 10:17:29,582 INFO       Lay du lieu tieng on
+2021-07-10 10:17:29,582 INFO       Ve do thi du lieu
+2021-07-10 10:17:29,614 INFO Chu trinh - 13 - Lay du lieu chieu nghich
+2021-07-10 10:17:29,614 INFO   Lay du lieu - Backward
+2021-07-10 10:17:29,614 INFO       Lay du lieu dong dien
+2021-07-10 10:17:29,614 INFO       Lay du lieu nhap luc
+2021-07-10 10:17:29,614 INFO       Lay du lieu do rung
+2021-07-10 10:17:29,614 INFO       Lay du lieu tieng on
+2021-07-10 10:17:29,891 INFO Chu trinh - 13 - Lay du lieu chieu nghich
+2021-07-10 10:17:29,891 INFO   Lay du lieu - Backward
+2021-07-10 10:17:29,891 INFO       Lay du lieu dong dien
+2021-07-10 10:17:29,891 INFO       Lay du lieu nhap luc
+2021-07-10 10:17:29,891 INFO       Lay du lieu do rung
+2021-07-10 10:17:29,891 INFO       Lay du lieu tieng on
+2021-07-10 10:17:29,891 ERROR Thoi gian chu trinh vuot qua 100ms
+2021-07-10 10:17:29,914 INFO Chu trinh - 13 - Lay du lieu chieu nghich
+2021-07-10 10:17:29,914 INFO   Lay du lieu - Backward
+2021-07-10 10:17:29,914 INFO       Lay du lieu dong dien
+2021-07-10 10:17:29,914 INFO       Lay du lieu nhap luc
+2021-07-10 10:17:29,914 INFO       Lay du lieu do rung
+2021-07-10 10:17:29,914 INFO       Lay du lieu tieng on
+2021-07-10 10:17:30,082 INFO Chu trinh - 13 - Lay du lieu chieu nghich
+2021-07-10 10:17:30,082 INFO   Lay du lieu - Backward
+2021-07-10 10:17:30,082 INFO       Lay du lieu dong dien
+2021-07-10 10:17:30,082 INFO       Lay du lieu nhap luc
+2021-07-10 10:17:30,082 INFO       Lay du lieu do rung
+2021-07-10 10:17:30,082 INFO       Lay du lieu tieng on
+2021-07-10 10:17:30,131 INFO Chu trinh - 13 - Lay du lieu chieu nghich
+2021-07-10 10:17:30,131 INFO   Lay du lieu - Backward
+2021-07-10 10:17:30,131 INFO       Lay du lieu dong dien
+2021-07-10 10:17:30,131 INFO       Lay du lieu nhap luc
+2021-07-10 10:17:30,131 INFO       Lay du lieu do rung
+2021-07-10 10:17:30,131 INFO       Lay du lieu tieng on
+2021-07-10 10:17:30,251 INFO Chu trinh - 13 - Lay du lieu chieu nghich
+2021-07-10 10:17:30,251 INFO   Lay du lieu - Backward
+2021-07-10 10:17:30,251 INFO       Lay du lieu dong dien
+2021-07-10 10:17:30,251 INFO       Lay du lieu nhap luc
+2021-07-10 10:17:30,251 INFO       Lay du lieu do rung
+2021-07-10 10:17:30,251 INFO       Lay du lieu tieng on
+2021-07-10 10:17:30,341 INFO Chu trinh - 13 - Lay du lieu chieu nghich
+2021-07-10 10:17:30,341 INFO   Lay du lieu - Backward
+2021-07-10 10:17:30,341 INFO       Lay du lieu dong dien
+2021-07-10 10:17:30,341 INFO       Lay du lieu nhap luc
+2021-07-10 10:17:30,341 INFO       Lay du lieu do rung
+2021-07-10 10:17:30,341 INFO       Lay du lieu tieng on
+2021-07-10 10:17:30,401 INFO Chu trinh - 13 - Lay du lieu chieu nghich
+2021-07-10 10:17:30,401 INFO   Lay du lieu - Backward
+2021-07-10 10:17:30,401 INFO       Lay du lieu dong dien
+2021-07-10 10:17:30,401 INFO       Lay du lieu nhap luc
+2021-07-10 10:17:30,401 INFO       Lay du lieu do rung
+2021-07-10 10:17:30,401 INFO       Lay du lieu tieng on
+2021-07-10 10:17:30,561 INFO Chu trinh - 13 - Lay du lieu chieu nghich
+2021-07-10 10:17:30,561 INFO   Lay du lieu - Backward
+2021-07-10 10:17:30,561 INFO       Lay du lieu dong dien
+2021-07-10 10:17:30,561 INFO       Lay du lieu nhap luc
+2021-07-10 10:17:30,561 INFO       Lay du lieu do rung
+2021-07-10 10:17:30,561 INFO       Lay du lieu tieng on
+2021-07-10 10:17:30,621 INFO Chu trinh - 13 - Lay du lieu chieu nghich
+2021-07-10 10:17:30,621 INFO   Lay du lieu - Backward
+2021-07-10 10:17:30,621 INFO       Lay du lieu dong dien
+2021-07-10 10:17:30,621 INFO       Lay du lieu nhap luc
+2021-07-10 10:17:30,621 INFO       Lay du lieu do rung
+2021-07-10 10:17:30,621 INFO       Lay du lieu tieng on
+2021-07-10 10:17:30,621 INFO       Ve do thi du lieu
+2021-07-10 10:17:30,803 INFO Chu trinh - 13 - Lay du lieu chieu nghich
+2021-07-10 10:17:30,803 INFO   Lay du lieu - Backward
+2021-07-10 10:17:30,803 INFO       Lay du lieu dong dien
+2021-07-10 10:17:30,803 INFO       Lay du lieu nhap luc
+2021-07-10 10:17:30,803 INFO       Lay du lieu do rung
+2021-07-10 10:17:30,803 INFO       Lay du lieu tieng on
+2021-07-10 10:17:30,818 INFO Chu trinh - 13 - Lay du lieu chieu nghich
+2021-07-10 10:17:30,818 INFO   Lay du lieu - Backward
+2021-07-10 10:17:30,818 INFO       Lay du lieu dong dien
+2021-07-10 10:17:30,818 INFO       Lay du lieu nhap luc
+2021-07-10 10:17:30,818 INFO       Lay du lieu do rung
+2021-07-10 10:17:30,818 INFO       Lay du lieu tieng on
+2021-07-10 10:17:30,992 INFO Chu trinh - 13 - Lay du lieu chieu nghich
+2021-07-10 10:17:30,992 INFO   Lay du lieu - Backward
+2021-07-10 10:17:30,992 INFO       Lay du lieu dong dien
+2021-07-10 10:17:30,992 INFO       Lay du lieu nhap luc
+2021-07-10 10:17:30,992 INFO       Lay du lieu do rung
+2021-07-10 10:17:30,992 INFO       Lay du lieu tieng on
+2021-07-10 10:17:31,022 INFO Chu trinh - 13 - Lay du lieu chieu nghich
+2021-07-10 10:17:31,022 INFO   Lay du lieu - Backward
+2021-07-10 10:17:31,022 INFO       Lay du lieu dong dien
+2021-07-10 10:17:31,022 INFO       Lay du lieu nhap luc
+2021-07-10 10:17:31,022 INFO       Lay du lieu do rung
+2021-07-10 10:17:31,022 INFO       Lay du lieu tieng on
+2021-07-10 10:17:31,191 INFO Chu trinh - 13 - Lay du lieu chieu nghich
+2021-07-10 10:17:31,191 INFO   Lay du lieu - Backward
+2021-07-10 10:17:31,191 INFO       Lay du lieu dong dien
+2021-07-10 10:17:31,191 INFO       Lay du lieu nhap luc
+2021-07-10 10:17:31,191 INFO       Lay du lieu do rung
+2021-07-10 10:17:31,191 INFO       Lay du lieu tieng on
+2021-07-10 10:17:31,217 INFO Chu trinh - 13 - Lay du lieu chieu nghich
+2021-07-10 10:17:31,217 INFO   Lay du lieu - Backward
+2021-07-10 10:17:31,217 INFO       Lay du lieu dong dien
+2021-07-10 10:17:31,217 INFO       Lay du lieu nhap luc
+2021-07-10 10:17:31,217 INFO       Lay du lieu do rung
+2021-07-10 10:17:31,217 INFO       Lay du lieu tieng on
+2021-07-10 10:17:31,401 INFO Chu trinh - 13 - Lay du lieu chieu nghich
+2021-07-10 10:17:31,401 INFO   Lay du lieu - Backward
+2021-07-10 10:17:31,401 INFO       Lay du lieu dong dien
+2021-07-10 10:17:31,401 INFO       Lay du lieu nhap luc
+2021-07-10 10:17:31,401 INFO       Lay du lieu do rung
+2021-07-10 10:17:31,401 INFO       Lay du lieu tieng on
+2021-07-10 10:17:31,421 INFO Chu trinh - 13 - Lay du lieu chieu nghich
+2021-07-10 10:17:31,421 INFO   Lay du lieu - Backward
+2021-07-10 10:17:31,421 INFO       Lay du lieu dong dien
+2021-07-10 10:17:31,421 INFO       Lay du lieu nhap luc
+2021-07-10 10:17:31,421 INFO       Lay du lieu do rung
+2021-07-10 10:17:31,421 INFO       Lay du lieu tieng on
+2021-07-10 10:17:31,601 INFO Chu trinh - 13 - Lay du lieu chieu nghich
+2021-07-10 10:17:31,601 INFO   Lay du lieu - Backward
+2021-07-10 10:17:31,601 INFO       Lay du lieu dong dien
+2021-07-10 10:17:31,601 INFO       Lay du lieu nhap luc
+2021-07-10 10:17:31,601 INFO       Lay du lieu do rung
+2021-07-10 10:17:31,601 INFO       Lay du lieu tieng on
+2021-07-10 10:17:31,766 INFO Chu trinh - 13 - Lay du lieu chieu nghich
+2021-07-10 10:17:31,766 INFO   Lay du lieu - Backward
+2021-07-10 10:17:31,766 INFO       Lay du lieu dong dien
+2021-07-10 10:17:31,766 INFO       Lay du lieu nhap luc
+2021-07-10 10:17:31,766 INFO       Lay du lieu do rung
+2021-07-10 10:17:31,766 INFO       Lay du lieu tieng on
+2021-07-10 10:17:31,766 INFO       Ve do thi du lieu
+2021-07-10 10:17:31,766 ERROR Thoi gian chu trinh vuot qua 100ms
+2021-07-10 10:17:31,871 INFO Chu trinh - 13 - Lay du lieu chieu nghich
+2021-07-10 10:17:31,871 INFO   Lay du lieu - Backward
+2021-07-10 10:17:31,871 INFO       Lay du lieu dong dien
+2021-07-10 10:17:31,871 INFO       Lay du lieu nhap luc
+2021-07-10 10:17:31,871 INFO       Lay du lieu do rung
+2021-07-10 10:17:31,871 INFO       Lay du lieu tieng on
+2021-07-10 10:17:31,871 ERROR Thoi gian chu trinh vuot qua 100ms
+2021-07-10 10:17:31,883 INFO Chu trinh - 13 - Lay du lieu chieu nghich
+2021-07-10 10:17:31,883 INFO   Lay du lieu - Backward
+2021-07-10 10:17:31,883 INFO       Lay du lieu dong dien
+2021-07-10 10:17:31,883 INFO       Lay du lieu nhap luc
+2021-07-10 10:17:31,883 INFO       Lay du lieu do rung
+2021-07-10 10:17:31,883 INFO       Lay du lieu tieng on
+2021-07-10 10:17:32,031 INFO Chu trinh - 13 - Lay du lieu chieu nghich
+2021-07-10 10:17:32,031 INFO   Lay du lieu - Backward
+2021-07-10 10:17:32,031 INFO       Lay du lieu dong dien
+2021-07-10 10:17:32,031 INFO       Lay du lieu nhap luc
+2021-07-10 10:17:32,031 INFO       Lay du lieu do rung
+2021-07-10 10:17:32,031 INFO       Lay du lieu tieng on
+2021-07-10 10:17:32,106 INFO Chu trinh - 13 - Lay du lieu chieu nghich
+2021-07-10 10:17:32,106 INFO   Lay du lieu - Backward
+2021-07-10 10:17:32,106 INFO       Lay du lieu dong dien
+2021-07-10 10:17:32,106 INFO       Lay du lieu nhap luc
+2021-07-10 10:17:32,106 INFO       Lay du lieu do rung
+2021-07-10 10:17:32,106 INFO       Lay du lieu tieng on
+2021-07-10 10:17:32,301 INFO Chu trinh - 13 - Lay du lieu chieu nghich
+2021-07-10 10:17:32,301 INFO   Lay du lieu - Backward
+2021-07-10 10:17:32,301 INFO       Lay du lieu dong dien
+2021-07-10 10:17:32,301 INFO       Lay du lieu nhap luc
+2021-07-10 10:17:32,301 INFO       Lay du lieu do rung
+2021-07-10 10:17:32,301 INFO       Lay du lieu tieng on
+2021-07-10 10:17:32,321 INFO Chu trinh - 13 - Lay du lieu chieu nghich
+2021-07-10 10:17:32,321 INFO   Lay du lieu - Backward
+2021-07-10 10:17:32,321 INFO       Lay du lieu dong dien
+2021-07-10 10:17:32,321 INFO       Lay du lieu nhap luc
+2021-07-10 10:17:32,321 INFO       Lay du lieu do rung
+2021-07-10 10:17:32,321 INFO       Lay du lieu tieng on
+2021-07-10 10:17:32,501 INFO Chu trinh - 13 - Lay du lieu chieu nghich
+2021-07-10 10:17:32,501 INFO   Lay du lieu - Backward
+2021-07-10 10:17:32,501 INFO       Lay du lieu dong dien
+2021-07-10 10:17:32,501 INFO       Lay du lieu nhap luc
+2021-07-10 10:17:32,501 INFO       Lay du lieu do rung
+2021-07-10 10:17:32,501 INFO       Lay du lieu tieng on
+2021-07-10 10:17:32,521 INFO Chu trinh - 13 - Lay du lieu chieu nghich
+2021-07-10 10:17:32,521 INFO   Lay du lieu - Backward
+2021-07-10 10:17:32,521 INFO       Lay du lieu dong dien
+2021-07-10 10:17:32,521 INFO       Lay du lieu nhap luc
+2021-07-10 10:17:32,521 INFO       Lay du lieu do rung
+2021-07-10 10:17:32,521 INFO       Lay du lieu tieng on
+2021-07-10 10:17:32,701 INFO Chu trinh - 13 - Lay du lieu chieu nghich
+2021-07-10 10:17:32,701 INFO   Lay du lieu - Backward
+2021-07-10 10:17:32,701 INFO       Lay du lieu dong dien
+2021-07-10 10:17:32,701 INFO       Lay du lieu nhap luc
+2021-07-10 10:17:32,701 INFO       Lay du lieu do rung
+2021-07-10 10:17:32,701 INFO       Lay du lieu tieng on
+2021-07-10 10:17:32,721 INFO Chu trinh - 13 - Lay du lieu chieu nghich
+2021-07-10 10:17:32,721 INFO   Lay du lieu - Backward
+2021-07-10 10:17:32,721 INFO       Lay du lieu dong dien
+2021-07-10 10:17:32,721 INFO       Lay du lieu nhap luc
+2021-07-10 10:17:32,721 INFO       Lay du lieu do rung
+2021-07-10 10:17:32,721 INFO       Lay du lieu tieng on
+2021-07-10 10:17:32,721 INFO       Ve do thi du lieu
+2021-07-10 10:17:32,911 INFO Chu trinh - 13 - Lay du lieu chieu nghich
+2021-07-10 10:17:32,911 INFO   Lay du lieu - Backward
+2021-07-10 10:17:32,911 INFO       Lay du lieu dong dien
+2021-07-10 10:17:32,911 INFO       Lay du lieu nhap luc
+2021-07-10 10:17:32,911 INFO       Lay du lieu do rung
+2021-07-10 10:17:32,911 INFO       Lay du lieu tieng on
+2021-07-10 10:17:32,911 ERROR Thoi gian chu trinh vuot qua 100ms
+2021-07-10 10:17:32,911 INFO Chu trinh - 13 - Lay du lieu chieu nghich
+2021-07-10 10:17:32,920 INFO   Lay du lieu - Backward
+2021-07-10 10:17:32,920 INFO       Lay du lieu dong dien
+2021-07-10 10:17:32,920 INFO       Lay du lieu nhap luc
+2021-07-10 10:17:32,920 INFO       Lay du lieu do rung
+2021-07-10 10:17:32,920 INFO       Lay du lieu tieng on
+2021-07-10 10:17:33,071 INFO Chu trinh - 13 - Lay du lieu chieu nghich
+2021-07-10 10:17:33,071 INFO   Lay du lieu - Backward
+2021-07-10 10:17:33,071 INFO       Lay du lieu dong dien
+2021-07-10 10:17:33,071 INFO       Lay du lieu nhap luc
+2021-07-10 10:17:33,071 INFO       Lay du lieu do rung
+2021-07-10 10:17:33,071 INFO       Lay du lieu tieng on
+2021-07-10 10:17:33,121 INFO Chu trinh - 13 - Lay du lieu chieu nghich
+2021-07-10 10:17:33,121 INFO   Lay du lieu - Backward
+2021-07-10 10:17:33,121 INFO       Lay du lieu dong dien
+2021-07-10 10:17:33,121 INFO       Lay du lieu nhap luc
+2021-07-10 10:17:33,121 INFO       Lay du lieu do rung
+2021-07-10 10:17:33,121 INFO       Lay du lieu tieng on
+2021-07-10 10:17:33,291 INFO Chu trinh - 13 - Lay du lieu chieu nghich
+2021-07-10 10:17:33,291 INFO   Lay du lieu - Backward
+2021-07-10 10:17:33,291 INFO       Lay du lieu dong dien
+2021-07-10 10:17:33,291 INFO       Lay du lieu nhap luc
+2021-07-10 10:17:33,291 INFO       Lay du lieu do rung
+2021-07-10 10:17:33,291 INFO       Lay du lieu tieng on
+2021-07-10 10:17:33,341 INFO Chu trinh - 13 - Lay du lieu chieu nghich
+2021-07-10 10:17:33,341 INFO   Lay du lieu - Backward
+2021-07-10 10:17:33,341 INFO       Lay du lieu dong dien
+2021-07-10 10:17:33,341 INFO       Lay du lieu nhap luc
+2021-07-10 10:17:33,341 INFO       Lay du lieu do rung
+2021-07-10 10:17:33,341 INFO       Lay du lieu tieng on
+2021-07-10 10:17:33,591 INFO Chu trinh - 13 - Lay du lieu chieu nghich
+2021-07-10 10:17:33,591 INFO   Lay du lieu - Backward
+2021-07-10 10:17:33,591 INFO       Lay du lieu dong dien
+2021-07-10 10:17:33,591 INFO       Lay du lieu nhap luc
+2021-07-10 10:17:33,591 INFO       Lay du lieu do rung
+2021-07-10 10:17:33,591 INFO       Lay du lieu tieng on
+2021-07-10 10:17:33,591 ERROR Thoi gian chu trinh vuot qua 100ms
+2021-07-10 10:17:33,681 INFO Chu trinh - 13 - Lay du lieu chieu nghich
+2021-07-10 10:17:33,681 INFO   Lay du lieu - Backward
+2021-07-10 10:17:33,681 INFO       Lay du lieu dong dien
+2021-07-10 10:17:33,681 INFO       Lay du lieu nhap luc
+2021-07-10 10:17:33,681 INFO       Lay du lieu do rung
+2021-07-10 10:17:33,681 INFO       Lay du lieu tieng on
+2021-07-10 10:17:33,701 INFO Chu trinh - 0 - Khoi tao + Doi tin hieu bat dau chay
+2021-07-10 10:17:34,201 INFO Chu trinh - 0 - Khoi tao + Doi tin hieu bat dau chay
+2021-07-10 10:17:40,260 ERROR Thoi gian chu trinh vuot qua 100ms
+2021-07-10 10:17:40,260 INFO Chu trinh - 3 - Lay du lieu chieu thuan
+2021-07-10 10:17:40,270 INFO   Lay du lieu - Forward
+2021-07-10 10:17:40,270 INFO       Lay du lieu dong dien
+2021-07-10 10:17:40,270 INFO       Lay du lieu nhap luc
+2021-07-10 10:17:40,270 INFO       Lay du lieu do rung
+2021-07-10 10:17:40,270 INFO       Lay du lieu tieng on
+2021-07-10 10:17:40,270 INFO       Ve do thi du lieu
+2021-07-10 10:17:40,374 INFO Chu trinh - 3 - Lay du lieu chieu thuan
+2021-07-10 10:17:40,423 INFO   Lay du lieu - Forward
+2021-07-10 10:17:40,423 INFO       Lay du lieu dong dien
+2021-07-10 10:17:40,423 INFO       Lay du lieu nhap luc
+2021-07-10 10:17:40,423 INFO       Lay du lieu do rung
+2021-07-10 10:17:40,423 INFO       Lay du lieu tieng on
+2021-07-10 10:17:40,480 INFO Chu trinh - 3 - Lay du lieu chieu thuan
+2021-07-10 10:17:40,480 INFO   Lay du lieu - Forward
+2021-07-10 10:17:40,480 INFO       Lay du lieu dong dien
+2021-07-10 10:17:40,480 INFO       Lay du lieu nhap luc
+2021-07-10 10:17:40,480 INFO       Lay du lieu do rung
+2021-07-10 10:17:40,480 INFO       Lay du lieu tieng on
+2021-07-10 10:17:40,580 INFO Chu trinh - 3 - Lay du lieu chieu thuan
+2021-07-10 10:17:40,629 INFO   Lay du lieu - Forward
+2021-07-10 10:17:40,629 INFO       Lay du lieu dong dien
+2021-07-10 10:17:40,629 INFO       Lay du lieu nhap luc
+2021-07-10 10:17:40,629 INFO       Lay du lieu do rung
+2021-07-10 10:17:40,629 INFO       Lay du lieu tieng on
+2021-07-10 10:17:40,680 INFO Chu trinh - 3 - Lay du lieu chieu thuan
+2021-07-10 10:17:40,680 INFO   Lay du lieu - Forward
+2021-07-10 10:17:40,680 INFO       Lay du lieu dong dien
+2021-07-10 10:17:40,680 INFO       Lay du lieu nhap luc
+2021-07-10 10:17:40,680 INFO       Lay du lieu do rung
+2021-07-10 10:17:40,680 INFO       Lay du lieu tieng on
+2021-07-10 10:17:40,785 INFO Chu trinh - 3 - Lay du lieu chieu thuan
+2021-07-10 10:17:40,830 INFO   Lay du lieu - Forward
+2021-07-10 10:17:40,830 INFO       Lay du lieu dong dien
+2021-07-10 10:17:40,830 INFO       Lay du lieu nhap luc
+2021-07-10 10:17:40,830 INFO       Lay du lieu do rung
+2021-07-10 10:17:40,830 INFO       Lay du lieu tieng on
+2021-07-10 10:17:40,880 INFO Chu trinh - 3 - Lay du lieu chieu thuan
+2021-07-10 10:17:40,880 INFO   Lay du lieu - Forward
+2021-07-10 10:17:40,880 INFO       Lay du lieu dong dien
+2021-07-10 10:17:40,880 INFO       Lay du lieu nhap luc
+2021-07-10 10:17:40,880 INFO       Lay du lieu do rung
+2021-07-10 10:17:40,880 INFO       Lay du lieu tieng on
+2021-07-10 10:17:41,594 INFO Chu trinh - 3 - Lay du lieu chieu thuan
+2021-07-10 10:17:41,830 INFO   Lay du lieu - Forward
+2021-07-10 10:17:41,830 INFO       Lay du lieu dong dien
+2021-07-10 10:17:41,830 INFO       Lay du lieu nhap luc
+2021-07-10 10:17:41,830 INFO       Lay du lieu do rung
+2021-07-10 10:17:41,830 INFO       Lay du lieu tieng on
+2021-07-10 10:17:41,830 ERROR Thoi gian chu trinh vuot qua 100ms
+2021-07-10 10:17:41,830 INFO Chu trinh - 3 - Lay du lieu chieu thuan
+2021-07-10 10:17:41,830 INFO   Lay du lieu - Forward
+2021-07-10 10:17:41,830 INFO       Lay du lieu dong dien
+2021-07-10 10:17:41,830 INFO       Lay du lieu nhap luc
+2021-07-10 10:17:41,830 INFO       Lay du lieu do rung
+2021-07-10 10:17:41,830 INFO       Lay du lieu tieng on
+2021-07-10 10:17:41,830 INFO       Ve do thi du lieu
+2021-07-10 10:17:41,929 INFO Chu trinh - 3 - Lay du lieu chieu thuan
+2021-07-10 10:17:41,989 INFO   Lay du lieu - Forward
+2021-07-10 10:17:41,989 INFO       Lay du lieu dong dien
+2021-07-10 10:17:41,989 INFO       Lay du lieu nhap luc
+2021-07-10 10:17:41,989 INFO       Lay du lieu do rung
+2021-07-10 10:17:41,989 INFO       Lay du lieu tieng on
+2021-07-10 10:17:42,035 INFO Chu trinh - 3 - Lay du lieu chieu thuan
+2021-07-10 10:17:42,090 INFO   Lay du lieu - Forward
+2021-07-10 10:17:42,090 INFO       Lay du lieu dong dien
+2021-07-10 10:17:42,090 INFO       Lay du lieu nhap luc
+2021-07-10 10:17:42,090 INFO       Lay du lieu do rung
+2021-07-10 10:17:42,090 INFO       Lay du lieu tieng on
+2021-07-10 10:17:42,130 INFO Chu trinh - 3 - Lay du lieu chieu thuan
+2021-07-10 10:17:42,139 INFO   Lay du lieu - Forward
+2021-07-10 10:17:42,139 INFO       Lay du lieu dong dien
+2021-07-10 10:17:42,139 INFO       Lay du lieu nhap luc
+2021-07-10 10:17:42,139 INFO       Lay du lieu do rung
+2021-07-10 10:17:42,139 INFO       Lay du lieu tieng on
+2021-07-10 10:17:42,240 INFO Chu trinh - 3 - Lay du lieu chieu thuan
+2021-07-10 10:17:42,289 INFO   Lay du lieu - Forward
+2021-07-10 10:17:42,289 INFO       Lay du lieu dong dien
+2021-07-10 10:17:42,289 INFO       Lay du lieu nhap luc
+2021-07-10 10:17:42,289 INFO       Lay du lieu do rung
+2021-07-10 10:17:42,289 INFO       Lay du lieu tieng on
+2021-07-10 10:17:42,330 INFO Chu trinh - 3 - Lay du lieu chieu thuan
+2021-07-10 10:17:42,340 INFO   Lay du lieu - Forward
+2021-07-10 10:17:42,340 INFO       Lay du lieu dong dien
+2021-07-10 10:17:42,340 INFO       Lay du lieu nhap luc
+2021-07-10 10:17:42,340 INFO       Lay du lieu do rung
+2021-07-10 10:17:42,340 INFO       Lay du lieu tieng on
+2021-07-10 10:17:42,459 INFO Chu trinh - 3 - Lay du lieu chieu thuan
+2021-07-10 10:17:42,509 INFO   Lay du lieu - Forward
+2021-07-10 10:17:42,509 INFO       Lay du lieu dong dien
+2021-07-10 10:17:42,509 INFO       Lay du lieu nhap luc
+2021-07-10 10:17:42,509 INFO       Lay du lieu do rung
+2021-07-10 10:17:42,509 INFO       Lay du lieu tieng on
+2021-07-10 10:17:42,529 INFO Chu trinh - 3 - Lay du lieu chieu thuan
+2021-07-10 10:17:42,539 INFO   Lay du lieu - Forward
+2021-07-10 10:17:42,539 INFO       Lay du lieu dong dien
+2021-07-10 10:17:42,539 INFO       Lay du lieu nhap luc
+2021-07-10 10:17:42,539 INFO       Lay du lieu do rung
+2021-07-10 10:17:42,539 INFO       Lay du lieu tieng on
+2021-07-10 10:17:42,660 INFO Chu trinh - 3 - Lay du lieu chieu thuan
+2021-07-10 10:17:42,709 INFO   Lay du lieu - Forward
+2021-07-10 10:17:42,709 INFO       Lay du lieu dong dien
+2021-07-10 10:17:42,709 INFO       Lay du lieu nhap luc
+2021-07-10 10:17:42,709 INFO       Lay du lieu do rung
+2021-07-10 10:17:42,709 INFO       Lay du lieu tieng on
+2021-07-10 10:17:42,729 INFO Chu trinh - 3 - Lay du lieu chieu thuan
+2021-07-10 10:17:42,729 INFO   Lay du lieu - Forward
+2021-07-10 10:17:42,729 INFO       Lay du lieu dong dien
+2021-07-10 10:17:42,729 INFO       Lay du lieu nhap luc
+2021-07-10 10:17:42,729 INFO       Lay du lieu do rung
+2021-07-10 10:17:42,729 INFO       Lay du lieu tieng on
+2021-07-10 10:17:42,829 INFO Chu trinh - 3 - Lay du lieu chieu thuan
+2021-07-10 10:17:42,879 INFO   Lay du lieu - Forward
+2021-07-10 10:17:42,879 INFO       Lay du lieu dong dien
+2021-07-10 10:17:42,879 INFO       Lay du lieu nhap luc
+2021-07-10 10:17:42,879 INFO       Lay du lieu do rung
+2021-07-10 10:17:42,879 INFO       Lay du lieu tieng on
+2021-07-10 10:17:42,879 INFO       Ve do thi du lieu
+2021-07-10 10:17:42,929 INFO Chu trinh - 3 - Lay du lieu chieu thuan
+2021-07-10 10:17:42,934 INFO   Lay du lieu - Forward
+2021-07-10 10:17:42,934 INFO       Lay du lieu dong dien
+2021-07-10 10:17:42,934 INFO       Lay du lieu nhap luc
+2021-07-10 10:17:42,934 INFO       Lay du lieu do rung
+2021-07-10 10:17:42,934 INFO       Lay du lieu tieng on
+2021-07-10 10:17:43,029 INFO Chu trinh - 3 - Lay du lieu chieu thuan
+2021-07-10 10:17:43,079 INFO   Lay du lieu - Forward
+2021-07-10 10:17:43,079 INFO       Lay du lieu dong dien
+2021-07-10 10:17:43,089 INFO       Lay du lieu nhap luc
+2021-07-10 10:17:43,089 INFO       Lay du lieu do rung
+2021-07-10 10:17:43,089 INFO       Lay du lieu tieng on
+2021-07-10 10:17:43,129 INFO Chu trinh - 3 - Lay du lieu chieu thuan
+2021-07-10 10:17:43,139 INFO   Lay du lieu - Forward
+2021-07-10 10:17:43,139 INFO       Lay du lieu dong dien
+2021-07-10 10:17:43,139 INFO       Lay du lieu nhap luc
+2021-07-10 10:17:43,139 INFO       Lay du lieu do rung
+2021-07-10 10:17:43,139 INFO       Lay du lieu tieng on
+2021-07-10 10:17:43,249 INFO Chu trinh - 3 - Lay du lieu chieu thuan
+2021-07-10 10:17:43,299 INFO   Lay du lieu - Forward
+2021-07-10 10:17:43,299 INFO       Lay du lieu dong dien
+2021-07-10 10:17:43,299 INFO       Lay du lieu nhap luc
+2021-07-10 10:17:43,299 INFO       Lay du lieu do rung
+2021-07-10 10:17:43,299 INFO       Lay du lieu tieng on
+2021-07-10 10:17:43,339 INFO Chu trinh - 3 - Lay du lieu chieu thuan
+2021-07-10 10:17:43,349 INFO   Lay du lieu - Forward
+2021-07-10 10:17:43,349 INFO       Lay du lieu dong dien
+2021-07-10 10:17:43,349 INFO       Lay du lieu nhap luc
+2021-07-10 10:17:43,349 INFO       Lay du lieu do rung
+2021-07-10 10:17:43,349 INFO       Lay du lieu tieng on
+2021-07-10 10:17:43,499 INFO Chu trinh - 3 - Lay du lieu chieu thuan
+2021-07-10 10:17:43,640 INFO   Lay du lieu - Forward
+2021-07-10 10:17:43,640 INFO       Lay du lieu dong dien
+2021-07-10 10:17:43,640 INFO       Lay du lieu nhap luc
+2021-07-10 10:17:43,640 INFO       Lay du lieu do rung
+2021-07-10 10:17:43,640 INFO       Lay du lieu tieng on
+2021-07-10 10:17:43,640 ERROR Thoi gian chu trinh vuot qua 100ms
+2021-07-10 10:17:43,654 INFO Chu trinh - 3 - Lay du lieu chieu thuan
+2021-07-10 10:17:43,669 INFO   Lay du lieu - Forward
+2021-07-10 10:17:43,669 INFO       Lay du lieu dong dien
+2021-07-10 10:17:43,669 INFO       Lay du lieu nhap luc
+2021-07-10 10:17:43,669 INFO       Lay du lieu do rung
+2021-07-10 10:17:43,669 INFO       Lay du lieu tieng on
+2021-07-10 10:17:43,770 INFO Chu trinh - 3 - Lay du lieu chieu thuan
+2021-07-10 10:17:43,829 INFO   Lay du lieu - Forward
+2021-07-10 10:17:43,829 INFO       Lay du lieu dong dien
+2021-07-10 10:17:43,829 INFO       Lay du lieu nhap luc
+2021-07-10 10:17:43,829 INFO       Lay du lieu do rung
+2021-07-10 10:17:43,829 INFO       Lay du lieu tieng on
+2021-07-10 10:17:43,869 INFO Chu trinh - 3 - Lay du lieu chieu thuan
+2021-07-10 10:17:43,879 INFO   Lay du lieu - Forward
+2021-07-10 10:17:43,879 INFO       Lay du lieu dong dien
+2021-07-10 10:17:43,879 INFO       Lay du lieu nhap luc
+2021-07-10 10:17:43,879 INFO       Lay du lieu do rung
+2021-07-10 10:17:43,879 INFO       Lay du lieu tieng on
+2021-07-10 10:17:43,980 INFO Chu trinh - 3 - Lay du lieu chieu thuan
+2021-07-10 10:17:44,039 INFO   Lay du lieu - Forward
+2021-07-10 10:17:44,039 INFO       Lay du lieu dong dien
+2021-07-10 10:17:44,039 INFO       Lay du lieu nhap luc
+2021-07-10 10:17:44,039 INFO       Lay du lieu do rung
+2021-07-10 10:17:44,039 INFO       Lay du lieu tieng on
+2021-07-10 10:17:44,039 INFO       Ve do thi du lieu
+2021-07-10 10:17:44,079 INFO Chu trinh - 3 - Lay du lieu chieu thuan
+2021-07-10 10:17:44,109 INFO   Lay du lieu - Forward
+2021-07-10 10:17:44,109 INFO       Lay du lieu dong dien
+2021-07-10 10:17:44,109 INFO       Lay du lieu nhap luc
+2021-07-10 10:17:44,109 INFO       Lay du lieu do rung
+2021-07-10 10:17:44,109 INFO       Lay du lieu tieng on
+2021-07-10 10:17:44,155 INFO Chu trinh - 3 - Lay du lieu chieu thuan
+2021-07-10 10:17:44,166 INFO   Lay du lieu - Forward
+2021-07-10 10:17:44,166 INFO       Lay du lieu dong dien
+2021-07-10 10:17:44,166 INFO       Lay du lieu nhap luc
+2021-07-10 10:17:44,166 INFO       Lay du lieu do rung
+2021-07-10 10:17:44,169 INFO       Lay du lieu tieng on
+2021-07-10 10:17:44,279 INFO Chu trinh - 3 - Lay du lieu chieu thuan
+2021-07-10 10:17:44,329 INFO   Lay du lieu - Forward
+2021-07-10 10:17:44,329 INFO       Lay du lieu dong dien
+2021-07-10 10:17:44,329 INFO       Lay du lieu nhap luc
+2021-07-10 10:17:44,329 INFO       Lay du lieu do rung
+2021-07-10 10:17:44,329 INFO       Lay du lieu tieng on
+2021-07-10 10:17:44,369 INFO Chu trinh - 3 - Lay du lieu chieu thuan
+2021-07-10 10:17:44,369 INFO   Lay du lieu - Forward
+2021-07-10 10:17:44,369 INFO       Lay du lieu dong dien
+2021-07-10 10:17:44,369 INFO       Lay du lieu nhap luc
+2021-07-10 10:17:44,369 INFO       Lay du lieu do rung
+2021-07-10 10:17:44,369 INFO       Lay du lieu tieng on
+2021-07-10 10:17:44,479 INFO Chu trinh - 3 - Lay du lieu chieu thuan
+2021-07-10 10:17:44,529 INFO   Lay du lieu - Forward
+2021-07-10 10:17:44,529 INFO       Lay du lieu dong dien
+2021-07-10 10:17:44,529 INFO       Lay du lieu nhap luc
+2021-07-10 10:17:44,529 INFO       Lay du lieu do rung
+2021-07-10 10:17:44,529 INFO       Lay du lieu tieng on
+2021-07-10 10:17:44,570 INFO Chu trinh - 3 - Lay du lieu chieu thuan
+2021-07-10 10:17:44,579 INFO   Lay du lieu - Forward
+2021-07-10 10:17:44,579 INFO       Lay du lieu dong dien
+2021-07-10 10:17:44,579 INFO       Lay du lieu nhap luc
+2021-07-10 10:17:44,579 INFO       Lay du lieu do rung
+2021-07-10 10:17:44,579 INFO       Lay du lieu tieng on
+2021-07-10 10:17:44,679 INFO Chu trinh - 3 - Lay du lieu chieu thuan
+2021-07-10 10:17:44,719 INFO   Lay du lieu - Forward
+2021-07-10 10:17:44,719 INFO       Lay du lieu dong dien
+2021-07-10 10:17:44,719 INFO       Lay du lieu nhap luc
+2021-07-10 10:17:44,719 INFO       Lay du lieu do rung
+2021-07-10 10:17:44,719 INFO       Lay du lieu tieng on
+2021-07-10 10:17:44,769 INFO Chu trinh - 3 - Lay du lieu chieu thuan
+2021-07-10 10:17:44,779 INFO   Lay du lieu - Forward
+2021-07-10 10:17:44,779 INFO       Lay du lieu dong dien
+2021-07-10 10:17:44,779 INFO       Lay du lieu nhap luc
+2021-07-10 10:17:44,779 INFO       Lay du lieu do rung
+2021-07-10 10:17:44,779 INFO       Lay du lieu tieng on
+2021-07-10 10:17:44,879 INFO Chu trinh - 3 - Lay du lieu chieu thuan
+2021-07-10 10:17:44,929 INFO   Lay du lieu - Forward
+2021-07-10 10:17:44,929 INFO       Lay du lieu dong dien
+2021-07-10 10:17:44,929 INFO       Lay du lieu nhap luc
+2021-07-10 10:17:44,929 INFO       Lay du lieu do rung
+2021-07-10 10:17:44,929 INFO       Lay du lieu tieng on
+2021-07-10 10:17:44,969 INFO Chu trinh - 3 - Lay du lieu chieu thuan
+2021-07-10 10:17:44,969 INFO   Lay du lieu - Forward
+2021-07-10 10:17:44,969 INFO       Lay du lieu dong dien
+2021-07-10 10:17:44,969 INFO       Lay du lieu nhap luc
+2021-07-10 10:17:44,969 INFO       Lay du lieu do rung
+2021-07-10 10:17:44,969 INFO       Lay du lieu tieng on
+2021-07-10 10:17:44,969 INFO       Ve do thi du lieu
+2021-07-10 10:17:45,079 INFO Chu trinh - 3 - Lay du lieu chieu thuan
+2021-07-10 10:17:45,119 INFO   Lay du lieu - Forward
+2021-07-10 10:17:45,119 INFO       Lay du lieu dong dien
+2021-07-10 10:17:45,119 INFO       Lay du lieu nhap luc
+2021-07-10 10:17:45,119 INFO       Lay du lieu do rung
+2021-07-10 10:17:45,119 INFO       Lay du lieu tieng on
+2021-07-10 10:17:45,169 INFO Chu trinh - 3 - Lay du lieu chieu thuan
+2021-07-10 10:17:45,169 INFO   Lay du lieu - Forward
+2021-07-10 10:17:45,169 INFO       Lay du lieu dong dien
+2021-07-10 10:17:45,169 INFO       Lay du lieu nhap luc
+2021-07-10 10:17:45,169 INFO       Lay du lieu do rung
+2021-07-10 10:17:45,169 INFO       Lay du lieu tieng on
+2021-07-10 10:17:45,324 INFO Chu trinh - 3 - Lay du lieu chieu thuan
+2021-07-10 10:17:45,419 INFO   Lay du lieu - Forward
+2021-07-10 10:17:45,419 INFO       Lay du lieu dong dien
+2021-07-10 10:17:45,419 INFO       Lay du lieu nhap luc
+2021-07-10 10:17:45,419 INFO       Lay du lieu do rung
+2021-07-10 10:17:45,419 INFO       Lay du lieu tieng on
+2021-07-10 10:17:45,419 ERROR Thoi gian chu trinh vuot qua 100ms
+2021-07-10 10:17:45,439 INFO Chu trinh - 3 - Lay du lieu chieu thuan
+2021-07-10 10:17:45,459 INFO   Lay du lieu - Forward
+2021-07-10 10:17:45,459 INFO       Lay du lieu dong dien
+2021-07-10 10:17:45,459 INFO       Lay du lieu nhap luc
+2021-07-10 10:17:45,459 INFO       Lay du lieu do rung
+2021-07-10 10:17:45,459 INFO       Lay du lieu tieng on
+2021-07-10 10:17:45,559 INFO Chu trinh - 3 - Lay du lieu chieu thuan
+2021-07-10 10:17:45,619 INFO   Lay du lieu - Forward
+2021-07-10 10:17:45,619 INFO       Lay du lieu dong dien
+2021-07-10 10:17:45,619 INFO       Lay du lieu nhap luc
+2021-07-10 10:17:45,619 INFO       Lay du lieu do rung
+2021-07-10 10:17:45,619 INFO       Lay du lieu tieng on
+2021-07-10 10:17:45,659 INFO Chu trinh - 3 - Lay du lieu chieu thuan
+2021-07-10 10:17:45,669 INFO   Lay du lieu - Forward
+2021-07-10 10:17:45,669 INFO       Lay du lieu dong dien
+2021-07-10 10:17:45,669 INFO       Lay du lieu nhap luc
+2021-07-10 10:17:45,669 INFO       Lay du lieu do rung
+2021-07-10 10:17:45,669 INFO       Lay du lieu tieng on
+2021-07-10 10:17:45,739 INFO Chu trinh - 3 - Lay du lieu chieu thuan
+2021-07-10 10:17:45,789 INFO   Lay du lieu - Forward
+2021-07-10 10:17:45,789 INFO       Lay du lieu dong dien
+2021-07-10 10:17:45,789 INFO       Lay du lieu nhap luc
+2021-07-10 10:17:45,789 INFO       Lay du lieu do rung
+2021-07-10 10:17:45,789 INFO       Lay du lieu tieng on
+2021-07-10 10:17:45,879 INFO Chu trinh - 3 - Lay du lieu chieu thuan
+2021-07-10 10:17:45,889 INFO   Lay du lieu - Forward
+2021-07-10 10:17:45,889 INFO       Lay du lieu dong dien
+2021-07-10 10:17:45,889 INFO       Lay du lieu nhap luc
+2021-07-10 10:17:45,889 INFO       Lay du lieu do rung
+2021-07-10 10:17:45,889 INFO       Lay du lieu tieng on
+2021-07-10 10:17:45,939 INFO Chu trinh - 3 - Lay du lieu chieu thuan
+2021-07-10 10:17:45,949 INFO   Lay du lieu - Forward
+2021-07-10 10:17:45,949 INFO       Lay du lieu dong dien
+2021-07-10 10:17:45,949 INFO       Lay du lieu nhap luc
+2021-07-10 10:17:45,949 INFO       Lay du lieu do rung
+2021-07-10 10:17:45,949 INFO       Lay du lieu tieng on
+2021-07-10 10:17:46,040 INFO Chu trinh - 3 - Lay du lieu chieu thuan
+2021-07-10 10:17:46,089 INFO   Lay du lieu - Forward
+2021-07-10 10:17:46,089 INFO       Lay du lieu dong dien
+2021-07-10 10:17:46,089 INFO       Lay du lieu nhap luc
+2021-07-10 10:17:46,089 INFO       Lay du lieu do rung
+2021-07-10 10:17:46,089 INFO       Lay du lieu tieng on
+2021-07-10 10:17:46,089 INFO       Ve do thi du lieu
+2021-07-10 10:17:46,135 INFO Chu trinh - 3 - Lay du lieu chieu thuan
+2021-07-10 10:17:46,149 INFO   Lay du lieu - Forward
+2021-07-10 10:17:46,149 INFO       Lay du lieu dong dien
+2021-07-10 10:17:46,149 INFO       Lay du lieu nhap luc
+2021-07-10 10:17:46,149 INFO       Lay du lieu do rung
+2021-07-10 10:17:46,149 INFO       Lay du lieu tieng on
+2021-07-10 10:17:46,279 INFO Chu trinh - 3 - Lay du lieu chieu thuan
+2021-07-10 10:17:46,329 INFO   Lay du lieu - Forward
+2021-07-10 10:17:46,329 INFO       Lay du lieu dong dien
+2021-07-10 10:17:46,329 INFO       Lay du lieu nhap luc
+2021-07-10 10:17:46,329 INFO       Lay du lieu do rung
+2021-07-10 10:17:46,329 INFO       Lay du lieu tieng on
+2021-07-10 10:17:46,355 INFO Chu trinh - 3 - Lay du lieu chieu thuan
+2021-07-10 10:17:46,359 INFO   Lay du lieu - Forward
+2021-07-10 10:17:46,359 INFO       Lay du lieu dong dien
+2021-07-10 10:17:46,359 INFO       Lay du lieu nhap luc
+2021-07-10 10:17:46,359 INFO       Lay du lieu do rung
+2021-07-10 10:17:46,359 INFO       Lay du lieu tieng on
+2021-07-10 10:17:46,479 INFO Chu trinh - 3 - Lay du lieu chieu thuan
+2021-07-10 10:17:46,539 INFO   Lay du lieu - Forward
+2021-07-10 10:17:46,539 INFO       Lay du lieu dong dien
+2021-07-10 10:17:46,539 INFO       Lay du lieu nhap luc
+2021-07-10 10:17:46,539 INFO       Lay du lieu do rung
+2021-07-10 10:17:46,539 INFO       Lay du lieu tieng on
+2021-07-10 10:17:46,569 INFO Chu trinh - 3 - Lay du lieu chieu thuan
+2021-07-10 10:17:46,569 INFO   Lay du lieu - Forward
+2021-07-10 10:17:46,569 INFO       Lay du lieu dong dien
+2021-07-10 10:17:46,569 INFO       Lay du lieu nhap luc
+2021-07-10 10:17:46,569 INFO       Lay du lieu do rung
+2021-07-10 10:17:46,569 INFO       Lay du lieu tieng on
+2021-07-10 10:17:46,699 INFO Chu trinh - 3 - Lay du lieu chieu thuan
+2021-07-10 10:17:46,739 INFO   Lay du lieu - Forward
+2021-07-10 10:17:46,739 INFO       Lay du lieu dong dien
+2021-07-10 10:17:46,739 INFO       Lay du lieu nhap luc
+2021-07-10 10:17:46,739 INFO       Lay du lieu do rung
+2021-07-10 10:17:46,739 INFO       Lay du lieu tieng on
+2021-07-10 10:17:46,769 INFO Chu trinh - 3 - Lay du lieu chieu thuan
+2021-07-10 10:17:46,769 INFO   Lay du lieu - Forward
+2021-07-10 10:17:46,769 INFO       Lay du lieu dong dien
+2021-07-10 10:17:46,769 INFO       Lay du lieu nhap luc
+2021-07-10 10:17:46,769 INFO       Lay du lieu do rung
+2021-07-10 10:17:46,769 INFO       Lay du lieu tieng on
+2021-07-10 10:17:46,899 INFO Chu trinh - 3 - Lay du lieu chieu thuan
+2021-07-10 10:17:46,939 INFO   Lay du lieu - Forward
+2021-07-10 10:17:46,939 INFO       Lay du lieu dong dien
+2021-07-10 10:17:46,939 INFO       Lay du lieu nhap luc
+2021-07-10 10:17:46,939 INFO       Lay du lieu do rung
+2021-07-10 10:17:46,939 INFO       Lay du lieu tieng on
+2021-07-10 10:17:46,969 INFO Chu trinh - 3 - Lay du lieu chieu thuan
+2021-07-10 10:17:46,969 INFO   Lay du lieu - Forward
+2021-07-10 10:17:46,969 INFO       Lay du lieu dong dien
+2021-07-10 10:17:46,969 INFO       Lay du lieu nhap luc
+2021-07-10 10:17:46,969 INFO       Lay du lieu do rung
+2021-07-10 10:17:46,969 INFO       Lay du lieu tieng on
+2021-07-10 10:17:47,099 INFO Chu trinh - 3 - Lay du lieu chieu thuan
+2021-07-10 10:17:47,149 INFO   Lay du lieu - Forward
+2021-07-10 10:17:47,149 INFO       Lay du lieu dong dien
+2021-07-10 10:17:47,149 INFO       Lay du lieu nhap luc
+2021-07-10 10:17:47,149 INFO       Lay du lieu do rung
+2021-07-10 10:17:47,149 INFO       Lay du lieu tieng on
+2021-07-10 10:17:47,149 INFO       Ve do thi du lieu
+2021-07-10 10:17:47,169 INFO Chu trinh - 3 - Lay du lieu chieu thuan
+2021-07-10 10:17:47,169 INFO   Lay du lieu - Forward
+2021-07-10 10:17:47,169 INFO       Lay du lieu dong dien
+2021-07-10 10:17:47,169 INFO       Lay du lieu nhap luc
+2021-07-10 10:17:47,169 INFO       Lay du lieu do rung
+2021-07-10 10:17:47,169 INFO       Lay du lieu tieng on
+2021-07-10 10:17:47,398 INFO Chu trinh - 3 - Lay du lieu chieu thuan
+2021-07-10 10:17:47,459 INFO   Lay du lieu - Forward
+2021-07-10 10:17:47,459 INFO       Lay du lieu dong dien
+2021-07-10 10:17:47,459 INFO       Lay du lieu nhap luc
+2021-07-10 10:17:47,459 INFO       Lay du lieu do rung
+2021-07-10 10:17:47,459 INFO       Lay du lieu tieng on
+2021-07-10 10:17:47,459 ERROR Thoi gian chu trinh vuot qua 100ms
+2021-07-10 10:17:47,459 INFO Chu trinh - 3 - Lay du lieu chieu thuan
+2021-07-10 10:17:47,477 INFO   Lay du lieu - Forward
+2021-07-10 10:17:47,477 INFO       Lay du lieu dong dien
+2021-07-10 10:17:47,477 INFO       Lay du lieu nhap luc
+2021-07-10 10:17:47,477 INFO       Lay du lieu do rung
+2021-07-10 10:17:47,477 INFO       Lay du lieu tieng on
+2021-07-10 10:17:47,569 INFO Chu trinh - 3 - Lay du lieu chieu thuan
+2021-07-10 10:17:47,619 INFO   Lay du lieu - Forward
+2021-07-10 10:17:47,619 INFO       Lay du lieu dong dien
+2021-07-10 10:17:47,619 INFO       Lay du lieu nhap luc
+2021-07-10 10:17:47,619 INFO       Lay du lieu do rung
+2021-07-10 10:17:47,619 INFO       Lay du lieu tieng on
+2021-07-10 10:17:47,669 INFO Chu trinh - 3 - Lay du lieu chieu thuan
+2021-07-10 10:17:47,679 INFO   Lay du lieu - Forward
+2021-07-10 10:17:47,679 INFO       Lay du lieu dong dien
+2021-07-10 10:17:47,679 INFO       Lay du lieu nhap luc
+2021-07-10 10:17:47,679 INFO       Lay du lieu do rung
+2021-07-10 10:17:47,679 INFO       Lay du lieu tieng on
+2021-07-10 10:17:47,789 INFO Chu trinh - 3 - Lay du lieu chieu thuan
+2021-07-10 10:17:47,839 INFO   Lay du lieu - Forward
+2021-07-10 10:17:47,839 INFO       Lay du lieu dong dien
+2021-07-10 10:17:47,839 INFO       Lay du lieu nhap luc
+2021-07-10 10:17:47,839 INFO       Lay du lieu do rung
+2021-07-10 10:17:47,839 INFO       Lay du lieu tieng on
+2021-07-10 10:17:47,889 INFO Chu trinh - 3 - Lay du lieu chieu thuan
+2021-07-10 10:17:47,889 INFO   Lay du lieu - Forward
+2021-07-10 10:17:47,889 INFO       Lay du lieu dong dien
+2021-07-10 10:17:47,889 INFO       Lay du lieu nhap luc
+2021-07-10 10:17:47,889 INFO       Lay du lieu do rung
+2021-07-10 10:17:47,889 INFO       Lay du lieu tieng on
+2021-07-10 10:17:47,969 INFO Chu trinh - 3 - Lay du lieu chieu thuan
+2021-07-10 10:17:48,018 INFO   Lay du lieu - Forward
+2021-07-10 10:17:48,018 INFO       Lay du lieu dong dien
+2021-07-10 10:17:48,018 INFO       Lay du lieu nhap luc
+2021-07-10 10:17:48,018 INFO       Lay du lieu do rung
+2021-07-10 10:17:48,018 INFO       Lay du lieu tieng on
+2021-07-10 10:17:48,069 INFO Chu trinh - 3 - Lay du lieu chieu thuan
+2021-07-10 10:17:48,109 INFO   Lay du lieu - Forward
+2021-07-10 10:17:48,109 INFO       Lay du lieu dong dien
+2021-07-10 10:17:48,109 INFO       Lay du lieu nhap luc
+2021-07-10 10:17:48,109 INFO       Lay du lieu do rung
+2021-07-10 10:17:48,109 INFO       Lay du lieu tieng on
+2021-07-10 10:17:48,169 INFO Chu trinh - 3 - Lay du lieu chieu thuan
+2021-07-10 10:17:48,169 INFO   Lay du lieu - Forward
+2021-07-10 10:17:48,169 INFO       Lay du lieu dong dien
+2021-07-10 10:17:48,169 INFO       Lay du lieu nhap luc
+2021-07-10 10:17:48,169 INFO       Lay du lieu do rung
+2021-07-10 10:17:48,169 INFO       Lay du lieu tieng on
+2021-07-10 10:17:48,169 INFO       Ve do thi du lieu
+2021-07-10 10:17:48,287 INFO Chu trinh - 3 - Lay du lieu chieu thuan
+2021-07-10 10:17:48,339 INFO   Lay du lieu - Forward
+2021-07-10 10:17:48,348 INFO       Lay du lieu dong dien
+2021-07-10 10:17:48,348 INFO       Lay du lieu nhap luc
+2021-07-10 10:17:48,348 INFO       Lay du lieu do rung
+2021-07-10 10:17:48,348 INFO       Lay du lieu tieng on
+2021-07-10 10:17:48,378 INFO Chu trinh - 3 - Lay du lieu chieu thuan
+2021-07-10 10:17:48,378 INFO   Lay du lieu - Forward
+2021-07-10 10:17:48,378 INFO       Lay du lieu dong dien
+2021-07-10 10:17:48,378 INFO       Lay du lieu nhap luc
+2021-07-10 10:17:48,378 INFO       Lay du lieu do rung
+2021-07-10 10:17:48,378 INFO       Lay du lieu tieng on
+2021-07-10 10:17:48,503 INFO Chu trinh - 3 - Lay du lieu chieu thuan
+2021-07-10 10:17:48,548 INFO   Lay du lieu - Forward
+2021-07-10 10:17:48,548 INFO       Lay du lieu dong dien
+2021-07-10 10:17:48,548 INFO       Lay du lieu nhap luc
+2021-07-10 10:17:48,548 INFO       Lay du lieu do rung
+2021-07-10 10:17:48,548 INFO       Lay du lieu tieng on
+2021-07-10 10:17:48,578 INFO Chu trinh - 3 - Lay du lieu chieu thuan
+2021-07-10 10:17:48,578 INFO   Lay du lieu - Forward
+2021-07-10 10:17:48,578 INFO       Lay du lieu dong dien
+2021-07-10 10:17:48,578 INFO       Lay du lieu nhap luc
+2021-07-10 10:17:48,578 INFO       Lay du lieu do rung
+2021-07-10 10:17:48,578 INFO       Lay du lieu tieng on
+2021-07-10 10:17:48,708 INFO Chu trinh - 3 - Lay du lieu chieu thuan
+2021-07-10 10:17:48,749 INFO   Lay du lieu - Forward
+2021-07-10 10:17:48,749 INFO       Lay du lieu dong dien
+2021-07-10 10:17:48,749 INFO       Lay du lieu nhap luc
+2021-07-10 10:17:48,749 INFO       Lay du lieu do rung
+2021-07-10 10:17:48,749 INFO       Lay du lieu tieng on
+2021-07-10 10:17:48,778 INFO Chu trinh - 3 - Lay du lieu chieu thuan
+2021-07-10 10:17:48,778 INFO   Lay du lieu - Forward
+2021-07-10 10:17:48,778 INFO       Lay du lieu dong dien
+2021-07-10 10:17:48,778 INFO       Lay du lieu nhap luc
+2021-07-10 10:17:48,778 INFO       Lay du lieu do rung
+2021-07-10 10:17:48,778 INFO       Lay du lieu tieng on
+2021-07-10 10:17:48,908 INFO Chu trinh - 3 - Lay du lieu chieu thuan
+2021-07-10 10:17:48,959 INFO   Lay du lieu - Forward
+2021-07-10 10:17:48,959 INFO       Lay du lieu dong dien
+2021-07-10 10:17:48,959 INFO       Lay du lieu nhap luc
+2021-07-10 10:17:48,959 INFO       Lay du lieu do rung
+2021-07-10 10:17:48,959 INFO       Lay du lieu tieng on
+2021-07-10 10:17:48,978 INFO Chu trinh - 3 - Lay du lieu chieu thuan
+2021-07-10 10:17:48,978 INFO   Lay du lieu - Forward
+2021-07-10 10:17:48,978 INFO       Lay du lieu dong dien
+2021-07-10 10:17:48,978 INFO       Lay du lieu nhap luc
+2021-07-10 10:17:48,978 INFO       Lay du lieu do rung
+2021-07-10 10:17:48,978 INFO       Lay du lieu tieng on
+2021-07-10 10:17:49,108 INFO Chu trinh - 3 - Lay du lieu chieu thuan
+2021-07-10 10:17:49,258 INFO   Lay du lieu - Forward
+2021-07-10 10:17:49,258 INFO       Lay du lieu dong dien
+2021-07-10 10:17:49,258 INFO       Lay du lieu nhap luc
+2021-07-10 10:17:49,258 INFO       Lay du lieu do rung
+2021-07-10 10:17:49,258 INFO       Lay du lieu tieng on
+2021-07-10 10:17:49,258 ERROR Thoi gian chu trinh vuot qua 100ms
+2021-07-10 10:17:49,260 INFO Chu trinh - 3 - Lay du lieu chieu thuan
+2021-07-10 10:17:49,260 INFO   Lay du lieu - Forward
+2021-07-10 10:17:49,260 INFO       Lay du lieu dong dien
+2021-07-10 10:17:49,260 INFO       Lay du lieu nhap luc
+2021-07-10 10:17:49,260 INFO       Lay du lieu do rung
+2021-07-10 10:17:49,260 INFO       Lay du lieu tieng on
+2021-07-10 10:17:49,260 INFO       Ve do thi du lieu
+2021-07-10 10:17:49,408 INFO Chu trinh - 3 - Lay du lieu chieu thuan
+2021-07-10 10:17:49,460 INFO   Lay du lieu - Forward
+2021-07-10 10:17:49,460 INFO       Lay du lieu dong dien
+2021-07-10 10:17:49,460 INFO       Lay du lieu nhap luc
+2021-07-10 10:17:49,460 INFO       Lay du lieu do rung
+2021-07-10 10:17:49,460 INFO       Lay du lieu tieng on
+2021-07-10 10:17:49,479 INFO Chu trinh - 3 - Lay du lieu chieu thuan
+2021-07-10 10:17:49,479 INFO   Lay du lieu - Forward
+2021-07-10 10:17:49,479 INFO       Lay du lieu dong dien
+2021-07-10 10:17:49,479 INFO       Lay du lieu nhap luc
+2021-07-10 10:17:49,479 INFO       Lay du lieu do rung
+2021-07-10 10:17:49,479 INFO       Lay du lieu tieng on
+2021-07-10 10:17:49,609 INFO Chu trinh - 3 - Lay du lieu chieu thuan
+2021-07-10 10:17:49,661 INFO   Lay du lieu - Forward
+2021-07-10 10:17:49,661 INFO       Lay du lieu dong dien
+2021-07-10 10:17:49,661 INFO       Lay du lieu nhap luc
+2021-07-10 10:17:49,661 INFO       Lay du lieu do rung
+2021-07-10 10:17:49,661 INFO       Lay du lieu tieng on
+2021-07-10 10:17:49,694 INFO Chu trinh - 3 - Lay du lieu chieu thuan
+2021-07-10 10:17:49,698 INFO   Lay du lieu - Forward
+2021-07-10 10:17:49,698 INFO       Lay du lieu dong dien
+2021-07-10 10:17:49,698 INFO       Lay du lieu nhap luc
+2021-07-10 10:17:49,698 INFO       Lay du lieu do rung
+2021-07-10 10:17:49,698 INFO       Lay du lieu tieng on
+2021-07-10 10:17:49,828 INFO Chu trinh - 3 - Lay du lieu chieu thuan
+2021-07-10 10:17:49,878 INFO   Lay du lieu - Forward
+2021-07-10 10:17:49,878 INFO       Lay du lieu dong dien
+2021-07-10 10:17:49,878 INFO       Lay du lieu nhap luc
+2021-07-10 10:17:49,878 INFO       Lay du lieu do rung
+2021-07-10 10:17:49,878 INFO       Lay du lieu tieng on
+2021-07-10 10:17:49,898 INFO Chu trinh - 3 - Lay du lieu chieu thuan
+2021-07-10 10:17:49,898 INFO   Lay du lieu - Forward
+2021-07-10 10:17:49,898 INFO       Lay du lieu dong dien
+2021-07-10 10:17:49,898 INFO       Lay du lieu nhap luc
+2021-07-10 10:17:49,898 INFO       Lay du lieu do rung
+2021-07-10 10:17:49,898 INFO       Lay du lieu tieng on
+2021-07-10 10:17:50,028 INFO Chu trinh - 3 - Lay du lieu chieu thuan
+2021-07-10 10:17:50,078 INFO   Lay du lieu - Forward
+2021-07-10 10:17:50,078 INFO       Lay du lieu dong dien
+2021-07-10 10:17:50,078 INFO       Lay du lieu nhap luc
+2021-07-10 10:17:50,078 INFO       Lay du lieu do rung
+2021-07-10 10:17:50,078 INFO       Lay du lieu tieng on
+2021-07-10 10:17:50,098 INFO Chu trinh - 3 - Lay du lieu chieu thuan
+2021-07-10 10:17:50,108 INFO   Lay du lieu - Forward
+2021-07-10 10:17:50,108 INFO       Lay du lieu dong dien
+2021-07-10 10:17:50,108 INFO       Lay du lieu nhap luc
+2021-07-10 10:17:50,108 INFO       Lay du lieu do rung
+2021-07-10 10:17:50,108 INFO       Lay du lieu tieng on
+2021-07-10 10:17:50,228 INFO Chu trinh - 3 - Lay du lieu chieu thuan
+2021-07-10 10:17:50,278 INFO   Lay du lieu - Forward
+2021-07-10 10:17:50,278 INFO       Lay du lieu dong dien
+2021-07-10 10:17:50,278 INFO       Lay du lieu nhap luc
+2021-07-10 10:17:50,278 INFO       Lay du lieu do rung
+2021-07-10 10:17:50,278 INFO       Lay du lieu tieng on
+2021-07-10 10:17:50,298 INFO Chu trinh - 3 - Lay du lieu chieu thuan
+2021-07-10 10:17:50,298 INFO   Lay du lieu - Forward
+2021-07-10 10:17:50,298 INFO       Lay du lieu dong dien
+2021-07-10 10:17:50,298 INFO       Lay du lieu nhap luc
+2021-07-10 10:17:50,298 INFO       Lay du lieu do rung
+2021-07-10 10:17:50,298 INFO       Lay du lieu tieng on
+2021-07-10 10:17:50,298 INFO       Ve do thi du lieu
+2021-07-10 10:17:50,429 INFO Chu trinh - 3 - Lay du lieu chieu thuan
+2021-07-10 10:17:50,468 INFO   Lay du lieu - Forward
+2021-07-10 10:17:50,468 INFO       Lay du lieu dong dien
+2021-07-10 10:17:50,468 INFO       Lay du lieu nhap luc
+2021-07-10 10:17:50,468 INFO       Lay du lieu do rung
+2021-07-10 10:17:50,468 INFO       Lay du lieu tieng on
+2021-07-10 10:17:50,508 INFO Chu trinh - 3 - Lay du lieu chieu thuan
+2021-07-10 10:17:50,513 INFO   Lay du lieu - Forward
+2021-07-10 10:17:50,513 INFO       Lay du lieu dong dien
+2021-07-10 10:17:50,513 INFO       Lay du lieu nhap luc
+2021-07-10 10:17:50,513 INFO       Lay du lieu do rung
+2021-07-10 10:17:50,513 INFO       Lay du lieu tieng on
+2021-07-10 10:17:50,638 INFO Chu trinh - 3 - Lay du lieu chieu thuan
+2021-07-10 10:17:50,678 INFO   Lay du lieu - Forward
+2021-07-10 10:17:50,678 INFO       Lay du lieu dong dien
+2021-07-10 10:17:50,678 INFO       Lay du lieu nhap luc
+2021-07-10 10:17:50,678 INFO       Lay du lieu do rung
+2021-07-10 10:17:50,678 INFO       Lay du lieu tieng on
+2021-07-10 10:17:50,708 INFO Chu trinh - 3 - Lay du lieu chieu thuan
+2021-07-10 10:17:50,708 INFO   Lay du lieu - Forward
+2021-07-10 10:17:50,708 INFO       Lay du lieu dong dien
+2021-07-10 10:17:50,708 INFO       Lay du lieu nhap luc
+2021-07-10 10:17:50,708 INFO       Lay du lieu do rung
+2021-07-10 10:17:50,708 INFO       Lay du lieu tieng on
+2021-07-10 10:17:50,828 INFO Chu trinh - 3 - Lay du lieu chieu thuan
+2021-07-10 10:17:50,883 INFO   Lay du lieu - Forward
+2021-07-10 10:17:50,883 INFO       Lay du lieu dong dien
+2021-07-10 10:17:50,883 INFO       Lay du lieu nhap luc
+2021-07-10 10:17:50,883 INFO       Lay du lieu do rung
+2021-07-10 10:17:50,883 INFO       Lay du lieu tieng on
+2021-07-10 10:17:50,918 INFO Chu trinh - 3 - Lay du lieu chieu thuan
+2021-07-10 10:17:50,918 INFO   Lay du lieu - Forward
+2021-07-10 10:17:50,918 INFO       Lay du lieu dong dien
+2021-07-10 10:17:50,918 INFO       Lay du lieu nhap luc
+2021-07-10 10:17:50,918 INFO       Lay du lieu do rung
+2021-07-10 10:17:50,918 INFO       Lay du lieu tieng on
+2021-07-10 10:17:51,188 INFO Chu trinh - 3 - Lay du lieu chieu thuan
+2021-07-10 10:17:51,188 INFO   Lay du lieu - Forward
+2021-07-10 10:17:51,188 INFO       Lay du lieu dong dien
+2021-07-10 10:17:51,188 INFO       Lay du lieu nhap luc
+2021-07-10 10:17:51,188 INFO       Lay du lieu do rung
+2021-07-10 10:17:51,188 INFO       Lay du lieu tieng on
+2021-07-10 10:17:51,188 ERROR Thoi gian chu trinh vuot qua 100ms
+2021-07-10 10:17:51,198 INFO Chu trinh - 3 - Lay du lieu chieu thuan
+2021-07-10 10:17:51,198 INFO   Lay du lieu - Forward
+2021-07-10 10:17:51,198 INFO       Lay du lieu dong dien
+2021-07-10 10:17:51,198 INFO       Lay du lieu nhap luc
+2021-07-10 10:17:51,198 INFO       Lay du lieu do rung
+2021-07-10 10:17:51,198 INFO       Lay du lieu tieng on
+2021-07-10 10:17:51,298 INFO Chu trinh - 3 - Lay du lieu chieu thuan
+2021-07-10 10:17:51,358 INFO   Lay du lieu - Forward
+2021-07-10 10:17:51,358 INFO       Lay du lieu dong dien
+2021-07-10 10:17:51,358 INFO       Lay du lieu nhap luc
+2021-07-10 10:17:51,358 INFO       Lay du lieu do rung
+2021-07-10 10:17:51,358 INFO       Lay du lieu tieng on
+2021-07-10 10:17:51,403 INFO Chu trinh - 3 - Lay du lieu chieu thuan
+2021-07-10 10:17:51,408 INFO   Lay du lieu - Forward
+2021-07-10 10:17:51,408 INFO       Lay du lieu dong dien
+2021-07-10 10:17:51,408 INFO       Lay du lieu nhap luc
+2021-07-10 10:17:51,408 INFO       Lay du lieu do rung
+2021-07-10 10:17:51,408 INFO       Lay du lieu tieng on
+2021-07-10 10:17:51,408 INFO       Ve do thi du lieu
+2021-07-10 10:17:51,518 INFO Chu trinh - 3 - Lay du lieu chieu thuan
+2021-07-10 10:17:51,573 INFO   Lay du lieu - Forward
+2021-07-10 10:17:51,573 INFO       Lay du lieu dong dien
+2021-07-10 10:17:51,573 INFO       Lay du lieu nhap luc
+2021-07-10 10:17:51,573 INFO       Lay du lieu do rung
+2021-07-10 10:17:51,573 INFO       Lay du lieu tieng on
+2021-07-10 10:17:51,618 INFO Chu trinh - 3 - Lay du lieu chieu thuan
+2021-07-10 10:17:51,618 INFO   Lay du lieu - Forward
+2021-07-10 10:17:51,618 INFO       Lay du lieu dong dien
+2021-07-10 10:17:51,618 INFO       Lay du lieu nhap luc
+2021-07-10 10:17:51,618 INFO       Lay du lieu do rung
+2021-07-10 10:17:51,618 INFO       Lay du lieu tieng on
+2021-07-10 10:17:51,698 INFO Chu trinh - 3 - Lay du lieu chieu thuan
+2021-07-10 10:17:51,748 INFO   Lay du lieu - Forward
+2021-07-10 10:17:51,748 INFO       Lay du lieu dong dien
+2021-07-10 10:17:51,748 INFO       Lay du lieu nhap luc
+2021-07-10 10:17:51,748 INFO       Lay du lieu do rung
+2021-07-10 10:17:51,748 INFO       Lay du lieu tieng on
+2021-07-10 10:17:51,838 INFO Chu trinh - 3 - Lay du lieu chieu thuan
+2021-07-10 10:17:51,848 INFO   Lay du lieu - Forward
+2021-07-10 10:17:51,848 INFO       Lay du lieu dong dien
+2021-07-10 10:17:51,848 INFO       Lay du lieu nhap luc
+2021-07-10 10:17:51,848 INFO       Lay du lieu do rung
+2021-07-10 10:17:51,848 INFO       Lay du lieu tieng on
+2021-07-10 10:17:51,898 INFO Chu trinh - 3 - Lay du lieu chieu thuan
+2021-07-10 10:17:51,898 INFO   Lay du lieu - Forward
+2021-07-10 10:17:51,898 INFO       Lay du lieu dong dien
+2021-07-10 10:17:51,898 INFO       Lay du lieu nhap luc
+2021-07-10 10:17:51,898 INFO       Lay du lieu do rung
+2021-07-10 10:17:51,898 INFO       Lay du lieu tieng on
+2021-07-10 10:17:52,008 INFO Chu trinh - 3 - Lay du lieu chieu thuan
+2021-07-10 10:17:52,058 INFO   Lay du lieu - Forward
+2021-07-10 10:17:52,058 INFO       Lay du lieu dong dien
+2021-07-10 10:17:52,058 INFO       Lay du lieu nhap luc
+2021-07-10 10:17:52,058 INFO       Lay du lieu do rung
+2021-07-10 10:17:52,058 INFO       Lay du lieu tieng on
+2021-07-10 10:17:52,098 INFO Chu trinh - 3 - Lay du lieu chieu thuan
+2021-07-10 10:17:52,108 INFO   Lay du lieu - Forward
+2021-07-10 10:17:52,108 INFO       Lay du lieu dong dien
+2021-07-10 10:17:52,108 INFO       Lay du lieu nhap luc
+2021-07-10 10:17:52,108 INFO       Lay du lieu do rung
+2021-07-10 10:17:52,108 INFO       Lay du lieu tieng on
+2021-07-10 10:17:52,208 INFO Chu trinh - 3 - Lay du lieu chieu thuan
+2021-07-10 10:17:52,248 INFO   Lay du lieu - Forward
+2021-07-10 10:17:52,248 INFO       Lay du lieu dong dien
+2021-07-10 10:17:52,248 INFO       Lay du lieu nhap luc
+2021-07-10 10:17:52,248 INFO       Lay du lieu do rung
+2021-07-10 10:17:52,248 INFO       Lay du lieu tieng on
+2021-07-10 10:17:52,298 INFO Chu trinh - 3 - Lay du lieu chieu thuan
+2021-07-10 10:17:52,298 INFO   Lay du lieu - Forward
+2021-07-10 10:17:52,298 INFO       Lay du lieu dong dien
+2021-07-10 10:17:52,298 INFO       Lay du lieu nhap luc
+2021-07-10 10:17:52,298 INFO       Lay du lieu do rung
+2021-07-10 10:17:52,298 INFO       Lay du lieu tieng on
+2021-07-10 10:17:52,408 INFO Chu trinh - 3 - Lay du lieu chieu thuan
+2021-07-10 10:17:52,458 INFO   Lay du lieu - Forward
+2021-07-10 10:17:52,458 INFO       Lay du lieu dong dien
+2021-07-10 10:17:52,458 INFO       Lay du lieu nhap luc
+2021-07-10 10:17:52,458 INFO       Lay du lieu do rung
+2021-07-10 10:17:52,458 INFO       Lay du lieu tieng on
+2021-07-10 10:17:52,458 INFO       Ve do thi du lieu
+2021-07-10 10:17:52,497 INFO Chu trinh - 3 - Lay du lieu chieu thuan
+2021-07-10 10:17:52,497 INFO   Lay du lieu - Forward
+2021-07-10 10:17:52,497 INFO       Lay du lieu dong dien
+2021-07-10 10:17:52,497 INFO       Lay du lieu nhap luc
+2021-07-10 10:17:52,497 INFO       Lay du lieu do rung
+2021-07-10 10:17:52,497 INFO       Lay du lieu tieng on
+2021-07-10 10:17:52,608 INFO Chu trinh - 3 - Lay du lieu chieu thuan
+2021-07-10 10:17:52,658 INFO   Lay du lieu - Forward
+2021-07-10 10:17:52,658 INFO       Lay du lieu dong dien
+2021-07-10 10:17:52,658 INFO       Lay du lieu nhap luc
+2021-07-10 10:17:52,658 INFO       Lay du lieu do rung
+2021-07-10 10:17:52,658 INFO       Lay du lieu tieng on
+2021-07-10 10:17:52,698 INFO Chu trinh - 3 - Lay du lieu chieu thuan
+2021-07-10 10:17:52,698 INFO   Lay du lieu - Forward
+2021-07-10 10:17:52,698 INFO       Lay du lieu dong dien
+2021-07-10 10:17:52,698 INFO       Lay du lieu nhap luc
+2021-07-10 10:17:52,698 INFO       Lay du lieu do rung
+2021-07-10 10:17:52,698 INFO       Lay du lieu tieng on
+2021-07-10 10:17:52,808 INFO Chu trinh - 3 - Lay du lieu chieu thuan
+2021-07-10 10:17:52,858 INFO   Lay du lieu - Forward
+2021-07-10 10:17:52,858 INFO       Lay du lieu dong dien
+2021-07-10 10:17:52,858 INFO       Lay du lieu nhap luc
+2021-07-10 10:17:52,858 INFO       Lay du lieu do rung
+2021-07-10 10:17:52,858 INFO       Lay du lieu tieng on
+2021-07-10 10:17:52,908 INFO Chu trinh - 3 - Lay du lieu chieu thuan
+2021-07-10 10:17:52,958 INFO   Lay du lieu - Forward
+2021-07-10 10:17:52,958 INFO       Lay du lieu dong dien
+2021-07-10 10:17:52,958 INFO       Lay du lieu nhap luc
+2021-07-10 10:17:52,958 INFO       Lay du lieu do rung
+2021-07-10 10:17:52,958 INFO       Lay du lieu tieng on
+2021-07-10 10:17:52,998 INFO Chu trinh - 3 - Lay du lieu chieu thuan
+2021-07-10 10:17:53,006 INFO   Lay du lieu - Forward
+2021-07-10 10:17:53,006 INFO       Lay du lieu dong dien
+2021-07-10 10:17:53,006 INFO       Lay du lieu nhap luc
+2021-07-10 10:17:53,006 INFO       Lay du lieu do rung
+2021-07-10 10:17:53,006 INFO       Lay du lieu tieng on
+2021-07-10 10:17:53,098 INFO Chu trinh - 3 - Lay du lieu chieu thuan
+2021-07-10 10:17:53,148 INFO   Lay du lieu - Forward
+2021-07-10 10:17:53,148 INFO       Lay du lieu dong dien
+2021-07-10 10:17:53,148 INFO       Lay du lieu nhap luc
+2021-07-10 10:17:53,148 INFO       Lay du lieu do rung
+2021-07-10 10:17:53,148 INFO       Lay du lieu tieng on
+2021-07-10 10:17:53,198 INFO Chu trinh - 3 - Lay du lieu chieu thuan
+2021-07-10 10:17:53,208 INFO   Lay du lieu - Forward
+2021-07-10 10:17:53,208 INFO       Lay du lieu dong dien
+2021-07-10 10:17:53,208 INFO       Lay du lieu nhap luc
+2021-07-10 10:17:53,208 INFO       Lay du lieu do rung
+2021-07-10 10:17:53,208 INFO       Lay du lieu tieng on
+2021-07-10 10:17:53,308 INFO Chu trinh - 3 - Lay du lieu chieu thuan
+2021-07-10 10:17:53,367 INFO   Lay du lieu - Forward
+2021-07-10 10:17:53,367 INFO       Lay du lieu dong dien
+2021-07-10 10:17:53,367 INFO       Lay du lieu nhap luc
+2021-07-10 10:17:53,367 INFO       Lay du lieu do rung
+2021-07-10 10:17:53,367 INFO       Lay du lieu tieng on
+2021-07-10 10:17:53,397 INFO Chu trinh - 3 - Lay du lieu chieu thuan
+2021-07-10 10:17:53,397 INFO   Lay du lieu - Forward
+2021-07-10 10:17:53,397 INFO       Lay du lieu dong dien
+2021-07-10 10:17:53,397 INFO       Lay du lieu nhap luc
+2021-07-10 10:17:53,397 INFO       Lay du lieu do rung
+2021-07-10 10:17:53,397 INFO       Lay du lieu tieng on
+2021-07-10 10:17:53,397 INFO       Ve do thi du lieu
+2021-07-10 10:17:53,517 INFO Chu trinh - 3 - Lay du lieu chieu thuan
+2021-07-10 10:17:53,578 INFO   Lay du lieu - Forward
+2021-07-10 10:17:53,578 INFO       Lay du lieu dong dien
+2021-07-10 10:17:53,578 INFO       Lay du lieu nhap luc
+2021-07-10 10:17:53,578 INFO       Lay du lieu do rung
+2021-07-10 10:17:53,578 INFO       Lay du lieu tieng on
+2021-07-10 10:17:53,603 INFO Chu trinh - 3 - Lay du lieu chieu thuan
+2021-07-10 10:17:53,608 INFO   Lay du lieu - Forward
+2021-07-10 10:17:53,608 INFO       Lay du lieu dong dien
+2021-07-10 10:17:53,608 INFO       Lay du lieu nhap luc
+2021-07-10 10:17:53,608 INFO       Lay du lieu do rung
+2021-07-10 10:17:53,608 INFO       Lay du lieu tieng on
+2021-07-10 10:17:53,738 INFO Chu trinh - 3 - Lay du lieu chieu thuan
+2021-07-10 10:17:53,788 INFO   Lay du lieu - Forward
+2021-07-10 10:17:53,788 INFO       Lay du lieu dong dien
+2021-07-10 10:17:53,788 INFO       Lay du lieu nhap luc
+2021-07-10 10:17:53,788 INFO       Lay du lieu do rung
+2021-07-10 10:17:53,788 INFO       Lay du lieu tieng on
+2021-07-10 10:17:53,808 INFO Chu trinh - 3 - Lay du lieu chieu thuan
+2021-07-10 10:17:53,808 INFO   Lay du lieu - Forward
+2021-07-10 10:17:53,808 INFO       Lay du lieu dong dien
+2021-07-10 10:17:53,808 INFO       Lay du lieu nhap luc
+2021-07-10 10:17:53,808 INFO       Lay du lieu do rung
+2021-07-10 10:17:53,808 INFO       Lay du lieu tieng on
+2021-07-10 10:17:53,908 INFO Chu trinh - 3 - Lay du lieu chieu thuan
+2021-07-10 10:17:53,968 INFO   Lay du lieu - Forward
+2021-07-10 10:17:53,968 INFO       Lay du lieu dong dien
+2021-07-10 10:17:53,968 INFO       Lay du lieu nhap luc
+2021-07-10 10:17:53,968 INFO       Lay du lieu do rung
+2021-07-10 10:17:53,968 INFO       Lay du lieu tieng on
+2021-07-10 10:17:54,012 INFO Chu trinh - 3 - Lay du lieu chieu thuan
+2021-07-10 10:17:54,017 INFO   Lay du lieu - Forward
+2021-07-10 10:17:54,017 INFO       Lay du lieu dong dien
+2021-07-10 10:17:54,017 INFO       Lay du lieu nhap luc
+2021-07-10 10:17:54,017 INFO       Lay du lieu do rung
+2021-07-10 10:17:54,017 INFO       Lay du lieu tieng on
+2021-07-10 10:17:54,128 INFO Chu trinh - 3 - Lay du lieu chieu thuan
+2021-07-10 10:17:54,177 INFO   Lay du lieu - Forward
+2021-07-10 10:17:54,177 INFO       Lay du lieu dong dien
+2021-07-10 10:17:54,177 INFO       Lay du lieu nhap luc
+2021-07-10 10:17:54,177 INFO       Lay du lieu do rung
+2021-07-10 10:17:54,177 INFO       Lay du lieu tieng on
+2021-07-10 10:17:54,218 INFO Chu trinh - 3 - Lay du lieu chieu thuan
+2021-07-10 10:17:54,227 INFO   Lay du lieu - Forward
+2021-07-10 10:17:54,227 INFO       Lay du lieu dong dien
+2021-07-10 10:17:54,227 INFO       Lay du lieu nhap luc
+2021-07-10 10:17:54,227 INFO       Lay du lieu do rung
+2021-07-10 10:17:54,227 INFO       Lay du lieu tieng on
+2021-07-10 10:17:54,327 INFO Chu trinh - 3 - Lay du lieu chieu thuan
+2021-07-10 10:17:54,377 INFO   Lay du lieu - Forward
+2021-07-10 10:17:54,377 INFO       Lay du lieu dong dien
+2021-07-10 10:17:54,377 INFO       Lay du lieu nhap luc
+2021-07-10 10:17:54,377 INFO       Lay du lieu do rung
+2021-07-10 10:17:54,377 INFO       Lay du lieu tieng on
+2021-07-10 10:17:54,427 INFO Chu trinh - 3 - Lay du lieu chieu thuan
+2021-07-10 10:17:54,437 INFO   Lay du lieu - Forward
+2021-07-10 10:17:54,437 INFO       Lay du lieu dong dien
+2021-07-10 10:17:54,437 INFO       Lay du lieu nhap luc
+2021-07-10 10:17:54,437 INFO       Lay du lieu do rung
+2021-07-10 10:17:54,437 INFO       Lay du lieu tieng on
+2021-07-10 10:17:54,437 INFO       Ve do thi du lieu
+2021-07-10 10:17:54,508 INFO Chu trinh - 3 - Lay du lieu chieu thuan
+2021-07-10 10:17:54,547 INFO   Lay du lieu - Forward
+2021-07-10 10:17:54,547 INFO       Lay du lieu dong dien
+2021-07-10 10:17:54,547 INFO       Lay du lieu nhap luc
+2021-07-10 10:17:54,547 INFO       Lay du lieu do rung
+2021-07-10 10:17:54,547 INFO       Lay du lieu tieng on
+2021-07-10 10:17:54,638 INFO Chu trinh - 3 - Lay du lieu chieu thuan
+2021-07-10 10:17:54,647 INFO   Lay du lieu - Forward
+2021-07-10 10:17:54,647 INFO       Lay du lieu dong dien
+2021-07-10 10:17:54,647 INFO       Lay du lieu nhap luc
+2021-07-10 10:17:54,647 INFO       Lay du lieu do rung
+2021-07-10 10:17:54,647 INFO       Lay du lieu tieng on
+2021-07-10 10:17:54,707 INFO Chu trinh - 3 - Lay du lieu chieu thuan
+2021-07-10 10:17:54,947 INFO   Lay du lieu - Forward
+2021-07-10 10:17:54,947 INFO       Lay du lieu dong dien
+2021-07-10 10:17:54,947 INFO       Lay du lieu nhap luc
+2021-07-10 10:17:54,947 INFO       Lay du lieu do rung
+2021-07-10 10:17:54,947 INFO       Lay du lieu tieng on
+2021-07-10 10:17:54,947 ERROR Thoi gian chu trinh vuot qua 100ms
+2021-07-10 10:17:54,962 INFO Chu trinh - 3 - Lay du lieu chieu thuan
+2021-07-10 10:17:54,967 INFO   Lay du lieu - Forward
+2021-07-10 10:17:54,967 INFO       Lay du lieu dong dien
+2021-07-10 10:17:54,967 INFO       Lay du lieu nhap luc
+2021-07-10 10:17:54,967 INFO       Lay du lieu do rung
+2021-07-10 10:17:54,973 INFO       Lay du lieu tieng on
+2021-07-10 10:17:55,074 INFO Chu trinh - 3 - Lay du lieu chieu thuan
+2021-07-10 10:17:55,117 INFO   Lay du lieu - Forward
+2021-07-10 10:17:55,117 INFO       Lay du lieu dong dien
+2021-07-10 10:17:55,117 INFO       Lay du lieu nhap luc
+2021-07-10 10:17:55,117 INFO       Lay du lieu do rung
+2021-07-10 10:17:55,117 INFO       Lay du lieu tieng on
+2021-07-10 10:17:55,168 INFO Chu trinh - 3 - Lay du lieu chieu thuan
+2021-07-10 10:17:55,177 INFO   Lay du lieu - Forward
+2021-07-10 10:17:55,177 INFO       Lay du lieu dong dien
+2021-07-10 10:17:55,177 INFO       Lay du lieu nhap luc
+2021-07-10 10:17:55,177 INFO       Lay du lieu do rung
+2021-07-10 10:17:55,177 INFO       Lay du lieu tieng on
+2021-07-10 10:17:55,247 INFO Chu trinh - 3 - Lay du lieu chieu thuan
+2021-07-10 10:17:55,297 INFO   Lay du lieu - Forward
+2021-07-10 10:17:55,297 INFO       Lay du lieu dong dien
+2021-07-10 10:17:55,297 INFO       Lay du lieu nhap luc
+2021-07-10 10:17:55,297 INFO       Lay du lieu do rung
+2021-07-10 10:17:55,297 INFO       Lay du lieu tieng on
+2021-07-10 10:17:55,387 INFO Chu trinh - 3 - Lay du lieu chieu thuan
+2021-07-10 10:17:55,387 INFO   Lay du lieu - Forward
+2021-07-10 10:17:55,387 INFO       Lay du lieu dong dien
+2021-07-10 10:17:55,387 INFO       Lay du lieu nhap luc
+2021-07-10 10:17:55,387 INFO       Lay du lieu do rung
+2021-07-10 10:17:55,387 INFO       Lay du lieu tieng on
+2021-07-10 10:17:55,443 INFO Chu trinh - 3 - Lay du lieu chieu thuan
+2021-07-10 10:17:55,447 INFO   Lay du lieu - Forward
+2021-07-10 10:17:55,447 INFO       Lay du lieu dong dien
+2021-07-10 10:17:55,447 INFO       Lay du lieu nhap luc
+2021-07-10 10:17:55,447 INFO       Lay du lieu do rung
+2021-07-10 10:17:55,447 INFO       Lay du lieu tieng on
+2021-07-10 10:17:55,598 INFO Chu trinh - 3 - Lay du lieu chieu thuan
+2021-07-10 10:17:55,607 INFO   Lay du lieu - Forward
+2021-07-10 10:17:55,607 INFO       Lay du lieu dong dien
+2021-07-10 10:17:55,607 INFO       Lay du lieu nhap luc
+2021-07-10 10:17:55,607 INFO       Lay du lieu do rung
+2021-07-10 10:17:55,607 INFO       Lay du lieu tieng on
+2021-07-10 10:17:55,607 INFO       Ve do thi du lieu
+2021-07-10 10:17:55,653 INFO Chu trinh - 3 - Lay du lieu chieu thuan
+2021-07-10 10:17:55,708 INFO   Lay du lieu - Forward
+2021-07-10 10:17:55,708 INFO       Lay du lieu dong dien
+2021-07-10 10:17:55,708 INFO       Lay du lieu nhap luc
+2021-07-10 10:17:55,708 INFO       Lay du lieu do rung
+2021-07-10 10:17:55,708 INFO       Lay du lieu tieng on
+2021-07-10 10:17:55,997 ERROR Thoi gian chu trinh vuot qua 100ms
+2021-07-10 10:17:56,007 INFO Chu trinh - 9 - Ghi du lieu am thanh chieu thuan
+2021-07-10 10:17:56,077 INFO Chu trinh - 11 - Doi du lieu bat dau chieu nghich
+2021-07-10 10:17:57,392 ERROR Thoi gian chu trinh vuot qua 100ms
+2021-07-10 10:18:03,216 ERROR Thoi gian chu trinh vuot qua 100ms
+2021-07-10 10:18:03,276 INFO Chu trinh - 13 - Lay du lieu chieu nghich
+2021-07-10 10:18:03,276 INFO   Lay du lieu - Backward
+2021-07-10 10:18:03,276 INFO       Lay du lieu dong dien
+2021-07-10 10:18:03,276 INFO       Lay du lieu nhap luc
+2021-07-10 10:18:03,276 INFO       Lay du lieu do rung
+2021-07-10 10:18:03,276 INFO       Lay du lieu tieng on
+2021-07-10 10:18:03,276 INFO       Ve do thi du lieu
+2021-07-10 10:18:03,331 INFO Chu trinh - 13 - Lay du lieu chieu nghich
+2021-07-10 10:18:03,331 INFO   Lay du lieu - Backward
+2021-07-10 10:18:03,331 INFO       Lay du lieu dong dien
+2021-07-10 10:18:03,331 INFO       Lay du lieu nhap luc
+2021-07-10 10:18:03,331 INFO       Lay du lieu do rung
+2021-07-10 10:18:03,331 INFO       Lay du lieu tieng on
+2021-07-10 10:18:03,486 INFO Chu trinh - 13 - Lay du lieu chieu nghich
+2021-07-10 10:18:03,486 INFO   Lay du lieu - Backward
+2021-07-10 10:18:03,486 INFO       Lay du lieu dong dien
+2021-07-10 10:18:03,486 INFO       Lay du lieu nhap luc
+2021-07-10 10:18:03,486 INFO       Lay du lieu do rung
+2021-07-10 10:18:03,486 INFO       Lay du lieu tieng on
+2021-07-10 10:18:03,536 INFO Chu trinh - 13 - Lay du lieu chieu nghich
+2021-07-10 10:18:03,536 INFO   Lay du lieu - Backward
+2021-07-10 10:18:03,536 INFO       Lay du lieu dong dien
+2021-07-10 10:18:03,536 INFO       Lay du lieu nhap luc
+2021-07-10 10:18:03,536 INFO       Lay du lieu do rung
+2021-07-10 10:18:03,536 INFO       Lay du lieu tieng on
+2021-07-10 10:18:03,696 INFO Chu trinh - 13 - Lay du lieu chieu nghich
+2021-07-10 10:18:03,696 INFO   Lay du lieu - Backward
+2021-07-10 10:18:03,696 INFO       Lay du lieu dong dien
+2021-07-10 10:18:03,696 INFO       Lay du lieu nhap luc
+2021-07-10 10:18:03,696 INFO       Lay du lieu do rung
+2021-07-10 10:18:03,696 INFO       Lay du lieu tieng on
+2021-07-10 10:18:03,746 INFO Chu trinh - 13 - Lay du lieu chieu nghich
+2021-07-10 10:18:03,746 INFO   Lay du lieu - Backward
+2021-07-10 10:18:03,746 INFO       Lay du lieu dong dien
+2021-07-10 10:18:03,746 INFO       Lay du lieu nhap luc
+2021-07-10 10:18:03,746 INFO       Lay du lieu do rung
+2021-07-10 10:18:03,746 INFO       Lay du lieu tieng on
+2021-07-10 10:18:03,896 INFO Chu trinh - 13 - Lay du lieu chieu nghich
+2021-07-10 10:18:03,896 INFO   Lay du lieu - Backward
+2021-07-10 10:18:03,896 INFO       Lay du lieu dong dien
+2021-07-10 10:18:03,896 INFO       Lay du lieu nhap luc
+2021-07-10 10:18:03,896 INFO       Lay du lieu do rung
+2021-07-10 10:18:03,896 INFO       Lay du lieu tieng on
+2021-07-10 10:18:03,946 INFO Chu trinh - 13 - Lay du lieu chieu nghich
+2021-07-10 10:18:03,946 INFO   Lay du lieu - Backward
+2021-07-10 10:18:03,946 INFO       Lay du lieu dong dien
+2021-07-10 10:18:03,946 INFO       Lay du lieu nhap luc
+2021-07-10 10:18:03,946 INFO       Lay du lieu do rung
+2021-07-10 10:18:03,946 INFO       Lay du lieu tieng on
+2021-07-10 10:18:04,096 INFO Chu trinh - 13 - Lay du lieu chieu nghich
+2021-07-10 10:18:04,096 INFO   Lay du lieu - Backward
+2021-07-10 10:18:04,096 INFO       Lay du lieu dong dien
+2021-07-10 10:18:04,096 INFO       Lay du lieu nhap luc
+2021-07-10 10:18:04,096 INFO       Lay du lieu do rung
+2021-07-10 10:18:04,096 INFO       Lay du lieu tieng on
+2021-07-10 10:18:04,096 INFO       Ve do thi du lieu
+2021-07-10 10:18:04,145 INFO Chu trinh - 13 - Lay du lieu chieu nghich
+2021-07-10 10:18:04,145 INFO   Lay du lieu - Backward
+2021-07-10 10:18:04,145 INFO       Lay du lieu dong dien
+2021-07-10 10:18:04,145 INFO       Lay du lieu nhap luc
+2021-07-10 10:18:04,145 INFO       Lay du lieu do rung
+2021-07-10 10:18:04,145 INFO       Lay du lieu tieng on
+2021-07-10 10:18:04,296 INFO Chu trinh - 13 - Lay du lieu chieu nghich
+2021-07-10 10:18:04,296 INFO   Lay du lieu - Backward
+2021-07-10 10:18:04,296 INFO       Lay du lieu dong dien
+2021-07-10 10:18:04,296 INFO       Lay du lieu nhap luc
+2021-07-10 10:18:04,296 INFO       Lay du lieu do rung
+2021-07-10 10:18:04,296 INFO       Lay du lieu tieng on
+2021-07-10 10:18:04,445 INFO Chu trinh - 13 - Lay du lieu chieu nghich
+2021-07-10 10:18:04,445 INFO   Lay du lieu - Backward
+2021-07-10 10:18:04,445 INFO       Lay du lieu dong dien
+2021-07-10 10:18:04,445 INFO       Lay du lieu nhap luc
+2021-07-10 10:18:04,445 INFO       Lay du lieu do rung
+2021-07-10 10:18:04,445 INFO       Lay du lieu tieng on
+2021-07-10 10:18:04,445 ERROR Thoi gian chu trinh vuot qua 100ms
+2021-07-10 10:18:04,465 INFO Chu trinh - 13 - Lay du lieu chieu nghich
+2021-07-10 10:18:04,465 INFO   Lay du lieu - Backward
+2021-07-10 10:18:04,465 INFO       Lay du lieu dong dien
+2021-07-10 10:18:04,465 INFO       Lay du lieu nhap luc
+2021-07-10 10:18:04,465 INFO       Lay du lieu do rung
+2021-07-10 10:18:04,465 INFO       Lay du lieu tieng on
+2021-07-10 10:18:04,655 INFO Chu trinh - 13 - Lay du lieu chieu nghich
+2021-07-10 10:18:04,655 INFO   Lay du lieu - Backward
+2021-07-10 10:18:04,655 INFO       Lay du lieu dong dien
+2021-07-10 10:18:04,655 INFO       Lay du lieu nhap luc
+2021-07-10 10:18:04,655 INFO       Lay du lieu do rung
+2021-07-10 10:18:04,655 INFO       Lay du lieu tieng on
+2021-07-10 10:18:04,655 ERROR Thoi gian chu trinh vuot qua 100ms
+2021-07-10 10:18:04,666 INFO Chu trinh - 13 - Lay du lieu chieu nghich
+2021-07-10 10:18:04,666 INFO   Lay du lieu - Backward
+2021-07-10 10:18:04,666 INFO       Lay du lieu dong dien
+2021-07-10 10:18:04,666 INFO       Lay du lieu nhap luc
+2021-07-10 10:18:04,666 INFO       Lay du lieu do rung
+2021-07-10 10:18:04,666 INFO       Lay du lieu tieng on
+2021-07-10 10:18:04,836 INFO Chu trinh - 13 - Lay du lieu chieu nghich
+2021-07-10 10:18:04,836 INFO   Lay du lieu - Backward
+2021-07-10 10:18:04,836 INFO       Lay du lieu dong dien
+2021-07-10 10:18:04,836 INFO       Lay du lieu nhap luc
+2021-07-10 10:18:04,836 INFO       Lay du lieu do rung
+2021-07-10 10:18:04,836 INFO       Lay du lieu tieng on
+2021-07-10 10:18:04,885 INFO Chu trinh - 13 - Lay du lieu chieu nghich
+2021-07-10 10:18:04,885 INFO   Lay du lieu - Backward
+2021-07-10 10:18:04,885 INFO       Lay du lieu dong dien
+2021-07-10 10:18:04,885 INFO       Lay du lieu nhap luc
+2021-07-10 10:18:04,885 INFO       Lay du lieu do rung
+2021-07-10 10:18:04,885 INFO       Lay du lieu tieng on
+2021-07-10 10:18:05,046 INFO Chu trinh - 13 - Lay du lieu chieu nghich
+2021-07-10 10:18:05,046 INFO   Lay du lieu - Backward
+2021-07-10 10:18:05,046 INFO       Lay du lieu dong dien
+2021-07-10 10:18:05,046 INFO       Lay du lieu nhap luc
+2021-07-10 10:18:05,046 INFO       Lay du lieu do rung
+2021-07-10 10:18:05,046 INFO       Lay du lieu tieng on
+2021-07-10 10:18:05,095 INFO Chu trinh - 13 - Lay du lieu chieu nghich
+2021-07-10 10:18:05,095 INFO   Lay du lieu - Backward
+2021-07-10 10:18:05,095 INFO       Lay du lieu dong dien
+2021-07-10 10:18:05,095 INFO       Lay du lieu nhap luc
+2021-07-10 10:18:05,095 INFO       Lay du lieu do rung
+2021-07-10 10:18:05,095 INFO       Lay du lieu tieng on
+2021-07-10 10:18:05,095 INFO       Ve do thi du lieu
+2021-07-10 10:18:05,176 INFO Chu trinh - 13 - Lay du lieu chieu nghich
+2021-07-10 10:18:05,176 INFO   Lay du lieu - Backward
+2021-07-10 10:18:05,176 INFO       Lay du lieu dong dien
+2021-07-10 10:18:05,176 INFO       Lay du lieu nhap luc
+2021-07-10 10:18:05,176 INFO       Lay du lieu do rung
+2021-07-10 10:18:05,176 INFO       Lay du lieu tieng on
+2021-07-10 10:18:05,345 INFO Chu trinh - 13 - Lay du lieu chieu nghich
+2021-07-10 10:18:05,345 INFO   Lay du lieu - Backward
+2021-07-10 10:18:05,345 INFO       Lay du lieu dong dien
+2021-07-10 10:18:05,345 INFO       Lay du lieu nhap luc
+2021-07-10 10:18:05,345 INFO       Lay du lieu do rung
+2021-07-10 10:18:05,345 INFO       Lay du lieu tieng on
+2021-07-10 10:18:05,376 INFO Chu trinh - 13 - Lay du lieu chieu nghich
+2021-07-10 10:18:05,376 INFO   Lay du lieu - Backward
+2021-07-10 10:18:05,376 INFO       Lay du lieu dong dien
+2021-07-10 10:18:05,376 INFO       Lay du lieu nhap luc
+2021-07-10 10:18:05,376 INFO       Lay du lieu do rung
+2021-07-10 10:18:05,376 INFO       Lay du lieu tieng on
+2021-07-10 10:18:05,556 INFO Chu trinh - 13 - Lay du lieu chieu nghich
+2021-07-10 10:18:05,556 INFO   Lay du lieu - Backward
+2021-07-10 10:18:05,556 INFO       Lay du lieu dong dien
+2021-07-10 10:18:05,556 INFO       Lay du lieu nhap luc
+2021-07-10 10:18:05,556 INFO       Lay du lieu do rung
+2021-07-10 10:18:05,556 INFO       Lay du lieu tieng on
+2021-07-10 10:18:05,576 INFO Chu trinh - 13 - Lay du lieu chieu nghich
+2021-07-10 10:18:05,576 INFO   Lay du lieu - Backward
+2021-07-10 10:18:05,576 INFO       Lay du lieu dong dien
+2021-07-10 10:18:05,576 INFO       Lay du lieu nhap luc
+2021-07-10 10:18:05,576 INFO       Lay du lieu do rung
+2021-07-10 10:18:05,576 INFO       Lay du lieu tieng on
+2021-07-10 10:18:05,750 INFO Chu trinh - 13 - Lay du lieu chieu nghich
+2021-07-10 10:18:05,750 INFO   Lay du lieu - Backward
+2021-07-10 10:18:05,750 INFO       Lay du lieu dong dien
+2021-07-10 10:18:05,750 INFO       Lay du lieu nhap luc
+2021-07-10 10:18:05,750 INFO       Lay du lieu do rung
+2021-07-10 10:18:05,750 INFO       Lay du lieu tieng on
+2021-07-10 10:18:05,786 INFO Chu trinh - 13 - Lay du lieu chieu nghich
+2021-07-10 10:18:05,786 INFO   Lay du lieu - Backward
+2021-07-10 10:18:05,786 INFO       Lay du lieu dong dien
+2021-07-10 10:18:05,786 INFO       Lay du lieu nhap luc
+2021-07-10 10:18:05,786 INFO       Lay du lieu do rung
+2021-07-10 10:18:05,786 INFO       Lay du lieu tieng on
+2021-07-10 10:18:05,960 INFO Chu trinh - 13 - Lay du lieu chieu nghich
+2021-07-10 10:18:05,960 INFO   Lay du lieu - Backward
+2021-07-10 10:18:05,960 INFO       Lay du lieu dong dien
+2021-07-10 10:18:05,960 INFO       Lay du lieu nhap luc
+2021-07-10 10:18:05,960 INFO       Lay du lieu do rung
+2021-07-10 10:18:05,960 INFO       Lay du lieu tieng on
+2021-07-10 10:18:05,986 INFO Chu trinh - 13 - Lay du lieu chieu nghich
+2021-07-10 10:18:05,986 INFO   Lay du lieu - Backward
+2021-07-10 10:18:05,986 INFO       Lay du lieu dong dien
+2021-07-10 10:18:05,986 INFO       Lay du lieu nhap luc
+2021-07-10 10:18:05,986 INFO       Lay du lieu do rung
+2021-07-10 10:18:05,986 INFO       Lay du lieu tieng on
+2021-07-10 10:18:06,155 INFO Chu trinh - 13 - Lay du lieu chieu nghich
+2021-07-10 10:18:06,155 INFO   Lay du lieu - Backward
+2021-07-10 10:18:06,165 INFO       Lay du lieu dong dien
+2021-07-10 10:18:06,165 INFO       Lay du lieu nhap luc
+2021-07-10 10:18:06,165 INFO       Lay du lieu do rung
+2021-07-10 10:18:06,165 INFO       Lay du lieu tieng on
+2021-07-10 10:18:06,165 INFO       Ve do thi du lieu
+2021-07-10 10:18:06,325 INFO Chu trinh - 13 - Lay du lieu chieu nghich
+2021-07-10 10:18:06,325 INFO   Lay du lieu - Backward
+2021-07-10 10:18:06,325 INFO       Lay du lieu dong dien
+2021-07-10 10:18:06,325 INFO       Lay du lieu nhap luc
+2021-07-10 10:18:06,325 INFO       Lay du lieu do rung
+2021-07-10 10:18:06,335 INFO       Lay du lieu tieng on
+2021-07-10 10:18:06,335 ERROR Thoi gian chu trinh vuot qua 100ms
+2021-07-10 10:18:06,475 INFO Chu trinh - 13 - Lay du lieu chieu nghich
+2021-07-10 10:18:06,475 INFO   Lay du lieu - Backward
+2021-07-10 10:18:06,475 INFO       Lay du lieu dong dien
+2021-07-10 10:18:06,475 INFO       Lay du lieu nhap luc
+2021-07-10 10:18:06,475 INFO       Lay du lieu do rung
+2021-07-10 10:18:06,475 INFO       Lay du lieu tieng on
+2021-07-10 10:18:06,475 ERROR Thoi gian chu trinh vuot qua 100ms
+2021-07-10 10:18:06,492 INFO Chu trinh - 13 - Lay du lieu chieu nghich
+2021-07-10 10:18:06,492 INFO   Lay du lieu - Backward
+2021-07-10 10:18:06,493 INFO       Lay du lieu dong dien
+2021-07-10 10:18:06,493 INFO       Lay du lieu nhap luc
+2021-07-10 10:18:06,493 INFO       Lay du lieu do rung
+2021-07-10 10:18:06,493 INFO       Lay du lieu tieng on
+2021-07-10 10:18:06,645 INFO Chu trinh - 13 - Lay du lieu chieu nghich
+2021-07-10 10:18:06,645 INFO   Lay du lieu - Backward
+2021-07-10 10:18:06,645 INFO       Lay du lieu dong dien
+2021-07-10 10:18:06,645 INFO       Lay du lieu nhap luc
+2021-07-10 10:18:06,645 INFO       Lay du lieu do rung
+2021-07-10 10:18:06,645 INFO       Lay du lieu tieng on
+2021-07-10 10:18:06,705 INFO Chu trinh - 13 - Lay du lieu chieu nghich
+2021-07-10 10:18:06,705 INFO   Lay du lieu - Backward
+2021-07-10 10:18:06,705 INFO       Lay du lieu dong dien
+2021-07-10 10:18:06,705 INFO       Lay du lieu nhap luc
+2021-07-10 10:18:06,705 INFO       Lay du lieu do rung
+2021-07-10 10:18:06,705 INFO       Lay du lieu tieng on
+2021-07-10 10:18:06,866 INFO Chu trinh - 13 - Lay du lieu chieu nghich
+2021-07-10 10:18:06,866 INFO   Lay du lieu - Backward
+2021-07-10 10:18:06,866 INFO       Lay du lieu dong dien
+2021-07-10 10:18:06,866 INFO       Lay du lieu nhap luc
+2021-07-10 10:18:06,866 INFO       Lay du lieu do rung
+2021-07-10 10:18:06,866 INFO       Lay du lieu tieng on
+2021-07-10 10:18:06,915 INFO Chu trinh - 13 - Lay du lieu chieu nghich
+2021-07-10 10:18:06,915 INFO   Lay du lieu - Backward
+2021-07-10 10:18:06,915 INFO       Lay du lieu dong dien
+2021-07-10 10:18:06,915 INFO       Lay du lieu nhap luc
+2021-07-10 10:18:06,915 INFO       Lay du lieu do rung
+2021-07-10 10:18:06,915 INFO       Lay du lieu tieng on
+2021-07-10 10:18:07,045 INFO Chu trinh - 13 - Lay du lieu chieu nghich
+2021-07-10 10:18:07,045 INFO   Lay du lieu - Backward
+2021-07-10 10:18:07,045 INFO       Lay du lieu dong dien
+2021-07-10 10:18:07,045 INFO       Lay du lieu nhap luc
+2021-07-10 10:18:07,045 INFO       Lay du lieu do rung
+2021-07-10 10:18:07,045 INFO       Lay du lieu tieng on
+2021-07-10 10:18:07,138 INFO Chu trinh - 13 - Lay du lieu chieu nghich
+2021-07-10 10:18:07,138 INFO   Lay du lieu - Backward
+2021-07-10 10:18:07,138 INFO       Lay du lieu dong dien
+2021-07-10 10:18:07,138 INFO       Lay du lieu nhap luc
+2021-07-10 10:18:07,138 INFO       Lay du lieu do rung
+2021-07-10 10:18:07,138 INFO       Lay du lieu tieng on
+2021-07-10 10:18:07,255 INFO Chu trinh - 13 - Lay du lieu chieu nghich
+2021-07-10 10:18:07,255 INFO   Lay du lieu - Backward
+2021-07-10 10:18:07,255 INFO       Lay du lieu dong dien
+2021-07-10 10:18:07,255 INFO       Lay du lieu nhap luc
+2021-07-10 10:18:07,255 INFO       Lay du lieu do rung
+2021-07-10 10:18:07,255 INFO       Lay du lieu tieng on
+2021-07-10 10:18:07,255 INFO       Ve do thi du lieu
+2021-07-10 10:18:07,385 INFO Chu trinh - 13 - Lay du lieu chieu nghich
+2021-07-10 10:18:07,385 INFO   Lay du lieu - Backward
+2021-07-10 10:18:07,385 INFO       Lay du lieu dong dien
+2021-07-10 10:18:07,385 INFO       Lay du lieu nhap luc
+2021-07-10 10:18:07,385 INFO       Lay du lieu do rung
+2021-07-10 10:18:07,385 INFO       Lay du lieu tieng on
+2021-07-10 10:18:07,429 INFO Chu trinh - 13 - Lay du lieu chieu nghich
+2021-07-10 10:18:07,429 INFO   Lay du lieu - Backward
+2021-07-10 10:18:07,429 INFO       Lay du lieu dong dien
+2021-07-10 10:18:07,429 INFO       Lay du lieu nhap luc
+2021-07-10 10:18:07,429 INFO       Lay du lieu do rung
+2021-07-10 10:18:07,429 INFO       Lay du lieu tieng on
+2021-07-10 10:18:07,585 INFO Chu trinh - 13 - Lay du lieu chieu nghich
+2021-07-10 10:18:07,585 INFO   Lay du lieu - Backward
+2021-07-10 10:18:07,585 INFO       Lay du lieu dong dien
+2021-07-10 10:18:07,585 INFO       Lay du lieu nhap luc
+2021-07-10 10:18:07,585 INFO       Lay du lieu do rung
+2021-07-10 10:18:07,585 INFO       Lay du lieu tieng on
+2021-07-10 10:18:07,615 INFO Chu trinh - 13 - Lay du lieu chieu nghich
+2021-07-10 10:18:07,615 INFO   Lay du lieu - Backward
+2021-07-10 10:18:07,615 INFO       Lay du lieu dong dien
+2021-07-10 10:18:07,615 INFO       Lay du lieu nhap luc
+2021-07-10 10:18:07,615 INFO       Lay du lieu do rung
+2021-07-10 10:18:07,615 INFO       Lay du lieu tieng on
+2021-07-10 10:18:07,745 INFO Chu trinh - 13 - Lay du lieu chieu nghich
+2021-07-10 10:18:07,745 INFO   Lay du lieu - Backward
+2021-07-10 10:18:07,745 INFO       Lay du lieu dong dien
+2021-07-10 10:18:07,745 INFO       Lay du lieu nhap luc
+2021-07-10 10:18:07,745 INFO       Lay du lieu do rung
+2021-07-10 10:18:07,745 INFO       Lay du lieu tieng on
+2021-07-10 10:18:07,815 INFO Chu trinh - 13 - Lay du lieu chieu nghich
+2021-07-10 10:18:07,815 INFO   Lay du lieu - Backward
+2021-07-10 10:18:07,815 INFO       Lay du lieu dong dien
+2021-07-10 10:18:07,815 INFO       Lay du lieu nhap luc
+2021-07-10 10:18:07,815 INFO       Lay du lieu do rung
+2021-07-10 10:18:07,815 INFO       Lay du lieu tieng on
+2021-07-10 10:18:07,985 INFO Chu trinh - 13 - Lay du lieu chieu nghich
+2021-07-10 10:18:07,985 INFO   Lay du lieu - Backward
+2021-07-10 10:18:07,985 INFO       Lay du lieu dong dien
+2021-07-10 10:18:07,985 INFO       Lay du lieu nhap luc
+2021-07-10 10:18:07,985 INFO       Lay du lieu do rung
+2021-07-10 10:18:07,985 INFO       Lay du lieu tieng on
+2021-07-10 10:18:08,016 INFO Chu trinh - 13 - Lay du lieu chieu nghich
+2021-07-10 10:18:08,016 INFO   Lay du lieu - Backward
+2021-07-10 10:18:08,016 INFO       Lay du lieu dong dien
+2021-07-10 10:18:08,016 INFO       Lay du lieu nhap luc
+2021-07-10 10:18:08,016 INFO       Lay du lieu do rung
+2021-07-10 10:18:08,016 INFO       Lay du lieu tieng on
+2021-07-10 10:18:08,285 INFO Chu trinh - 13 - Lay du lieu chieu nghich
+2021-07-10 10:18:08,285 INFO   Lay du lieu - Backward
+2021-07-10 10:18:08,285 INFO       Lay du lieu dong dien
+2021-07-10 10:18:08,285 INFO       Lay du lieu nhap luc
+2021-07-10 10:18:08,285 INFO       Lay du lieu do rung
+2021-07-10 10:18:08,285 INFO       Lay du lieu tieng on
+2021-07-10 10:18:08,285 ERROR Thoi gian chu trinh vuot qua 100ms
+2021-07-10 10:18:08,285 INFO Chu trinh - 13 - Lay du lieu chieu nghich
+2021-07-10 10:18:08,285 INFO   Lay du lieu - Backward
+2021-07-10 10:18:08,285 INFO       Lay du lieu dong dien
+2021-07-10 10:18:08,285 INFO       Lay du lieu nhap luc
+2021-07-10 10:18:08,285 INFO       Lay du lieu do rung
+2021-07-10 10:18:08,285 INFO       Lay du lieu tieng on
+2021-07-10 10:18:08,285 INFO       Ve do thi du lieu
+2021-07-10 10:18:08,440 INFO Chu trinh - 13 - Lay du lieu chieu nghich
+2021-07-10 10:18:08,440 INFO   Lay du lieu - Backward
+2021-07-10 10:18:08,440 INFO       Lay du lieu dong dien
+2021-07-10 10:18:08,440 INFO       Lay du lieu nhap luc
+2021-07-10 10:18:08,440 INFO       Lay du lieu do rung
+2021-07-10 10:18:08,440 INFO       Lay du lieu tieng on
+2021-07-10 10:18:08,495 INFO Chu trinh - 13 - Lay du lieu chieu nghich
+2021-07-10 10:18:08,495 INFO   Lay du lieu - Backward
+2021-07-10 10:18:08,495 INFO       Lay du lieu dong dien
+2021-07-10 10:18:08,495 INFO       Lay du lieu nhap luc
+2021-07-10 10:18:08,495 INFO       Lay du lieu do rung
+2021-07-10 10:18:08,495 INFO       Lay du lieu tieng on
+2021-07-10 10:18:08,685 INFO Chu trinh - 13 - Lay du lieu chieu nghich
+2021-07-10 10:18:08,685 INFO   Lay du lieu - Backward
+2021-07-10 10:18:08,685 INFO       Lay du lieu dong dien
+2021-07-10 10:18:08,685 INFO       Lay du lieu nhap luc
+2021-07-10 10:18:08,685 INFO       Lay du lieu do rung
+2021-07-10 10:18:08,685 INFO       Lay du lieu tieng on
+2021-07-10 10:18:08,715 INFO Chu trinh - 13 - Lay du lieu chieu nghich
+2021-07-10 10:18:08,715 INFO   Lay du lieu - Backward
+2021-07-10 10:18:08,715 INFO       Lay du lieu dong dien
+2021-07-10 10:18:08,715 INFO       Lay du lieu nhap luc
+2021-07-10 10:18:08,715 INFO       Lay du lieu do rung
+2021-07-10 10:18:08,715 INFO       Lay du lieu tieng on
+2021-07-10 10:18:08,885 INFO Chu trinh - 13 - Lay du lieu chieu nghich
+2021-07-10 10:18:08,885 INFO   Lay du lieu - Backward
+2021-07-10 10:18:08,885 INFO       Lay du lieu dong dien
+2021-07-10 10:18:08,885 INFO       Lay du lieu nhap luc
+2021-07-10 10:18:08,885 INFO       Lay du lieu do rung
+2021-07-10 10:18:08,885 INFO       Lay du lieu tieng on
+2021-07-10 10:18:08,915 INFO Chu trinh - 13 - Lay du lieu chieu nghich
+2021-07-10 10:18:08,915 INFO   Lay du lieu - Backward
+2021-07-10 10:18:08,915 INFO       Lay du lieu dong dien
+2021-07-10 10:18:08,915 INFO       Lay du lieu nhap luc
+2021-07-10 10:18:08,915 INFO       Lay du lieu do rung
+2021-07-10 10:18:08,915 INFO       Lay du lieu tieng on
+2021-07-10 10:18:09,090 INFO Chu trinh - 13 - Lay du lieu chieu nghich
+2021-07-10 10:18:09,090 INFO   Lay du lieu - Backward
+2021-07-10 10:18:09,090 INFO       Lay du lieu dong dien
+2021-07-10 10:18:09,090 INFO       Lay du lieu nhap luc
+2021-07-10 10:18:09,090 INFO       Lay du lieu do rung
+2021-07-10 10:18:09,090 INFO       Lay du lieu tieng on
+2021-07-10 10:18:09,120 INFO Chu trinh - 13 - Lay du lieu chieu nghich
+2021-07-10 10:18:09,120 INFO   Lay du lieu - Backward
+2021-07-10 10:18:09,120 INFO       Lay du lieu dong dien
+2021-07-10 10:18:09,120 INFO       Lay du lieu nhap luc
+2021-07-10 10:18:09,120 INFO       Lay du lieu do rung
+2021-07-10 10:18:09,120 INFO       Lay du lieu tieng on
+2021-07-10 10:18:09,295 INFO Chu trinh - 13 - Lay du lieu chieu nghich
+2021-07-10 10:18:09,295 INFO   Lay du lieu - Backward
+2021-07-10 10:18:09,295 INFO       Lay du lieu dong dien
+2021-07-10 10:18:09,295 INFO       Lay du lieu nhap luc
+2021-07-10 10:18:09,295 INFO       Lay du lieu do rung
+2021-07-10 10:18:09,295 INFO       Lay du lieu tieng on
+2021-07-10 10:18:09,315 INFO Chu trinh - 13 - Lay du lieu chieu nghich
+2021-07-10 10:18:09,315 INFO   Lay du lieu - Backward
+2021-07-10 10:18:09,315 INFO       Lay du lieu dong dien
+2021-07-10 10:18:09,315 INFO       Lay du lieu nhap luc
+2021-07-10 10:18:09,315 INFO       Lay du lieu do rung
+2021-07-10 10:18:09,315 INFO       Lay du lieu tieng on
+2021-07-10 10:18:09,315 INFO       Ve do thi du lieu
+2021-07-10 10:18:09,465 INFO Chu trinh - 13 - Lay du lieu chieu nghich
+2021-07-10 10:18:09,465 INFO   Lay du lieu - Backward
+2021-07-10 10:18:09,465 INFO       Lay du lieu dong dien
+2021-07-10 10:18:09,465 INFO       Lay du lieu nhap luc
+2021-07-10 10:18:09,465 INFO       Lay du lieu do rung
+2021-07-10 10:18:09,465 INFO       Lay du lieu tieng on
+2021-07-10 10:18:09,525 INFO Chu trinh - 13 - Lay du lieu chieu nghich
+2021-07-10 10:18:09,525 INFO   Lay du lieu - Backward
+2021-07-10 10:18:09,525 INFO       Lay du lieu dong dien
+2021-07-10 10:18:09,525 INFO       Lay du lieu nhap luc
+2021-07-10 10:18:09,525 INFO       Lay du lieu do rung
+2021-07-10 10:18:09,525 INFO       Lay du lieu tieng on
+2021-07-10 10:18:09,685 INFO Chu trinh - 13 - Lay du lieu chieu nghich
+2021-07-10 10:18:09,685 INFO   Lay du lieu - Backward
+2021-07-10 10:18:09,685 INFO       Lay du lieu dong dien
+2021-07-10 10:18:09,685 INFO       Lay du lieu nhap luc
+2021-07-10 10:18:09,685 INFO       Lay du lieu do rung
+2021-07-10 10:18:09,685 INFO       Lay du lieu tieng on
+2021-07-10 10:18:09,767 INFO Chu trinh - 13 - Lay du lieu chieu nghich
+2021-07-10 10:18:09,768 INFO   Lay du lieu - Backward
+2021-07-10 10:18:09,768 INFO       Lay du lieu dong dien
+2021-07-10 10:18:09,768 INFO       Lay du lieu nhap luc
+2021-07-10 10:18:09,768 INFO       Lay du lieu do rung
+2021-07-10 10:18:09,768 INFO       Lay du lieu tieng on
+2021-07-10 10:18:09,815 INFO Chu trinh - 13 - Lay du lieu chieu nghich
+2021-07-10 10:18:09,815 INFO   Lay du lieu - Backward
+2021-07-10 10:18:09,815 INFO       Lay du lieu dong dien
+2021-07-10 10:18:09,815 INFO       Lay du lieu nhap luc
+2021-07-10 10:18:09,815 INFO       Lay du lieu do rung
+2021-07-10 10:18:09,815 INFO       Lay du lieu tieng on
+2021-07-10 10:18:09,975 INFO Chu trinh - 13 - Lay du lieu chieu nghich
+2021-07-10 10:18:09,975 INFO   Lay du lieu - Backward
+2021-07-10 10:18:09,975 INFO       Lay du lieu dong dien
+2021-07-10 10:18:09,975 INFO       Lay du lieu nhap luc
+2021-07-10 10:18:09,975 INFO       Lay du lieu do rung
+2021-07-10 10:18:09,975 INFO       Lay du lieu tieng on
+2021-07-10 10:18:10,185 INFO Chu trinh - 13 - Lay du lieu chieu nghich
+2021-07-10 10:18:10,185 INFO   Lay du lieu - Backward
+2021-07-10 10:18:10,185 INFO       Lay du lieu dong dien
+2021-07-10 10:18:10,185 INFO       Lay du lieu nhap luc
+2021-07-10 10:18:10,185 INFO       Lay du lieu do rung
+2021-07-10 10:18:10,185 INFO       Lay du lieu tieng on
+2021-07-10 10:18:10,185 ERROR Thoi gian chu trinh vuot qua 100ms
+2021-07-10 10:18:10,240 INFO Chu trinh - 13 - Lay du lieu chieu nghich
+2021-07-10 10:18:10,240 INFO   Lay du lieu - Backward
+2021-07-10 10:18:10,240 INFO       Lay du lieu dong dien
+2021-07-10 10:18:10,240 INFO       Lay du lieu nhap luc
+2021-07-10 10:18:10,240 INFO       Lay du lieu do rung
+2021-07-10 10:18:10,240 INFO       Lay du lieu tieng on
+2021-07-10 10:18:10,300 INFO Chu trinh - 13 - Lay du lieu chieu nghich
+2021-07-10 10:18:10,300 INFO   Lay du lieu - Backward
+2021-07-10 10:18:10,300 INFO       Lay du lieu dong dien
+2021-07-10 10:18:10,300 INFO       Lay du lieu nhap luc
+2021-07-10 10:18:10,305 INFO       Lay du lieu do rung
+2021-07-10 10:18:10,305 INFO       Lay du lieu tieng on
+2021-07-10 10:18:10,455 INFO Chu trinh - 13 - Lay du lieu chieu nghich
+2021-07-10 10:18:10,455 INFO   Lay du lieu - Backward
+2021-07-10 10:18:10,455 INFO       Lay du lieu dong dien
+2021-07-10 10:18:10,455 INFO       Lay du lieu nhap luc
+2021-07-10 10:18:10,455 INFO       Lay du lieu do rung
+2021-07-10 10:18:10,455 INFO       Lay du lieu tieng on
+2021-07-10 10:18:10,455 INFO       Ve do thi du lieu
+2021-07-10 10:18:10,513 INFO Chu trinh - 13 - Lay du lieu chieu nghich
+2021-07-10 10:18:10,513 INFO   Lay du lieu - Backward
+2021-07-10 10:18:10,513 INFO       Lay du lieu dong dien
+2021-07-10 10:18:10,513 INFO       Lay du lieu nhap luc
+2021-07-10 10:18:10,513 INFO       Lay du lieu do rung
+2021-07-10 10:18:10,514 INFO       Lay du lieu tieng on
+2021-07-10 10:18:10,705 INFO Chu trinh - 13 - Lay du lieu chieu nghich
+2021-07-10 10:18:10,705 INFO   Lay du lieu - Backward
+2021-07-10 10:18:10,705 INFO       Lay du lieu dong dien
+2021-07-10 10:18:10,705 INFO       Lay du lieu nhap luc
+2021-07-10 10:18:10,705 INFO       Lay du lieu do rung
+2021-07-10 10:18:10,705 INFO       Lay du lieu tieng on
+2021-07-10 10:18:10,735 INFO Chu trinh - 13 - Lay du lieu chieu nghich
+2021-07-10 10:18:10,735 INFO   Lay du lieu - Backward
+2021-07-10 10:18:10,735 INFO       Lay du lieu dong dien
+2021-07-10 10:18:10,735 INFO       Lay du lieu nhap luc
+2021-07-10 10:18:10,735 INFO       Lay du lieu do rung
+2021-07-10 10:18:10,735 INFO       Lay du lieu tieng on
+2021-07-10 10:18:10,910 INFO Chu trinh - 13 - Lay du lieu chieu nghich
+2021-07-10 10:18:10,910 INFO   Lay du lieu - Backward
+2021-07-10 10:18:10,910 INFO       Lay du lieu dong dien
+2021-07-10 10:18:10,910 INFO       Lay du lieu nhap luc
+2021-07-10 10:18:10,910 INFO       Lay du lieu do rung
+2021-07-10 10:18:10,910 INFO       Lay du lieu tieng on
+2021-07-10 10:18:10,941 INFO Chu trinh - 13 - Lay du lieu chieu nghich
+2021-07-10 10:18:10,941 INFO   Lay du lieu - Backward
+2021-07-10 10:18:10,941 INFO       Lay du lieu dong dien
+2021-07-10 10:18:10,941 INFO       Lay du lieu nhap luc
+2021-07-10 10:18:10,941 INFO       Lay du lieu do rung
+2021-07-10 10:18:10,941 INFO       Lay du lieu tieng on
+2021-07-10 10:18:11,115 INFO Chu trinh - 13 - Lay du lieu chieu nghich
+2021-07-10 10:18:11,115 INFO   Lay du lieu - Backward
+2021-07-10 10:18:11,115 INFO       Lay du lieu dong dien
+2021-07-10 10:18:11,115 INFO       Lay du lieu nhap luc
+2021-07-10 10:18:11,115 INFO       Lay du lieu do rung
+2021-07-10 10:18:11,115 INFO       Lay du lieu tieng on
+2021-07-10 10:18:11,134 INFO Chu trinh - 13 - Lay du lieu chieu nghich
+2021-07-10 10:18:11,134 INFO   Lay du lieu - Backward
+2021-07-10 10:18:11,134 INFO       Lay du lieu dong dien
+2021-07-10 10:18:11,134 INFO       Lay du lieu nhap luc
+2021-07-10 10:18:11,134 INFO       Lay du lieu do rung
+2021-07-10 10:18:11,134 INFO       Lay du lieu tieng on
+2021-07-10 10:18:11,315 INFO Chu trinh - 13 - Lay du lieu chieu nghich
+2021-07-10 10:18:11,315 INFO   Lay du lieu - Backward
+2021-07-10 10:18:11,315 INFO       Lay du lieu dong dien
+2021-07-10 10:18:11,315 INFO       Lay du lieu nhap luc
+2021-07-10 10:18:11,315 INFO       Lay du lieu do rung
+2021-07-10 10:18:11,315 INFO       Lay du lieu tieng on
+2021-07-10 10:18:11,334 INFO Chu trinh - 13 - Lay du lieu chieu nghich
+2021-07-10 10:18:11,334 INFO   Lay du lieu - Backward
+2021-07-10 10:18:11,334 INFO       Lay du lieu dong dien
+2021-07-10 10:18:11,334 INFO       Lay du lieu nhap luc
+2021-07-10 10:18:11,334 INFO       Lay du lieu do rung
+2021-07-10 10:18:11,334 INFO       Lay du lieu tieng on
+2021-07-10 10:18:11,514 INFO Chu trinh - 13 - Lay du lieu chieu nghich
+2021-07-10 10:18:11,514 INFO   Lay du lieu - Backward
+2021-07-10 10:18:11,514 INFO       Lay du lieu dong dien
+2021-07-10 10:18:11,514 INFO       Lay du lieu nhap luc
+2021-07-10 10:18:11,514 INFO       Lay du lieu do rung
+2021-07-10 10:18:11,514 INFO       Lay du lieu tieng on
+2021-07-10 10:18:11,514 INFO       Ve do thi du lieu
+2021-07-10 10:18:11,535 INFO Chu trinh - 13 - Lay du lieu chieu nghich
+2021-07-10 10:18:11,535 INFO   Lay du lieu - Backward
+2021-07-10 10:18:11,535 INFO       Lay du lieu dong dien
+2021-07-10 10:18:11,535 INFO       Lay du lieu nhap luc
+2021-07-10 10:18:11,535 INFO       Lay du lieu do rung
+2021-07-10 10:18:11,535 INFO       Lay du lieu tieng on
+2021-07-10 10:18:11,704 INFO Chu trinh - 13 - Lay du lieu chieu nghich
+2021-07-10 10:18:11,704 INFO   Lay du lieu - Backward
+2021-07-10 10:18:11,704 INFO       Lay du lieu dong dien
+2021-07-10 10:18:11,704 INFO       Lay du lieu nhap luc
+2021-07-10 10:18:11,704 INFO       Lay du lieu do rung
+2021-07-10 10:18:11,704 INFO       Lay du lieu tieng on
+2021-07-10 10:18:11,735 INFO Chu trinh - 13 - Lay du lieu chieu nghich
+2021-07-10 10:18:11,735 INFO   Lay du lieu - Backward
+2021-07-10 10:18:11,735 INFO       Lay du lieu dong dien
+2021-07-10 10:18:11,735 INFO       Lay du lieu nhap luc
+2021-07-10 10:18:11,735 INFO       Lay du lieu do rung
+2021-07-10 10:18:11,735 INFO       Lay du lieu tieng on
+2021-07-10 10:18:12,004 INFO Chu trinh - 13 - Lay du lieu chieu nghich
+2021-07-10 10:18:12,004 INFO   Lay du lieu - Backward
+2021-07-10 10:18:12,004 INFO       Lay du lieu dong dien
+2021-07-10 10:18:12,004 INFO       Lay du lieu nhap luc
+2021-07-10 10:18:12,004 INFO       Lay du lieu do rung
+2021-07-10 10:18:12,004 INFO       Lay du lieu tieng on
+2021-07-10 10:18:12,004 ERROR Thoi gian chu trinh vuot qua 100ms
+2021-07-10 10:18:12,024 INFO Chu trinh - 13 - Lay du lieu chieu nghich
+2021-07-10 10:18:12,024 INFO   Lay du lieu - Backward
+2021-07-10 10:18:12,024 INFO       Lay du lieu dong dien
+2021-07-10 10:18:12,024 INFO       Lay du lieu nhap luc
+2021-07-10 10:18:12,024 INFO       Lay du lieu do rung
+2021-07-10 10:18:12,024 INFO       Lay du lieu tieng on
+2021-07-10 10:18:12,224 INFO Chu trinh - 13 - Lay du lieu chieu nghich
+2021-07-10 10:18:12,224 INFO   Lay du lieu - Backward
+2021-07-10 10:18:12,224 INFO       Lay du lieu dong dien
+2021-07-10 10:18:12,224 INFO       Lay du lieu nhap luc
+2021-07-10 10:18:12,224 INFO       Lay du lieu do rung
+2021-07-10 10:18:12,224 INFO       Lay du lieu tieng on
+2021-07-10 10:18:12,224 ERROR Thoi gian chu trinh vuot qua 100ms
+2021-07-10 10:18:12,235 INFO Chu trinh - 13 - Lay du lieu chieu nghich
+2021-07-10 10:18:12,235 INFO   Lay du lieu - Backward
+2021-07-10 10:18:12,235 INFO       Lay du lieu dong dien
+2021-07-10 10:18:12,235 INFO       Lay du lieu nhap luc
+2021-07-10 10:18:12,235 INFO       Lay du lieu do rung
+2021-07-10 10:18:12,235 INFO       Lay du lieu tieng on
+2021-07-10 10:18:12,434 INFO Chu trinh - 13 - Lay du lieu chieu nghich
+2021-07-10 10:18:12,434 INFO   Lay du lieu - Backward
+2021-07-10 10:18:12,434 INFO       Lay du lieu dong dien
+2021-07-10 10:18:12,434 INFO       Lay du lieu nhap luc
+2021-07-10 10:18:12,434 INFO       Lay du lieu do rung
+2021-07-10 10:18:12,434 INFO       Lay du lieu tieng on
+2021-07-10 10:18:12,434 ERROR Thoi gian chu trinh vuot qua 100ms
+2021-07-10 10:18:12,450 INFO Chu trinh - 13 - Lay du lieu chieu nghich
+2021-07-10 10:18:12,450 INFO   Lay du lieu - Backward
+2021-07-10 10:18:12,450 INFO       Lay du lieu dong dien
+2021-07-10 10:18:12,450 INFO       Lay du lieu nhap luc
+2021-07-10 10:18:12,450 INFO       Lay du lieu do rung
+2021-07-10 10:18:12,450 INFO       Lay du lieu tieng on
+2021-07-10 10:18:12,614 INFO Chu trinh - 13 - Lay du lieu chieu nghich
+2021-07-10 10:18:12,614 INFO   Lay du lieu - Backward
+2021-07-10 10:18:12,614 INFO       Lay du lieu dong dien
+2021-07-10 10:18:12,614 INFO       Lay du lieu nhap luc
+2021-07-10 10:18:12,614 INFO       Lay du lieu do rung
+2021-07-10 10:18:12,614 INFO       Lay du lieu tieng on
+2021-07-10 10:18:12,614 INFO       Ve do thi du lieu
+2021-07-10 10:18:12,704 INFO Chu trinh - 13 - Lay du lieu chieu nghich
+2021-07-10 10:18:12,704 INFO   Lay du lieu - Backward
+2021-07-10 10:18:12,704 INFO       Lay du lieu dong dien
+2021-07-10 10:18:12,704 INFO       Lay du lieu nhap luc
+2021-07-10 10:18:12,704 INFO       Lay du lieu do rung
+2021-07-10 10:18:12,704 INFO       Lay du lieu tieng on
+2021-07-10 10:18:12,754 INFO Chu trinh - 13 - Lay du lieu chieu nghich
+2021-07-10 10:18:12,754 INFO   Lay du lieu - Backward
+2021-07-10 10:18:12,754 INFO       Lay du lieu dong dien
+2021-07-10 10:18:12,754 INFO       Lay du lieu nhap luc
+2021-07-10 10:18:12,754 INFO       Lay du lieu do rung
+2021-07-10 10:18:12,754 INFO       Lay du lieu tieng on
+2021-07-10 10:18:12,925 INFO Chu trinh - 13 - Lay du lieu chieu nghich
+2021-07-10 10:18:12,925 INFO   Lay du lieu - Backward
+2021-07-10 10:18:12,925 INFO       Lay du lieu dong dien
+2021-07-10 10:18:12,925 INFO       Lay du lieu nhap luc
+2021-07-10 10:18:12,925 INFO       Lay du lieu do rung
+2021-07-10 10:18:12,925 INFO       Lay du lieu tieng on
+2021-07-10 10:18:12,969 INFO Chu trinh - 13 - Lay du lieu chieu nghich
+2021-07-10 10:18:12,969 INFO   Lay du lieu - Backward
+2021-07-10 10:18:12,969 INFO       Lay du lieu dong dien
+2021-07-10 10:18:12,969 INFO       Lay du lieu nhap luc
+2021-07-10 10:18:12,969 INFO       Lay du lieu do rung
+2021-07-10 10:18:12,969 INFO       Lay du lieu tieng on
+2021-07-10 10:18:13,124 INFO Chu trinh - 13 - Lay du lieu chieu nghich
+2021-07-10 10:18:13,124 INFO   Lay du lieu - Backward
+2021-07-10 10:18:13,124 INFO       Lay du lieu dong dien
+2021-07-10 10:18:13,124 INFO       Lay du lieu nhap luc
+2021-07-10 10:18:13,124 INFO       Lay du lieu do rung
+2021-07-10 10:18:13,124 INFO       Lay du lieu tieng on
+2021-07-10 10:18:13,164 INFO Chu trinh - 13 - Lay du lieu chieu nghich
+2021-07-10 10:18:13,164 INFO   Lay du lieu - Backward
+2021-07-10 10:18:13,164 INFO       Lay du lieu dong dien
+2021-07-10 10:18:13,164 INFO       Lay du lieu nhap luc
+2021-07-10 10:18:13,164 INFO       Lay du lieu do rung
+2021-07-10 10:18:13,164 INFO       Lay du lieu tieng on
+2021-07-10 10:18:13,324 INFO Chu trinh - 13 - Lay du lieu chieu nghich
+2021-07-10 10:18:13,324 INFO   Lay du lieu - Backward
+2021-07-10 10:18:13,324 INFO       Lay du lieu dong dien
+2021-07-10 10:18:13,324 INFO       Lay du lieu nhap luc
+2021-07-10 10:18:13,324 INFO       Lay du lieu do rung
+2021-07-10 10:18:13,324 INFO       Lay du lieu tieng on
+2021-07-10 10:18:13,364 INFO Chu trinh - 13 - Lay du lieu chieu nghich
+2021-07-10 10:18:13,364 INFO   Lay du lieu - Backward
+2021-07-10 10:18:13,364 INFO       Lay du lieu dong dien
+2021-07-10 10:18:13,364 INFO       Lay du lieu nhap luc
+2021-07-10 10:18:13,364 INFO       Lay du lieu do rung
+2021-07-10 10:18:13,364 INFO       Lay du lieu tieng on
+2021-07-10 10:18:13,514 INFO Chu trinh - 13 - Lay du lieu chieu nghich
+2021-07-10 10:18:13,514 INFO   Lay du lieu - Backward
+2021-07-10 10:18:13,514 INFO       Lay du lieu dong dien
+2021-07-10 10:18:13,514 INFO       Lay du lieu nhap luc
+2021-07-10 10:18:13,514 INFO       Lay du lieu do rung
+2021-07-10 10:18:13,514 INFO       Lay du lieu tieng on
+2021-07-10 10:18:13,564 INFO Chu trinh - 13 - Lay du lieu chieu nghich
+2021-07-10 10:18:13,564 INFO   Lay du lieu - Backward
+2021-07-10 10:18:13,564 INFO       Lay du lieu dong dien
+2021-07-10 10:18:13,564 INFO       Lay du lieu nhap luc
+2021-07-10 10:18:13,564 INFO       Lay du lieu do rung
+2021-07-10 10:18:13,564 INFO       Lay du lieu tieng on
+2021-07-10 10:18:13,564 INFO       Ve do thi du lieu
+2021-07-10 10:18:13,724 INFO Chu trinh - 13 - Lay du lieu chieu nghich
+2021-07-10 10:18:13,724 INFO   Lay du lieu - Backward
+2021-07-10 10:18:13,724 INFO       Lay du lieu dong dien
+2021-07-10 10:18:13,724 INFO       Lay du lieu nhap luc
+2021-07-10 10:18:13,724 INFO       Lay du lieu do rung
+2021-07-10 10:18:13,724 INFO       Lay du lieu tieng on
+2021-07-10 10:18:13,784 INFO Chu trinh - 13 - Lay du lieu chieu nghich
+2021-07-10 10:18:13,784 INFO   Lay du lieu - Backward
+2021-07-10 10:18:13,784 INFO       Lay du lieu dong dien
+2021-07-10 10:18:13,784 INFO       Lay du lieu nhap luc
+2021-07-10 10:18:13,784 INFO       Lay du lieu do rung
+2021-07-10 10:18:13,784 INFO       Lay du lieu tieng on
+2021-07-10 10:18:13,875 INFO Chu trinh - 13 - Lay du lieu chieu nghich
+2021-07-10 10:18:13,875 INFO   Lay du lieu - Backward
+2021-07-10 10:18:13,875 INFO       Lay du lieu dong dien
+2021-07-10 10:18:13,875 INFO       Lay du lieu nhap luc
+2021-07-10 10:18:13,875 INFO       Lay du lieu do rung
+2021-07-10 10:18:13,875 INFO       Lay du lieu tieng on
+2021-07-10 10:18:13,994 INFO Chu trinh - 13 - Lay du lieu chieu nghich
+2021-07-10 10:18:13,994 INFO   Lay du lieu - Backward
+2021-07-10 10:18:13,994 INFO       Lay du lieu dong dien
+2021-07-10 10:18:13,994 INFO       Lay du lieu nhap luc
+2021-07-10 10:18:13,994 INFO       Lay du lieu do rung
+2021-07-10 10:18:13,994 INFO       Lay du lieu tieng on
+2021-07-10 10:18:14,065 INFO Chu trinh - 13 - Lay du lieu chieu nghich
+2021-07-10 10:18:14,065 INFO   Lay du lieu - Backward
+2021-07-10 10:18:14,065 INFO       Lay du lieu dong dien
+2021-07-10 10:18:14,065 INFO       Lay du lieu nhap luc
+2021-07-10 10:18:14,065 INFO       Lay du lieu do rung
+2021-07-10 10:18:14,065 INFO       Lay du lieu tieng on
+2021-07-10 10:18:14,244 INFO Chu trinh - 13 - Lay du lieu chieu nghich
+2021-07-10 10:18:14,244 INFO   Lay du lieu - Backward
+2021-07-10 10:18:14,244 INFO       Lay du lieu dong dien
+2021-07-10 10:18:14,244 INFO       Lay du lieu nhap luc
+2021-07-10 10:18:14,244 INFO       Lay du lieu do rung
+2021-07-10 10:18:14,244 INFO       Lay du lieu tieng on
+2021-07-10 10:18:14,299 INFO Chu trinh - 13 - Lay du lieu chieu nghich
+2021-07-10 10:18:14,299 INFO   Lay du lieu - Backward
+2021-07-10 10:18:14,299 INFO       Lay du lieu dong dien
+2021-07-10 10:18:14,299 INFO       Lay du lieu nhap luc
+2021-07-10 10:18:14,299 INFO       Lay du lieu do rung
+2021-07-10 10:18:14,299 INFO       Lay du lieu tieng on
+2021-07-10 10:18:14,454 INFO Chu trinh - 13 - Lay du lieu chieu nghich
+2021-07-10 10:18:14,454 INFO   Lay du lieu - Backward
+2021-07-10 10:18:14,454 INFO       Lay du lieu dong dien
+2021-07-10 10:18:14,454 INFO       Lay du lieu nhap luc
+2021-07-10 10:18:14,454 INFO       Lay du lieu do rung
+2021-07-10 10:18:14,454 INFO       Lay du lieu tieng on
+2021-07-10 10:18:14,494 INFO Chu trinh - 13 - Lay du lieu chieu nghich
+2021-07-10 10:18:14,494 INFO   Lay du lieu - Backward
+2021-07-10 10:18:14,494 INFO       Lay du lieu dong dien
+2021-07-10 10:18:14,494 INFO       Lay du lieu nhap luc
+2021-07-10 10:18:14,494 INFO       Lay du lieu do rung
+2021-07-10 10:18:14,494 INFO       Lay du lieu tieng on
+2021-07-10 10:18:14,679 INFO Chu trinh - 13 - Lay du lieu chieu nghich
+2021-07-10 10:18:14,679 INFO   Lay du lieu - Backward
+2021-07-10 10:18:14,679 INFO       Lay du lieu dong dien
+2021-07-10 10:18:14,679 INFO       Lay du lieu nhap luc
+2021-07-10 10:18:14,679 INFO       Lay du lieu do rung
+2021-07-10 10:18:14,679 INFO       Lay du lieu tieng on
+2021-07-10 10:18:14,679 INFO       Ve do thi du lieu
+2021-07-10 10:18:14,704 INFO Chu trinh - 13 - Lay du lieu chieu nghich
+2021-07-10 10:18:14,704 INFO   Lay du lieu - Backward
+2021-07-10 10:18:14,704 INFO       Lay du lieu dong dien
+2021-07-10 10:18:14,704 INFO       Lay du lieu nhap luc
+2021-07-10 10:18:14,704 INFO       Lay du lieu do rung
+2021-07-10 10:18:14,704 INFO       Lay du lieu tieng on
+2021-07-10 10:18:14,855 INFO Chu trinh - 13 - Lay du lieu chieu nghich
+2021-07-10 10:18:14,864 INFO   Lay du lieu - Backward
+2021-07-10 10:18:14,864 INFO       Lay du lieu dong dien
+2021-07-10 10:18:14,864 INFO       Lay du lieu nhap luc
+2021-07-10 10:18:14,864 INFO       Lay du lieu do rung
+2021-07-10 10:18:14,864 INFO       Lay du lieu tieng on
+2021-07-10 10:18:14,909 INFO Chu trinh - 13 - Lay du lieu chieu nghich
+2021-07-10 10:18:14,909 INFO   Lay du lieu - Backward
+2021-07-10 10:18:14,909 INFO       Lay du lieu dong dien
+2021-07-10 10:18:14,909 INFO       Lay du lieu nhap luc
+2021-07-10 10:18:14,909 INFO       Lay du lieu do rung
+2021-07-10 10:18:14,909 INFO       Lay du lieu tieng on
+2021-07-10 10:18:15,074 INFO Chu trinh - 13 - Lay du lieu chieu nghich
+2021-07-10 10:18:15,074 INFO   Lay du lieu - Backward
+2021-07-10 10:18:15,074 INFO       Lay du lieu dong dien
+2021-07-10 10:18:15,074 INFO       Lay du lieu nhap luc
+2021-07-10 10:18:15,074 INFO       Lay du lieu do rung
+2021-07-10 10:18:15,074 INFO       Lay du lieu tieng on
+2021-07-10 10:18:15,124 INFO Chu trinh - 13 - Lay du lieu chieu nghich
+2021-07-10 10:18:15,124 INFO   Lay du lieu - Backward
+2021-07-10 10:18:15,124 INFO       Lay du lieu dong dien
+2021-07-10 10:18:15,124 INFO       Lay du lieu nhap luc
+2021-07-10 10:18:15,124 INFO       Lay du lieu do rung
+2021-07-10 10:18:15,124 INFO       Lay du lieu tieng on
+2021-07-10 10:18:15,284 INFO Chu trinh - 13 - Lay du lieu chieu nghich
+2021-07-10 10:18:15,284 INFO   Lay du lieu - Backward
+2021-07-10 10:18:15,284 INFO       Lay du lieu dong dien
+2021-07-10 10:18:15,284 INFO       Lay du lieu nhap luc
+2021-07-10 10:18:15,284 INFO       Lay du lieu do rung
+2021-07-10 10:18:15,284 INFO       Lay du lieu tieng on
+2021-07-10 10:18:15,334 INFO Chu trinh - 13 - Lay du lieu chieu nghich
+2021-07-10 10:18:15,334 INFO   Lay du lieu - Backward
+2021-07-10 10:18:15,334 INFO       Lay du lieu dong dien
+2021-07-10 10:18:15,334 INFO       Lay du lieu nhap luc
+2021-07-10 10:18:15,334 INFO       Lay du lieu do rung
+2021-07-10 10:18:15,334 INFO       Lay du lieu tieng on
+2021-07-10 10:18:15,494 INFO Chu trinh - 13 - Lay du lieu chieu nghich
+2021-07-10 10:18:15,494 INFO   Lay du lieu - Backward
+2021-07-10 10:18:15,494 INFO       Lay du lieu dong dien
+2021-07-10 10:18:15,494 INFO       Lay du lieu nhap luc
+2021-07-10 10:18:15,494 INFO       Lay du lieu do rung
+2021-07-10 10:18:15,494 INFO       Lay du lieu tieng on
+2021-07-10 10:18:15,534 INFO Chu trinh - 13 - Lay du lieu chieu nghich
+2021-07-10 10:18:15,534 INFO   Lay du lieu - Backward
+2021-07-10 10:18:15,534 INFO       Lay du lieu dong dien
+2021-07-10 10:18:15,534 INFO       Lay du lieu nhap luc
+2021-07-10 10:18:15,534 INFO       Lay du lieu do rung
+2021-07-10 10:18:15,534 INFO       Lay du lieu tieng on
+2021-07-10 10:18:15,844 INFO Chu trinh - 13 - Lay du lieu chieu nghich
+2021-07-10 10:18:15,844 INFO   Lay du lieu - Backward
+2021-07-10 10:18:15,844 INFO       Lay du lieu dong dien
+2021-07-10 10:18:15,844 INFO       Lay du lieu nhap luc
+2021-07-10 10:18:15,844 INFO       Lay du lieu do rung
+2021-07-10 10:18:15,844 INFO       Lay du lieu tieng on
+2021-07-10 10:18:15,844 INFO       Ve do thi du lieu
+2021-07-10 10:18:15,844 ERROR Thoi gian chu trinh vuot qua 100ms
+2021-07-10 10:18:15,864 INFO Chu trinh - 13 - Lay du lieu chieu nghich
+2021-07-10 10:18:15,864 INFO   Lay du lieu - Backward
+2021-07-10 10:18:15,864 INFO       Lay du lieu dong dien
+2021-07-10 10:18:15,864 INFO       Lay du lieu nhap luc
+2021-07-10 10:18:15,864 INFO       Lay du lieu do rung
+2021-07-10 10:18:15,864 INFO       Lay du lieu tieng on
+2021-07-10 10:18:16,054 INFO Chu trinh - 13 - Lay du lieu chieu nghich
+2021-07-10 10:18:16,054 INFO   Lay du lieu - Backward
+2021-07-10 10:18:16,054 INFO       Lay du lieu dong dien
+2021-07-10 10:18:16,054 INFO       Lay du lieu nhap luc
+2021-07-10 10:18:16,054 INFO       Lay du lieu do rung
+2021-07-10 10:18:16,054 INFO       Lay du lieu tieng on
+2021-07-10 10:18:16,104 INFO Chu trinh - 13 - Lay du lieu chieu nghich
+2021-07-10 10:18:16,104 INFO   Lay du lieu - Backward
+2021-07-10 10:18:16,104 INFO       Lay du lieu dong dien
+2021-07-10 10:18:16,104 INFO       Lay du lieu nhap luc
+2021-07-10 10:18:16,104 INFO       Lay du lieu do rung
+2021-07-10 10:18:16,104 INFO       Lay du lieu tieng on
+2021-07-10 10:18:16,234 INFO Chu trinh - 13 - Lay du lieu chieu nghich
+2021-07-10 10:18:16,234 INFO   Lay du lieu - Backward
+2021-07-10 10:18:16,234 INFO       Lay du lieu dong dien
+2021-07-10 10:18:16,234 INFO       Lay du lieu nhap luc
+2021-07-10 10:18:16,234 INFO       Lay du lieu do rung
+2021-07-10 10:18:16,234 INFO       Lay du lieu tieng on
+2021-07-10 10:18:16,333 INFO Chu trinh - 13 - Lay du lieu chieu nghich
+2021-07-10 10:18:16,333 INFO   Lay du lieu - Backward
+2021-07-10 10:18:16,333 INFO       Lay du lieu dong dien
+2021-07-10 10:18:16,333 INFO       Lay du lieu nhap luc
+2021-07-10 10:18:16,333 INFO       Lay du lieu do rung
+2021-07-10 10:18:16,333 INFO       Lay du lieu tieng on
+2021-07-10 10:18:16,384 INFO Chu trinh - 13 - Lay du lieu chieu nghich
+2021-07-10 10:18:16,384 INFO   Lay du lieu - Backward
+2021-07-10 10:18:16,384 INFO       Lay du lieu dong dien
+2021-07-10 10:18:16,384 INFO       Lay du lieu nhap luc
+2021-07-10 10:18:16,384 INFO       Lay du lieu do rung
+2021-07-10 10:18:16,384 INFO       Lay du lieu tieng on
+2021-07-10 10:18:16,544 INFO Chu trinh - 13 - Lay du lieu chieu nghich
+2021-07-10 10:18:16,544 INFO   Lay du lieu - Backward
+2021-07-10 10:18:16,544 INFO       Lay du lieu dong dien
+2021-07-10 10:18:16,544 INFO       Lay du lieu nhap luc
+2021-07-10 10:18:16,544 INFO       Lay du lieu do rung
+2021-07-10 10:18:16,544 INFO       Lay du lieu tieng on
+2021-07-10 10:18:16,584 INFO Chu trinh - 13 - Lay du lieu chieu nghich
+2021-07-10 10:18:16,584 INFO   Lay du lieu - Backward
+2021-07-10 10:18:16,584 INFO       Lay du lieu dong dien
+2021-07-10 10:18:16,584 INFO       Lay du lieu nhap luc
+2021-07-10 10:18:16,584 INFO       Lay du lieu do rung
+2021-07-10 10:18:16,584 INFO       Lay du lieu tieng on
+2021-07-10 10:18:16,764 INFO Chu trinh - 13 - Lay du lieu chieu nghich
+2021-07-10 10:18:16,764 INFO   Lay du lieu - Backward
+2021-07-10 10:18:16,764 INFO       Lay du lieu dong dien
+2021-07-10 10:18:16,764 INFO       Lay du lieu nhap luc
+2021-07-10 10:18:16,764 INFO       Lay du lieu do rung
+2021-07-10 10:18:16,764 INFO       Lay du lieu tieng on
+2021-07-10 10:18:16,804 INFO Chu trinh - 13 - Lay du lieu chieu nghich
+2021-07-10 10:18:16,804 INFO   Lay du lieu - Backward
+2021-07-10 10:18:16,804 INFO       Lay du lieu dong dien
+2021-07-10 10:18:16,804 INFO       Lay du lieu nhap luc
+2021-07-10 10:18:16,804 INFO       Lay du lieu do rung
+2021-07-10 10:18:16,804 INFO       Lay du lieu tieng on
+2021-07-10 10:18:16,804 INFO       Ve do thi du lieu
+2021-07-10 10:18:16,959 INFO Chu trinh - 13 - Lay du lieu chieu nghich
+2021-07-10 10:18:16,959 INFO   Lay du lieu - Backward
+2021-07-10 10:18:16,959 INFO       Lay du lieu dong dien
+2021-07-10 10:18:16,959 INFO       Lay du lieu nhap luc
+2021-07-10 10:18:16,959 INFO       Lay du lieu do rung
+2021-07-10 10:18:16,959 INFO       Lay du lieu tieng on
+2021-07-10 10:18:17,003 INFO Chu trinh - 13 - Lay du lieu chieu nghich
+2021-07-10 10:18:17,003 INFO   Lay du lieu - Backward
+2021-07-10 10:18:17,003 INFO       Lay du lieu dong dien
+2021-07-10 10:18:17,003 INFO       Lay du lieu nhap luc
+2021-07-10 10:18:17,003 INFO       Lay du lieu do rung
+2021-07-10 10:18:17,003 INFO       Lay du lieu tieng on
+2021-07-10 10:18:17,163 INFO Chu trinh - 13 - Lay du lieu chieu nghich
+2021-07-10 10:18:17,163 INFO   Lay du lieu - Backward
+2021-07-10 10:18:17,163 INFO       Lay du lieu dong dien
+2021-07-10 10:18:17,163 INFO       Lay du lieu nhap luc
+2021-07-10 10:18:17,163 INFO       Lay du lieu do rung
+2021-07-10 10:18:17,163 INFO       Lay du lieu tieng on
+2021-07-10 10:18:17,204 INFO Chu trinh - 13 - Lay du lieu chieu nghich
+2021-07-10 10:18:17,204 INFO   Lay du lieu - Backward
+2021-07-10 10:18:17,204 INFO       Lay du lieu dong dien
+2021-07-10 10:18:17,204 INFO       Lay du lieu nhap luc
+2021-07-10 10:18:17,204 INFO       Lay du lieu do rung
+2021-07-10 10:18:17,204 INFO       Lay du lieu tieng on
+2021-07-10 10:18:17,363 INFO Chu trinh - 13 - Lay du lieu chieu nghich
+2021-07-10 10:18:17,363 INFO   Lay du lieu - Backward
+2021-07-10 10:18:17,363 INFO       Lay du lieu dong dien
+2021-07-10 10:18:17,363 INFO       Lay du lieu nhap luc
+2021-07-10 10:18:17,363 INFO       Lay du lieu do rung
+2021-07-10 10:18:17,363 INFO       Lay du lieu tieng on
+2021-07-10 10:18:17,414 INFO Chu trinh - 13 - Lay du lieu chieu nghich
+2021-07-10 10:18:17,414 INFO   Lay du lieu - Backward
+2021-07-10 10:18:17,414 INFO       Lay du lieu dong dien
+2021-07-10 10:18:17,414 INFO       Lay du lieu nhap luc
+2021-07-10 10:18:17,414 INFO       Lay du lieu do rung
+2021-07-10 10:18:17,414 INFO       Lay du lieu tieng on
+2021-07-10 10:18:17,683 INFO Chu trinh - 13 - Lay du lieu chieu nghich
+2021-07-10 10:18:17,683 INFO   Lay du lieu - Backward
+2021-07-10 10:18:17,683 INFO       Lay du lieu dong dien
+2021-07-10 10:18:17,683 INFO       Lay du lieu nhap luc
+2021-07-10 10:18:17,683 INFO       Lay du lieu do rung
+2021-07-10 10:18:17,683 INFO       Lay du lieu tieng on
+2021-07-10 10:18:17,683 ERROR Thoi gian chu trinh vuot qua 100ms
+2021-07-10 10:18:17,704 INFO Chu trinh - 13 - Lay du lieu chieu nghich
+2021-07-10 10:18:17,704 INFO   Lay du lieu - Backward
+2021-07-10 10:18:17,704 INFO       Lay du lieu dong dien
+2021-07-10 10:18:17,704 INFO       Lay du lieu nhap luc
+2021-07-10 10:18:17,704 INFO       Lay du lieu do rung
+2021-07-10 10:18:17,704 INFO       Lay du lieu tieng on
+2021-07-10 10:18:17,864 INFO Chu trinh - 13 - Lay du lieu chieu nghich
+2021-07-10 10:18:17,864 INFO   Lay du lieu - Backward
+2021-07-10 10:18:17,864 INFO       Lay du lieu dong dien
+2021-07-10 10:18:17,864 INFO       Lay du lieu nhap luc
+2021-07-10 10:18:17,864 INFO       Lay du lieu do rung
+2021-07-10 10:18:17,864 INFO       Lay du lieu tieng on
+2021-07-10 10:18:17,923 INFO Chu trinh - 13 - Lay du lieu chieu nghich
+2021-07-10 10:18:17,923 INFO   Lay du lieu - Backward
+2021-07-10 10:18:17,923 INFO       Lay du lieu dong dien
+2021-07-10 10:18:17,923 INFO       Lay du lieu nhap luc
+2021-07-10 10:18:17,923 INFO       Lay du lieu do rung
+2021-07-10 10:18:17,923 INFO       Lay du lieu tieng on
+2021-07-10 10:18:17,923 INFO       Ve do thi du lieu
+2021-07-10 10:18:18,001 INFO Chu trinh - 13 - Lay du lieu chieu nghich
+2021-07-10 10:18:18,001 INFO   Lay du lieu - Backward
+2021-07-10 10:18:18,001 INFO       Lay du lieu dong dien
+2021-07-10 10:18:18,001 INFO       Lay du lieu nhap luc
+2021-07-10 10:18:18,001 INFO       Lay du lieu do rung
+2021-07-10 10:18:18,001 INFO       Lay du lieu tieng on
+2021-07-10 10:18:18,124 INFO Chu trinh - 15 - Ghi du lieu am thanh chieu nghich
+2021-07-10 10:21:47,698 ERROR Thoi gian chu trinh vuot qua 100ms
+2021-07-10 10:21:47,888 ERROR Thoi gian chu trinh vuot qua 100ms
+2021-07-10 10:21:47,888 INFO Chu trinh - 19 - Hoan tat lay du lieu - bat dau ghi ra file
+2021-07-10 10:21:47,888 INFO Ghi ra file csv
+2021-07-10 10:21:47,888 INFO Upload du lieu am thanh len server
+2021-07-10 10:21:47,998 INFO Chu trinh - 0 - Khoi tao + Doi tin hieu bat dau chay
+2021-07-10 10:37:21,923 ERROR Thoi gian chu trinh vuot qua 100ms
+2021-07-10 10:37:21,923 INFO Chu trinh - 0 - Khoi tao + Doi tin hieu bat dau chay
+2021-07-10 10:37:41,071 INFO Chu trinh - 0 - Khoi tao + Doi tin hieu bat dau chay
+2021-07-10 10:38:29,774 INFO Chu trinh - 0 - Khoi tao + Doi tin hieu bat dau chay

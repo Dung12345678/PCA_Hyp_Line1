@@ -1,0 +1,725 @@
+2021-08-23 17:47:50,020 ERROR Thoi gian chu trinh vuot qua 100ms
+2021-08-23 17:47:50,051 INFO Chu trinh - 0 - Khoi tao + Doi tin hieu bat dau chay
+2021-08-23 17:49:29,552 ERROR Thoi gian chu trinh vuot qua 100ms
+2021-08-23 17:49:29,552 INFO Chu trinh - 0 - Khoi tao + Doi tin hieu bat dau chay
+2021-08-23 17:51:38,111 INFO Chu trinh - 0 - Khoi tao + Doi tin hieu bat dau chay
+2021-08-23 17:51:39,736 INFO Chu trinh - 0 - Khoi tao + Doi tin hieu bat dau chay
+2021-08-23 17:51:40,119 INFO Chu trinh - 0 - Khoi tao + Doi tin hieu bat dau chay
+2021-08-23 17:51:40,311 INFO Chu trinh - 0 - Khoi tao + Doi tin hieu bat dau chay
+2021-08-23 17:54:35,559 INFO Mo file excel
+2021-08-23 17:54:35,559 INFO Dong tat ca file excel dang mo
+2021-08-23 17:54:35,575 INFO Khoi tao du lieu
+2021-08-23 17:54:35,575 INFO Khoi tao tat ca bien trang thai
+2021-08-23 17:54:35,575 INFO Khoi tao ket noi chuong trinh
+2021-08-23 17:54:35,575 INFO Tao ket noi du lieu voi PLC FX5U
+2021-08-23 17:54:36,214 INFO Tao ket noi du lieu voi PLC FX3G
+2021-08-23 17:54:36,730 INFO Ket noi cong COM7 - lay du lieu dong dien nhap luc
+2021-08-23 17:54:36,893 INFO Ket noi cong COM5 - lay du lieu tieng on
+2021-08-23 17:54:37,046 INFO Ket noi cong COM8 - lay du lieu vong quay
+2021-08-23 17:54:37,046 INFO Khoi tao thread lay du lieu lien tuc
+2021-08-23 17:54:37,046 INFO Khoi tao thread lay du lieu lien tuc --Chutrinh_LayDuLieu--
+2021-08-23 17:54:37,162 INFO Chu trinh - 0 - Khoi tao + Doi tin hieu bat dau chay
+2021-08-23 17:54:58,079 INFO Chu trinh - 0 - Khoi tao + Doi tin hieu bat dau chay
+2021-08-23 17:55:42,912 INFO Chu trinh - 0 - Khoi tao + Doi tin hieu bat dau chay
+2021-08-23 17:55:47,712 ERROR Thoi gian chu trinh vuot qua 100ms
+2021-08-23 17:55:47,727 INFO Chu trinh - 3 - Lay du lieu chieu thuan
+2021-08-23 17:55:47,774 INFO   Lay du lieu - Forward
+2021-08-23 17:55:47,774 INFO       Lay du lieu dong dien
+2021-08-23 17:55:47,774 INFO       Lay du lieu nhap luc
+2021-08-23 17:55:47,774 INFO       Lay du lieu do rung
+2021-08-23 17:55:47,774 INFO       Lay du lieu tieng on
+2021-08-23 17:55:47,774 INFO       Ve do thi du lieu
+2021-08-23 17:55:47,828 INFO Chu trinh - 3 - Lay du lieu chieu thuan
+2021-08-23 17:55:47,835 INFO   Lay du lieu - Forward
+2021-08-23 17:55:47,835 INFO       Lay du lieu dong dien
+2021-08-23 17:55:47,835 INFO       Lay du lieu nhap luc
+2021-08-23 17:55:47,835 INFO       Lay du lieu do rung
+2021-08-23 17:55:47,835 INFO       Lay du lieu tieng on
+2021-08-23 17:55:47,959 INFO Chu trinh - 3 - Lay du lieu chieu thuan
+2021-08-23 17:55:48,013 INFO   Lay du lieu - Forward
+2021-08-23 17:55:48,013 INFO       Lay du lieu dong dien
+2021-08-23 17:55:48,013 INFO       Lay du lieu nhap luc
+2021-08-23 17:55:48,013 INFO       Lay du lieu do rung
+2021-08-23 17:55:48,013 INFO       Lay du lieu tieng on
+2021-08-23 17:55:48,029 INFO Chu trinh - 3 - Lay du lieu chieu thuan
+2021-08-23 17:55:48,029 INFO   Lay du lieu - Forward
+2021-08-23 17:55:48,029 INFO       Lay du lieu dong dien
+2021-08-23 17:55:48,029 INFO       Lay du lieu nhap luc
+2021-08-23 17:55:48,029 INFO       Lay du lieu do rung
+2021-08-23 17:55:48,029 INFO       Lay du lieu tieng on
+2021-08-23 17:55:48,160 INFO Chu trinh - 3 - Lay du lieu chieu thuan
+2021-08-23 17:55:48,213 INFO   Lay du lieu - Forward
+2021-08-23 17:55:48,213 INFO       Lay du lieu dong dien
+2021-08-23 17:55:48,213 INFO       Lay du lieu nhap luc
+2021-08-23 17:55:48,213 INFO       Lay du lieu do rung
+2021-08-23 17:55:48,213 INFO       Lay du lieu tieng on
+2021-08-23 17:55:48,229 INFO Chu trinh - 3 - Lay du lieu chieu thuan
+2021-08-23 17:55:48,229 INFO   Lay du lieu - Forward
+2021-08-23 17:55:48,229 INFO       Lay du lieu dong dien
+2021-08-23 17:55:48,229 INFO       Lay du lieu nhap luc
+2021-08-23 17:55:48,229 INFO       Lay du lieu do rung
+2021-08-23 17:55:48,229 INFO       Lay du lieu tieng on
+2021-08-23 17:55:48,329 INFO Chu trinh - 3 - Lay du lieu chieu thuan
+2021-08-23 17:55:48,376 INFO   Lay du lieu - Forward
+2021-08-23 17:55:48,376 INFO       Lay du lieu dong dien
+2021-08-23 17:55:48,376 INFO       Lay du lieu nhap luc
+2021-08-23 17:55:48,376 INFO       Lay du lieu do rung
+2021-08-23 17:55:48,376 INFO       Lay du lieu tieng on
+2021-08-23 17:55:48,429 INFO Chu trinh - 3 - Lay du lieu chieu thuan
+2021-08-23 17:55:48,444 INFO   Lay du lieu - Forward
+2021-08-23 17:55:48,444 INFO       Lay du lieu dong dien
+2021-08-23 17:55:48,444 INFO       Lay du lieu nhap luc
+2021-08-23 17:55:48,444 INFO       Lay du lieu do rung
+2021-08-23 17:55:48,444 INFO       Lay du lieu tieng on
+2021-08-23 17:55:48,545 INFO Chu trinh - 3 - Lay du lieu chieu thuan
+2021-08-23 17:55:48,560 INFO   Lay du lieu - Forward
+2021-08-23 17:55:48,560 INFO       Lay du lieu dong dien
+2021-08-23 17:55:48,560 INFO       Lay du lieu nhap luc
+2021-08-23 17:55:48,560 INFO       Lay du lieu do rung
+2021-08-23 17:55:48,560 INFO       Lay du lieu tieng on
+2021-08-23 17:55:48,560 INFO       Ve do thi du lieu
+2021-08-23 17:55:48,660 INFO Chu trinh - 3 - Lay du lieu chieu thuan
+2021-08-23 17:55:48,674 INFO   Lay du lieu - Forward
+2021-08-23 17:55:48,674 INFO       Lay du lieu dong dien
+2021-08-23 17:55:48,674 INFO       Lay du lieu nhap luc
+2021-08-23 17:55:48,674 INFO       Lay du lieu do rung
+2021-08-23 17:55:48,674 INFO       Lay du lieu tieng on
+2021-08-23 17:55:48,729 INFO Chu trinh - 3 - Lay du lieu chieu thuan
+2021-08-23 17:55:48,814 INFO   Lay du lieu - Forward
+2021-08-23 17:55:48,814 INFO       Lay du lieu dong dien
+2021-08-23 17:55:48,814 INFO       Lay du lieu nhap luc
+2021-08-23 17:55:48,814 INFO       Lay du lieu do rung
+2021-08-23 17:55:48,814 INFO       Lay du lieu tieng on
+2021-08-23 17:55:48,814 ERROR Thoi gian chu trinh vuot qua 100ms
+2021-08-23 17:55:48,814 INFO Chu trinh - 3 - Lay du lieu chieu thuan
+2021-08-23 17:55:48,861 INFO   Lay du lieu - Forward
+2021-08-23 17:55:48,861 INFO       Lay du lieu dong dien
+2021-08-23 17:55:48,861 INFO       Lay du lieu nhap luc
+2021-08-23 17:55:48,861 INFO       Lay du lieu do rung
+2021-08-23 17:55:48,861 INFO       Lay du lieu tieng on
+2021-08-23 17:55:48,930 INFO Chu trinh - 3 - Lay du lieu chieu thuan
+2021-08-23 17:55:48,976 INFO   Lay du lieu - Forward
+2021-08-23 17:55:48,976 INFO       Lay du lieu dong dien
+2021-08-23 17:55:48,976 INFO       Lay du lieu nhap luc
+2021-08-23 17:55:48,976 INFO       Lay du lieu do rung
+2021-08-23 17:55:48,976 INFO       Lay du lieu tieng on
+2021-08-23 17:55:49,061 INFO Chu trinh - 3 - Lay du lieu chieu thuan
+2021-08-23 17:55:49,061 INFO   Lay du lieu - Forward
+2021-08-23 17:55:49,061 INFO       Lay du lieu dong dien
+2021-08-23 17:55:49,061 INFO       Lay du lieu nhap luc
+2021-08-23 17:55:49,061 INFO       Lay du lieu do rung
+2021-08-23 17:55:49,061 INFO       Lay du lieu tieng on
+2021-08-23 17:55:49,130 INFO Chu trinh - 3 - Lay du lieu chieu thuan
+2021-08-23 17:55:49,177 INFO   Lay du lieu - Forward
+2021-08-23 17:55:49,177 INFO       Lay du lieu dong dien
+2021-08-23 17:55:49,177 INFO       Lay du lieu nhap luc
+2021-08-23 17:55:49,177 INFO       Lay du lieu do rung
+2021-08-23 17:55:49,177 INFO       Lay du lieu tieng on
+2021-08-23 17:55:49,262 INFO Chu trinh - 3 - Lay du lieu chieu thuan
+2021-08-23 17:55:49,316 INFO   Lay du lieu - Forward
+2021-08-23 17:55:49,316 INFO       Lay du lieu dong dien
+2021-08-23 17:55:49,316 INFO       Lay du lieu nhap luc
+2021-08-23 17:55:49,316 INFO       Lay du lieu do rung
+2021-08-23 17:55:49,316 INFO       Lay du lieu tieng on
+2021-08-23 17:55:49,316 ERROR Thoi gian chu trinh vuot qua 100ms
+2021-08-23 17:55:49,363 INFO Chu trinh - 3 - Lay du lieu chieu thuan
+2021-08-23 17:55:49,378 INFO   Lay du lieu - Forward
+2021-08-23 17:55:49,378 INFO       Lay du lieu dong dien
+2021-08-23 17:55:49,378 INFO       Lay du lieu nhap luc
+2021-08-23 17:55:49,378 INFO       Lay du lieu do rung
+2021-08-23 17:55:49,378 INFO       Lay du lieu tieng on
+2021-08-23 17:55:49,432 INFO Chu trinh - 3 - Lay du lieu chieu thuan
+2021-08-23 17:55:49,479 INFO   Lay du lieu - Forward
+2021-08-23 17:55:49,479 INFO       Lay du lieu dong dien
+2021-08-23 17:55:49,479 INFO       Lay du lieu nhap luc
+2021-08-23 17:55:49,479 INFO       Lay du lieu do rung
+2021-08-23 17:55:49,479 INFO       Lay du lieu tieng on
+2021-08-23 17:55:49,564 INFO Chu trinh - 3 - Lay du lieu chieu thuan
+2021-08-23 17:55:49,579 INFO   Lay du lieu - Forward
+2021-08-23 17:55:49,579 INFO       Lay du lieu dong dien
+2021-08-23 17:55:49,579 INFO       Lay du lieu nhap luc
+2021-08-23 17:55:49,579 INFO       Lay du lieu do rung
+2021-08-23 17:55:49,579 INFO       Lay du lieu tieng on
+2021-08-23 17:55:49,579 INFO       Ve do thi du lieu
+2021-08-23 17:55:49,630 INFO Chu trinh - 3 - Lay du lieu chieu thuan
+2021-08-23 17:55:49,644 INFO   Lay du lieu - Forward
+2021-08-23 17:55:49,644 INFO       Lay du lieu dong dien
+2021-08-23 17:55:49,644 INFO       Lay du lieu nhap luc
+2021-08-23 17:55:49,644 INFO       Lay du lieu do rung
+2021-08-23 17:55:49,644 INFO       Lay du lieu tieng on
+2021-08-23 17:55:49,733 INFO Chu trinh - 3 - Lay du lieu chieu thuan
+2021-08-23 17:55:49,780 INFO   Lay du lieu - Forward
+2021-08-23 17:55:49,780 INFO       Lay du lieu dong dien
+2021-08-23 17:55:49,780 INFO       Lay du lieu nhap luc
+2021-08-23 17:55:49,780 INFO       Lay du lieu do rung
+2021-08-23 17:55:49,780 INFO       Lay du lieu tieng on
+2021-08-23 17:55:49,834 INFO Chu trinh - 3 - Lay du lieu chieu thuan
+2021-08-23 17:55:49,834 INFO   Lay du lieu - Forward
+2021-08-23 17:55:49,834 INFO       Lay du lieu dong dien
+2021-08-23 17:55:49,834 INFO       Lay du lieu nhap luc
+2021-08-23 17:55:49,834 INFO       Lay du lieu do rung
+2021-08-23 17:55:49,834 INFO       Lay du lieu tieng on
+2021-08-23 17:55:49,934 INFO Chu trinh - 3 - Lay du lieu chieu thuan
+2021-08-23 17:55:49,981 INFO   Lay du lieu - Forward
+2021-08-23 17:55:49,981 INFO       Lay du lieu dong dien
+2021-08-23 17:55:49,981 INFO       Lay du lieu nhap luc
+2021-08-23 17:55:49,981 INFO       Lay du lieu do rung
+2021-08-23 17:55:49,981 INFO       Lay du lieu tieng on
+2021-08-23 17:55:50,034 INFO Chu trinh - 3 - Lay du lieu chieu thuan
+2021-08-23 17:55:50,034 INFO   Lay du lieu - Forward
+2021-08-23 17:55:50,034 INFO       Lay du lieu dong dien
+2021-08-23 17:55:50,034 INFO       Lay du lieu nhap luc
+2021-08-23 17:55:50,034 INFO       Lay du lieu do rung
+2021-08-23 17:55:50,034 INFO       Lay du lieu tieng on
+2021-08-23 17:55:50,135 INFO Chu trinh - 3 - Lay du lieu chieu thuan
+2021-08-23 17:55:50,182 INFO   Lay du lieu - Forward
+2021-08-23 17:55:50,182 INFO       Lay du lieu dong dien
+2021-08-23 17:55:50,182 INFO       Lay du lieu nhap luc
+2021-08-23 17:55:50,182 INFO       Lay du lieu do rung
+2021-08-23 17:55:50,182 INFO       Lay du lieu tieng on
+2021-08-23 17:55:50,235 INFO Chu trinh - 3 - Lay du lieu chieu thuan
+2021-08-23 17:55:50,235 INFO   Lay du lieu - Forward
+2021-08-23 17:55:50,235 INFO       Lay du lieu dong dien
+2021-08-23 17:55:50,235 INFO       Lay du lieu nhap luc
+2021-08-23 17:55:50,235 INFO       Lay du lieu do rung
+2021-08-23 17:55:50,235 INFO       Lay du lieu tieng on
+2021-08-23 17:55:50,335 INFO Chu trinh - 3 - Lay du lieu chieu thuan
+2021-08-23 17:55:50,382 INFO   Lay du lieu - Forward
+2021-08-23 17:55:50,382 INFO       Lay du lieu dong dien
+2021-08-23 17:55:50,382 INFO       Lay du lieu nhap luc
+2021-08-23 17:55:50,382 INFO       Lay du lieu do rung
+2021-08-23 17:55:50,382 INFO       Lay du lieu tieng on
+2021-08-23 17:55:50,435 INFO Chu trinh - 3 - Lay du lieu chieu thuan
+2021-08-23 17:55:50,435 INFO   Lay du lieu - Forward
+2021-08-23 17:55:50,435 INFO       Lay du lieu dong dien
+2021-08-23 17:55:50,435 INFO       Lay du lieu nhap luc
+2021-08-23 17:55:50,435 INFO       Lay du lieu do rung
+2021-08-23 17:55:50,435 INFO       Lay du lieu tieng on
+2021-08-23 17:55:50,535 INFO Chu trinh - 3 - Lay du lieu chieu thuan
+2021-08-23 17:55:50,535 INFO   Lay du lieu - Forward
+2021-08-23 17:55:50,535 INFO       Lay du lieu dong dien
+2021-08-23 17:55:50,535 INFO       Lay du lieu nhap luc
+2021-08-23 17:55:50,535 INFO       Lay du lieu do rung
+2021-08-23 17:55:50,535 INFO       Lay du lieu tieng on
+2021-08-23 17:55:50,535 INFO       Ve do thi du lieu
+2021-08-23 17:55:50,635 INFO Chu trinh - 3 - Lay du lieu chieu thuan
+2021-08-23 17:55:50,635 INFO   Lay du lieu - Forward
+2021-08-23 17:55:50,635 INFO       Lay du lieu dong dien
+2021-08-23 17:55:50,635 INFO       Lay du lieu nhap luc
+2021-08-23 17:55:50,635 INFO       Lay du lieu do rung
+2021-08-23 17:55:50,635 INFO       Lay du lieu tieng on
+2021-08-23 17:55:50,736 INFO Chu trinh - 3 - Lay du lieu chieu thuan
+2021-08-23 17:55:50,783 INFO   Lay du lieu - Forward
+2021-08-23 17:55:50,783 INFO       Lay du lieu dong dien
+2021-08-23 17:55:50,783 INFO       Lay du lieu nhap luc
+2021-08-23 17:55:50,783 INFO       Lay du lieu do rung
+2021-08-23 17:55:50,783 INFO       Lay du lieu tieng on
+2021-08-23 17:55:50,836 INFO Chu trinh - 3 - Lay du lieu chieu thuan
+2021-08-23 17:55:50,836 INFO   Lay du lieu - Forward
+2021-08-23 17:55:50,836 INFO       Lay du lieu dong dien
+2021-08-23 17:55:50,836 INFO       Lay du lieu nhap luc
+2021-08-23 17:55:50,836 INFO       Lay du lieu do rung
+2021-08-23 17:55:50,836 INFO       Lay du lieu tieng on
+2021-08-23 17:55:50,937 INFO Chu trinh - 3 - Lay du lieu chieu thuan
+2021-08-23 17:55:50,984 INFO   Lay du lieu - Forward
+2021-08-23 17:55:50,984 INFO       Lay du lieu dong dien
+2021-08-23 17:55:50,984 INFO       Lay du lieu nhap luc
+2021-08-23 17:55:50,984 INFO       Lay du lieu do rung
+2021-08-23 17:55:50,984 INFO       Lay du lieu tieng on
+2021-08-23 17:55:51,037 INFO Chu trinh - 3 - Lay du lieu chieu thuan
+2021-08-23 17:55:51,037 INFO   Lay du lieu - Forward
+2021-08-23 17:55:51,037 INFO       Lay du lieu dong dien
+2021-08-23 17:55:51,037 INFO       Lay du lieu nhap luc
+2021-08-23 17:55:51,037 INFO       Lay du lieu do rung
+2021-08-23 17:55:51,037 INFO       Lay du lieu tieng on
+2021-08-23 17:55:51,186 INFO Chu trinh - 3 - Lay du lieu chieu thuan
+2021-08-23 17:55:51,286 INFO   Lay du lieu - Forward
+2021-08-23 17:55:51,286 INFO       Lay du lieu dong dien
+2021-08-23 17:55:51,286 INFO       Lay du lieu nhap luc
+2021-08-23 17:55:51,286 INFO       Lay du lieu do rung
+2021-08-23 17:55:51,286 INFO       Lay du lieu tieng on
+2021-08-23 17:55:51,286 ERROR Thoi gian chu trinh vuot qua 100ms
+2021-08-23 17:55:51,302 INFO Chu trinh - 3 - Lay du lieu chieu thuan
+2021-08-23 17:55:51,302 INFO   Lay du lieu - Forward
+2021-08-23 17:55:51,302 INFO       Lay du lieu dong dien
+2021-08-23 17:55:51,302 INFO       Lay du lieu nhap luc
+2021-08-23 17:55:51,302 INFO       Lay du lieu do rung
+2021-08-23 17:55:51,302 INFO       Lay du lieu tieng on
+2021-08-23 17:55:51,417 INFO Chu trinh - 3 - Lay du lieu chieu thuan
+2021-08-23 17:55:51,473 INFO   Lay du lieu - Forward
+2021-08-23 17:55:51,473 INFO       Lay du lieu dong dien
+2021-08-23 17:55:51,473 INFO       Lay du lieu nhap luc
+2021-08-23 17:55:51,473 INFO       Lay du lieu do rung
+2021-08-23 17:55:51,473 INFO       Lay du lieu tieng on
+2021-08-23 17:55:51,520 INFO Chu trinh - 3 - Lay du lieu chieu thuan
+2021-08-23 17:55:51,526 INFO   Lay du lieu - Forward
+2021-08-23 17:55:51,526 INFO       Lay du lieu dong dien
+2021-08-23 17:55:51,526 INFO       Lay du lieu nhap luc
+2021-08-23 17:55:51,526 INFO       Lay du lieu do rung
+2021-08-23 17:55:51,526 INFO       Lay du lieu tieng on
+2021-08-23 17:55:51,628 INFO Chu trinh - 3 - Lay du lieu chieu thuan
+2021-08-23 17:55:51,675 INFO   Lay du lieu - Forward
+2021-08-23 17:55:51,675 INFO       Lay du lieu dong dien
+2021-08-23 17:55:51,675 INFO       Lay du lieu nhap luc
+2021-08-23 17:55:51,675 INFO       Lay du lieu do rung
+2021-08-23 17:55:51,675 INFO       Lay du lieu tieng on
+2021-08-23 17:55:51,675 INFO       Ve do thi du lieu
+2021-08-23 17:55:51,729 INFO Chu trinh - 3 - Lay du lieu chieu thuan
+2021-08-23 17:55:51,744 INFO   Lay du lieu - Forward
+2021-08-23 17:55:51,744 INFO       Lay du lieu dong dien
+2021-08-23 17:55:51,744 INFO       Lay du lieu nhap luc
+2021-08-23 17:55:51,744 INFO       Lay du lieu do rung
+2021-08-23 17:55:51,744 INFO       Lay du lieu tieng on
+2021-08-23 17:55:51,807 INFO Chu trinh - 3 - Lay du lieu chieu thuan
+2021-08-23 17:55:51,807 INFO   Lay du lieu - Forward
+2021-08-23 17:55:51,807 INFO       Lay du lieu dong dien
+2021-08-23 17:55:51,807 INFO       Lay du lieu nhap luc
+2021-08-23 17:55:51,807 INFO       Lay du lieu do rung
+2021-08-23 17:55:51,807 INFO       Lay du lieu tieng on
+2021-08-23 17:55:51,907 INFO Chu trinh - 3 - Lay du lieu chieu thuan
+2021-08-23 17:55:51,961 INFO   Lay du lieu - Forward
+2021-08-23 17:55:51,961 INFO       Lay du lieu dong dien
+2021-08-23 17:55:51,961 INFO       Lay du lieu nhap luc
+2021-08-23 17:55:51,961 INFO       Lay du lieu do rung
+2021-08-23 17:55:51,961 INFO       Lay du lieu tieng on
+2021-08-23 17:55:52,008 INFO Chu trinh - 3 - Lay du lieu chieu thuan
+2021-08-23 17:55:52,008 INFO   Lay du lieu - Forward
+2021-08-23 17:55:52,008 INFO       Lay du lieu dong dien
+2021-08-23 17:55:52,008 INFO       Lay du lieu nhap luc
+2021-08-23 17:55:52,008 INFO       Lay du lieu do rung
+2021-08-23 17:55:52,008 INFO       Lay du lieu tieng on
+2021-08-23 17:55:52,108 INFO Chu trinh - 3 - Lay du lieu chieu thuan
+2021-08-23 17:55:52,146 INFO   Lay du lieu - Forward
+2021-08-23 17:55:52,146 INFO       Lay du lieu dong dien
+2021-08-23 17:55:52,161 INFO       Lay du lieu nhap luc
+2021-08-23 17:55:52,161 INFO       Lay du lieu do rung
+2021-08-23 17:55:52,161 INFO       Lay du lieu tieng on
+2021-08-23 17:55:52,209 INFO Chu trinh - 3 - Lay du lieu chieu thuan
+2021-08-23 17:55:52,209 INFO   Lay du lieu - Forward
+2021-08-23 17:55:52,209 INFO       Lay du lieu dong dien
+2021-08-23 17:55:52,209 INFO       Lay du lieu nhap luc
+2021-08-23 17:55:52,209 INFO       Lay du lieu do rung
+2021-08-23 17:55:52,209 INFO       Lay du lieu tieng on
+2021-08-23 17:55:52,309 INFO Chu trinh - 3 - Lay du lieu chieu thuan
+2021-08-23 17:55:52,346 INFO   Lay du lieu - Forward
+2021-08-23 17:55:52,346 INFO       Lay du lieu dong dien
+2021-08-23 17:55:52,346 INFO       Lay du lieu nhap luc
+2021-08-23 17:55:52,346 INFO       Lay du lieu do rung
+2021-08-23 17:55:52,346 INFO       Lay du lieu tieng on
+2021-08-23 17:55:52,409 INFO Chu trinh - 3 - Lay du lieu chieu thuan
+2021-08-23 17:55:52,409 INFO   Lay du lieu - Forward
+2021-08-23 17:55:52,409 INFO       Lay du lieu dong dien
+2021-08-23 17:55:52,409 INFO       Lay du lieu nhap luc
+2021-08-23 17:55:52,409 INFO       Lay du lieu do rung
+2021-08-23 17:55:52,409 INFO       Lay du lieu tieng on
+2021-08-23 17:55:52,509 INFO Chu trinh - 3 - Lay du lieu chieu thuan
+2021-08-23 17:55:52,563 INFO   Lay du lieu - Forward
+2021-08-23 17:55:52,563 INFO       Lay du lieu dong dien
+2021-08-23 17:55:52,563 INFO       Lay du lieu nhap luc
+2021-08-23 17:55:52,563 INFO       Lay du lieu do rung
+2021-08-23 17:55:52,563 INFO       Lay du lieu tieng on
+2021-08-23 17:55:52,610 INFO Chu trinh - 3 - Lay du lieu chieu thuan
+2021-08-23 17:55:52,610 INFO   Lay du lieu - Forward
+2021-08-23 17:55:52,610 INFO       Lay du lieu dong dien
+2021-08-23 17:55:52,610 INFO       Lay du lieu nhap luc
+2021-08-23 17:55:52,610 INFO       Lay du lieu do rung
+2021-08-23 17:55:52,610 INFO       Lay du lieu tieng on
+2021-08-23 17:55:52,610 INFO       Ve do thi du lieu
+2021-08-23 17:55:52,710 INFO Chu trinh - 3 - Lay du lieu chieu thuan
+2021-08-23 17:55:52,763 INFO   Lay du lieu - Forward
+2021-08-23 17:55:52,763 INFO       Lay du lieu dong dien
+2021-08-23 17:55:52,763 INFO       Lay du lieu nhap luc
+2021-08-23 17:55:52,763 INFO       Lay du lieu do rung
+2021-08-23 17:55:52,763 INFO       Lay du lieu tieng on
+2021-08-23 17:55:52,810 INFO Chu trinh - 3 - Lay du lieu chieu thuan
+2021-08-23 17:55:52,810 INFO   Lay du lieu - Forward
+2021-08-23 17:55:52,810 INFO       Lay du lieu dong dien
+2021-08-23 17:55:52,810 INFO       Lay du lieu nhap luc
+2021-08-23 17:55:52,810 INFO       Lay du lieu do rung
+2021-08-23 17:55:52,810 INFO       Lay du lieu tieng on
+2021-08-23 17:55:52,964 INFO Chu trinh - 3 - Lay du lieu chieu thuan
+2021-08-23 17:55:53,064 INFO   Lay du lieu - Forward
+2021-08-23 17:55:53,064 INFO       Lay du lieu dong dien
+2021-08-23 17:55:53,064 INFO       Lay du lieu nhap luc
+2021-08-23 17:55:53,064 INFO       Lay du lieu do rung
+2021-08-23 17:55:53,064 INFO       Lay du lieu tieng on
+2021-08-23 17:55:53,064 ERROR Thoi gian chu trinh vuot qua 100ms
+2021-08-23 17:55:53,064 INFO Chu trinh - 3 - Lay du lieu chieu thuan
+2021-08-23 17:55:53,080 INFO   Lay du lieu - Forward
+2021-08-23 17:55:53,080 INFO       Lay du lieu dong dien
+2021-08-23 17:55:53,080 INFO       Lay du lieu nhap luc
+2021-08-23 17:55:53,080 INFO       Lay du lieu do rung
+2021-08-23 17:55:53,080 INFO       Lay du lieu tieng on
+2021-08-23 17:55:53,180 INFO Chu trinh - 3 - Lay du lieu chieu thuan
+2021-08-23 17:55:53,233 INFO   Lay du lieu - Forward
+2021-08-23 17:55:53,233 INFO       Lay du lieu dong dien
+2021-08-23 17:55:53,233 INFO       Lay du lieu nhap luc
+2021-08-23 17:55:53,233 INFO       Lay du lieu do rung
+2021-08-23 17:55:53,233 INFO       Lay du lieu tieng on
+2021-08-23 17:55:53,280 INFO Chu trinh - 3 - Lay du lieu chieu thuan
+2021-08-23 17:55:53,295 INFO   Lay du lieu - Forward
+2021-08-23 17:55:53,295 INFO       Lay du lieu dong dien
+2021-08-23 17:55:53,295 INFO       Lay du lieu nhap luc
+2021-08-23 17:55:53,295 INFO       Lay du lieu do rung
+2021-08-23 17:55:53,295 INFO       Lay du lieu tieng on
+2021-08-23 17:55:53,411 INFO Chu trinh - 3 - Lay du lieu chieu thuan
+2021-08-23 17:55:53,450 INFO   Lay du lieu - Forward
+2021-08-23 17:55:53,450 INFO       Lay du lieu dong dien
+2021-08-23 17:55:53,450 INFO       Lay du lieu nhap luc
+2021-08-23 17:55:53,450 INFO       Lay du lieu do rung
+2021-08-23 17:55:53,450 INFO       Lay du lieu tieng on
+2021-08-23 17:55:53,496 INFO Chu trinh - 3 - Lay du lieu chieu thuan
+2021-08-23 17:55:53,512 INFO   Lay du lieu - Forward
+2021-08-23 17:55:53,512 INFO       Lay du lieu dong dien
+2021-08-23 17:55:53,512 INFO       Lay du lieu nhap luc
+2021-08-23 17:55:53,512 INFO       Lay du lieu do rung
+2021-08-23 17:55:53,512 INFO       Lay du lieu tieng on
+2021-08-23 17:55:53,581 INFO Chu trinh - 3 - Lay du lieu chieu thuan
+2021-08-23 17:55:53,634 INFO   Lay du lieu - Forward
+2021-08-23 17:55:53,634 INFO       Lay du lieu dong dien
+2021-08-23 17:55:53,634 INFO       Lay du lieu nhap luc
+2021-08-23 17:55:53,634 INFO       Lay du lieu do rung
+2021-08-23 17:55:53,634 INFO       Lay du lieu tieng on
+2021-08-23 17:55:53,712 INFO Chu trinh - 3 - Lay du lieu chieu thuan
+2021-08-23 17:55:53,734 INFO   Lay du lieu - Forward
+2021-08-23 17:55:53,734 INFO       Lay du lieu dong dien
+2021-08-23 17:55:53,734 INFO       Lay du lieu nhap luc
+2021-08-23 17:55:53,734 INFO       Lay du lieu do rung
+2021-08-23 17:55:53,734 INFO       Lay du lieu tieng on
+2021-08-23 17:55:53,734 INFO       Ve do thi du lieu
+2021-08-23 17:55:53,777 INFO Chu trinh - 3 - Lay du lieu chieu thuan
+2021-08-23 17:55:53,835 INFO   Lay du lieu - Forward
+2021-08-23 17:55:53,835 INFO       Lay du lieu dong dien
+2021-08-23 17:55:53,835 INFO       Lay du lieu nhap luc
+2021-08-23 17:55:53,835 INFO       Lay du lieu do rung
+2021-08-23 17:55:53,835 INFO       Lay du lieu tieng on
+2021-08-23 17:55:53,882 INFO Chu trinh - 3 - Lay du lieu chieu thuan
+2021-08-23 17:55:53,935 INFO   Lay du lieu - Forward
+2021-08-23 17:55:53,935 INFO       Lay du lieu dong dien
+2021-08-23 17:55:53,935 INFO       Lay du lieu nhap luc
+2021-08-23 17:55:53,935 INFO       Lay du lieu do rung
+2021-08-23 17:55:53,935 INFO       Lay du lieu tieng on
+2021-08-23 17:55:53,982 INFO Chu trinh - 3 - Lay du lieu chieu thuan
+2021-08-23 17:55:53,982 INFO   Lay du lieu - Forward
+2021-08-23 17:55:53,982 INFO       Lay du lieu dong dien
+2021-08-23 17:55:53,982 INFO       Lay du lieu nhap luc
+2021-08-23 17:55:53,982 INFO       Lay du lieu do rung
+2021-08-23 17:55:53,982 INFO       Lay du lieu tieng on
+2021-08-23 17:55:54,083 INFO Chu trinh - 3 - Lay du lieu chieu thuan
+2021-08-23 17:55:54,135 INFO   Lay du lieu - Forward
+2021-08-23 17:55:54,135 INFO       Lay du lieu dong dien
+2021-08-23 17:55:54,135 INFO       Lay du lieu nhap luc
+2021-08-23 17:55:54,135 INFO       Lay du lieu do rung
+2021-08-23 17:55:54,135 INFO       Lay du lieu tieng on
+2021-08-23 17:55:54,182 INFO Chu trinh - 3 - Lay du lieu chieu thuan
+2021-08-23 17:55:54,182 INFO   Lay du lieu - Forward
+2021-08-23 17:55:54,182 INFO       Lay du lieu dong dien
+2021-08-23 17:55:54,182 INFO       Lay du lieu nhap luc
+2021-08-23 17:55:54,182 INFO       Lay du lieu do rung
+2021-08-23 17:55:54,182 INFO       Lay du lieu tieng on
+2021-08-23 17:55:54,283 INFO Chu trinh - 3 - Lay du lieu chieu thuan
+2021-08-23 17:55:54,336 INFO   Lay du lieu - Forward
+2021-08-23 17:55:54,336 INFO       Lay du lieu dong dien
+2021-08-23 17:55:54,336 INFO       Lay du lieu nhap luc
+2021-08-23 17:55:54,336 INFO       Lay du lieu do rung
+2021-08-23 17:55:54,336 INFO       Lay du lieu tieng on
+2021-08-23 17:55:54,383 INFO Chu trinh - 3 - Lay du lieu chieu thuan
+2021-08-23 17:55:54,383 INFO   Lay du lieu - Forward
+2021-08-23 17:55:54,383 INFO       Lay du lieu dong dien
+2021-08-23 17:55:54,383 INFO       Lay du lieu nhap luc
+2021-08-23 17:55:54,383 INFO       Lay du lieu do rung
+2021-08-23 17:55:54,383 INFO       Lay du lieu tieng on
+2021-08-23 17:55:54,483 INFO Chu trinh - 3 - Lay du lieu chieu thuan
+2021-08-23 17:55:54,536 INFO   Lay du lieu - Forward
+2021-08-23 17:55:54,536 INFO       Lay du lieu dong dien
+2021-08-23 17:55:54,536 INFO       Lay du lieu nhap luc
+2021-08-23 17:55:54,536 INFO       Lay du lieu do rung
+2021-08-23 17:55:54,536 INFO       Lay du lieu tieng on
+2021-08-23 17:55:54,583 INFO Chu trinh - 3 - Lay du lieu chieu thuan
+2021-08-23 17:55:54,583 INFO   Lay du lieu - Forward
+2021-08-23 17:55:54,583 INFO       Lay du lieu dong dien
+2021-08-23 17:55:54,583 INFO       Lay du lieu nhap luc
+2021-08-23 17:55:54,583 INFO       Lay du lieu do rung
+2021-08-23 17:55:54,583 INFO       Lay du lieu tieng on
+2021-08-23 17:55:54,683 INFO Chu trinh - 3 - Lay du lieu chieu thuan
+2021-08-23 17:55:54,736 INFO   Lay du lieu - Forward
+2021-08-23 17:55:54,736 INFO       Lay du lieu dong dien
+2021-08-23 17:55:54,736 INFO       Lay du lieu nhap luc
+2021-08-23 17:55:54,736 INFO       Lay du lieu do rung
+2021-08-23 17:55:54,736 INFO       Lay du lieu tieng on
+2021-08-23 17:55:54,736 INFO       Ve do thi du lieu
+2021-08-23 17:55:54,784 INFO Chu trinh - 3 - Lay du lieu chieu thuan
+2021-08-23 17:55:54,784 INFO   Lay du lieu - Forward
+2021-08-23 17:55:54,784 INFO       Lay du lieu dong dien
+2021-08-23 17:55:54,784 INFO       Lay du lieu nhap luc
+2021-08-23 17:55:54,784 INFO       Lay du lieu do rung
+2021-08-23 17:55:54,784 INFO       Lay du lieu tieng on
+2021-08-23 17:55:54,937 INFO Chu trinh - 3 - Lay du lieu chieu thuan
+2021-08-23 17:55:55,038 INFO   Lay du lieu - Forward
+2021-08-23 17:55:55,038 INFO       Lay du lieu dong dien
+2021-08-23 17:55:55,038 INFO       Lay du lieu nhap luc
+2021-08-23 17:55:55,038 INFO       Lay du lieu do rung
+2021-08-23 17:55:55,038 INFO       Lay du lieu tieng on
+2021-08-23 17:55:55,038 ERROR Thoi gian chu trinh vuot qua 100ms
+2021-08-23 17:55:55,038 INFO Chu trinh - 3 - Lay du lieu chieu thuan
+2021-08-23 17:55:55,053 INFO   Lay du lieu - Forward
+2021-08-23 17:55:55,053 INFO       Lay du lieu dong dien
+2021-08-23 17:55:55,053 INFO       Lay du lieu nhap luc
+2021-08-23 17:55:55,053 INFO       Lay du lieu do rung
+2021-08-23 17:55:55,053 INFO       Lay du lieu tieng on
+2021-08-23 17:55:55,154 INFO Chu trinh - 3 - Lay du lieu chieu thuan
+2021-08-23 17:55:55,201 INFO   Lay du lieu - Forward
+2021-08-23 17:55:55,201 INFO       Lay du lieu dong dien
+2021-08-23 17:55:55,201 INFO       Lay du lieu nhap luc
+2021-08-23 17:55:55,201 INFO       Lay du lieu do rung
+2021-08-23 17:55:55,201 INFO       Lay du lieu tieng on
+2021-08-23 17:55:55,254 INFO Chu trinh - 3 - Lay du lieu chieu thuan
+2021-08-23 17:55:55,254 INFO   Lay du lieu - Forward
+2021-08-23 17:55:55,254 INFO       Lay du lieu dong dien
+2021-08-23 17:55:55,254 INFO       Lay du lieu nhap luc
+2021-08-23 17:55:55,254 INFO       Lay du lieu do rung
+2021-08-23 17:55:55,254 INFO       Lay du lieu tieng on
+2021-08-23 17:55:55,354 INFO Chu trinh - 3 - Lay du lieu chieu thuan
+2021-08-23 17:55:55,417 INFO   Lay du lieu - Forward
+2021-08-23 17:55:55,417 INFO       Lay du lieu dong dien
+2021-08-23 17:55:55,417 INFO       Lay du lieu nhap luc
+2021-08-23 17:55:55,417 INFO       Lay du lieu do rung
+2021-08-23 17:55:55,417 INFO       Lay du lieu tieng on
+2021-08-23 17:55:55,455 INFO Chu trinh - 3 - Lay du lieu chieu thuan
+2021-08-23 17:55:55,470 INFO   Lay du lieu - Forward
+2021-08-23 17:55:55,470 INFO       Lay du lieu dong dien
+2021-08-23 17:55:55,470 INFO       Lay du lieu nhap luc
+2021-08-23 17:55:55,470 INFO       Lay du lieu do rung
+2021-08-23 17:55:55,470 INFO       Lay du lieu tieng on
+2021-08-23 17:55:55,571 INFO Chu trinh - 3 - Lay du lieu chieu thuan
+2021-08-23 17:55:55,633 INFO   Lay du lieu - Forward
+2021-08-23 17:55:55,633 INFO       Lay du lieu dong dien
+2021-08-23 17:55:55,633 INFO       Lay du lieu nhap luc
+2021-08-23 17:55:55,633 INFO       Lay du lieu do rung
+2021-08-23 17:55:55,633 INFO       Lay du lieu tieng on
+2021-08-23 17:55:55,671 INFO Chu trinh - 3 - Lay du lieu chieu thuan
+2021-08-23 17:55:55,686 INFO   Lay du lieu - Forward
+2021-08-23 17:55:55,686 INFO       Lay du lieu dong dien
+2021-08-23 17:55:55,686 INFO       Lay du lieu nhap luc
+2021-08-23 17:55:55,686 INFO       Lay du lieu do rung
+2021-08-23 17:55:55,686 INFO       Lay du lieu tieng on
+2021-08-23 17:55:56,341 INFO Chu trinh - 3 - Lay du lieu chieu thuan
+2021-08-23 17:55:56,357 INFO   Lay du lieu - Forward
+2021-08-23 17:55:56,357 INFO       Lay du lieu dong dien
+2021-08-23 17:55:56,357 INFO       Lay du lieu nhap luc
+2021-08-23 17:55:56,357 INFO       Lay du lieu do rung
+2021-08-23 17:55:56,357 INFO       Lay du lieu tieng on
+2021-08-23 17:55:56,357 INFO       Ve do thi du lieu
+2021-08-23 17:55:56,357 ERROR Thoi gian chu trinh vuot qua 100ms
+2021-08-23 17:55:56,357 INFO Chu trinh - 3 - Lay du lieu chieu thuan
+2021-08-23 17:55:56,357 INFO   Lay du lieu - Forward
+2021-08-23 17:55:56,357 INFO       Lay du lieu dong dien
+2021-08-23 17:55:56,357 INFO       Lay du lieu nhap luc
+2021-08-23 17:55:56,357 INFO       Lay du lieu do rung
+2021-08-23 17:55:56,357 INFO       Lay du lieu tieng on
+2021-08-23 17:55:56,457 INFO Chu trinh - 3 - Lay du lieu chieu thuan
+2021-08-23 17:55:56,504 INFO   Lay du lieu - Forward
+2021-08-23 17:55:56,504 INFO       Lay du lieu dong dien
+2021-08-23 17:55:56,504 INFO       Lay du lieu nhap luc
+2021-08-23 17:55:56,504 INFO       Lay du lieu do rung
+2021-08-23 17:55:56,504 INFO       Lay du lieu tieng on
+2021-08-23 17:55:56,557 INFO Chu trinh - 3 - Lay du lieu chieu thuan
+2021-08-23 17:55:56,557 INFO   Lay du lieu - Forward
+2021-08-23 17:55:56,557 INFO       Lay du lieu dong dien
+2021-08-23 17:55:56,557 INFO       Lay du lieu nhap luc
+2021-08-23 17:55:56,557 INFO       Lay du lieu do rung
+2021-08-23 17:55:56,557 INFO       Lay du lieu tieng on
+2021-08-23 17:55:56,658 INFO Chu trinh - 3 - Lay du lieu chieu thuan
+2021-08-23 17:55:56,805 INFO   Lay du lieu - Forward
+2021-08-23 17:55:56,805 INFO       Lay du lieu dong dien
+2021-08-23 17:55:56,805 INFO       Lay du lieu nhap luc
+2021-08-23 17:55:56,805 INFO       Lay du lieu do rung
+2021-08-23 17:55:56,805 INFO       Lay du lieu tieng on
+2021-08-23 17:55:56,805 ERROR Thoi gian chu trinh vuot qua 100ms
+2021-08-23 17:55:56,859 INFO Chu trinh - 3 - Lay du lieu chieu thuan
+2021-08-23 17:55:56,859 INFO   Lay du lieu - Forward
+2021-08-23 17:55:56,859 INFO       Lay du lieu dong dien
+2021-08-23 17:55:56,859 INFO       Lay du lieu nhap luc
+2021-08-23 17:55:56,859 INFO       Lay du lieu do rung
+2021-08-23 17:55:56,859 INFO       Lay du lieu tieng on
+2021-08-23 17:55:56,915 INFO Chu trinh - 3 - Lay du lieu chieu thuan
+2021-08-23 17:55:56,915 INFO   Lay du lieu - Forward
+2021-08-23 17:55:56,915 INFO       Lay du lieu dong dien
+2021-08-23 17:55:56,915 INFO       Lay du lieu nhap luc
+2021-08-23 17:55:56,915 INFO       Lay du lieu do rung
+2021-08-23 17:55:56,915 INFO       Lay du lieu tieng on
+2021-08-23 17:55:57,021 INFO Chu trinh - 3 - Lay du lieu chieu thuan
+2021-08-23 17:55:57,059 INFO   Lay du lieu - Forward
+2021-08-23 17:55:57,059 INFO       Lay du lieu dong dien
+2021-08-23 17:55:57,059 INFO       Lay du lieu nhap luc
+2021-08-23 17:55:57,059 INFO       Lay du lieu do rung
+2021-08-23 17:55:57,059 INFO       Lay du lieu tieng on
+2021-08-23 17:55:57,122 INFO Chu trinh - 3 - Lay du lieu chieu thuan
+2021-08-23 17:55:57,122 INFO   Lay du lieu - Forward
+2021-08-23 17:55:57,122 INFO       Lay du lieu dong dien
+2021-08-23 17:55:57,122 INFO       Lay du lieu nhap luc
+2021-08-23 17:55:57,122 INFO       Lay du lieu do rung
+2021-08-23 17:55:57,122 INFO       Lay du lieu tieng on
+2021-08-23 17:55:57,222 INFO Chu trinh - 3 - Lay du lieu chieu thuan
+2021-08-23 17:55:57,275 INFO   Lay du lieu - Forward
+2021-08-23 17:55:57,275 INFO       Lay du lieu dong dien
+2021-08-23 17:55:57,275 INFO       Lay du lieu nhap luc
+2021-08-23 17:55:57,275 INFO       Lay du lieu do rung
+2021-08-23 17:55:57,275 INFO       Lay du lieu tieng on
+2021-08-23 17:55:57,322 INFO Chu trinh - 3 - Lay du lieu chieu thuan
+2021-08-23 17:55:57,322 INFO   Lay du lieu - Forward
+2021-08-23 17:55:57,322 INFO       Lay du lieu dong dien
+2021-08-23 17:55:57,322 INFO       Lay du lieu nhap luc
+2021-08-23 17:55:57,322 INFO       Lay du lieu do rung
+2021-08-23 17:55:57,322 INFO       Lay du lieu tieng on
+2021-08-23 17:55:57,322 INFO       Ve do thi du lieu
+2021-08-23 17:55:57,420 INFO Chu trinh - 3 - Lay du lieu chieu thuan
+2021-08-23 17:55:57,480 INFO   Lay du lieu - Forward
+2021-08-23 17:55:57,480 INFO       Lay du lieu dong dien
+2021-08-23 17:55:57,480 INFO       Lay du lieu nhap luc
+2021-08-23 17:55:57,480 INFO       Lay du lieu do rung
+2021-08-23 17:55:57,480 INFO       Lay du lieu tieng on
+2021-08-23 17:55:57,814 ERROR Thoi gian chu trinh vuot qua 100ms
+2021-08-23 17:55:57,814 INFO Chu trinh - 9 - Ghi du lieu am thanh chieu thuan
+2021-08-23 17:55:57,887 INFO Chu trinh - 11 - Doi du lieu bat dau chieu nghich
+2021-08-23 17:55:58,102 ERROR Thoi gian chu trinh vuot qua 100ms
+2021-08-23 17:55:58,775 ERROR Thoi gian chu trinh vuot qua 100ms
+2021-08-23 17:56:00,542 ERROR Thoi gian chu trinh vuot qua 100ms
+2021-08-23 17:56:00,758 ERROR Thoi gian chu trinh vuot qua 100ms
+2021-08-23 17:56:02,441 ERROR Thoi gian chu trinh vuot qua 100ms
+2021-08-23 17:56:06,208 ERROR Thoi gian chu trinh vuot qua 100ms
+2021-08-23 17:56:08,049 ERROR Thoi gian chu trinh vuot qua 100ms
+2021-08-23 17:56:09,834 ERROR Thoi gian chu trinh vuot qua 100ms
+2021-08-23 17:56:11,810 ERROR Thoi gian chu trinh vuot qua 100ms
+2021-08-23 17:56:12,011 ERROR Thoi gian chu trinh vuot qua 100ms
+2021-08-23 17:56:14,640 ERROR Thoi gian chu trinh vuot qua 100ms
+2021-08-23 17:56:14,841 ERROR Thoi gian chu trinh vuot qua 100ms
+2021-08-23 17:56:15,485 ERROR Thoi gian chu trinh vuot qua 100ms
+2021-08-23 17:56:16,370 ERROR Thoi gian chu trinh vuot qua 100ms
+2021-08-23 17:56:17,452 ERROR Thoi gian chu trinh vuot qua 100ms
+2021-08-23 17:56:21,138 ERROR Thoi gian chu trinh vuot qua 100ms
+2021-08-23 17:56:23,013 ERROR Thoi gian chu trinh vuot qua 100ms
+2021-08-23 17:56:26,715 ERROR Thoi gian chu trinh vuot qua 100ms
+2021-08-23 17:56:28,577 ERROR Thoi gian chu trinh vuot qua 100ms
+2021-08-23 17:56:32,289 ERROR Thoi gian chu trinh vuot qua 100ms
+2021-08-23 17:56:34,280 ERROR Thoi gian chu trinh vuot qua 100ms
+2021-08-23 17:56:34,886 ERROR Thoi gian chu trinh vuot qua 100ms
+2021-08-23 17:56:36,527 ERROR Thoi gian chu trinh vuot qua 100ms
+2021-08-23 17:56:36,658 ERROR Thoi gian chu trinh vuot qua 100ms
+2021-08-23 17:56:38,439 ERROR Thoi gian chu trinh vuot qua 100ms
+2021-08-23 17:56:42,127 ERROR Thoi gian chu trinh vuot qua 100ms
+2021-08-23 17:56:43,965 ERROR Thoi gian chu trinh vuot qua 100ms
+2021-08-23 17:56:44,458 ERROR Thoi gian chu trinh vuot qua 100ms
+2021-08-23 17:56:45,830 ERROR Thoi gian chu trinh vuot qua 100ms
+2021-08-23 17:56:47,802 ERROR Thoi gian chu trinh vuot qua 100ms
+2021-08-23 17:56:48,204 ERROR Thoi gian chu trinh vuot qua 100ms
+2021-08-23 17:56:49,709 ERROR Thoi gian chu trinh vuot qua 100ms
+2021-08-23 17:56:51,464 ERROR Thoi gian chu trinh vuot qua 100ms
+2021-08-23 17:56:53,386 ERROR Thoi gian chu trinh vuot qua 100ms
+2021-08-23 17:56:55,208 ERROR Thoi gian chu trinh vuot qua 100ms
+2021-08-23 17:56:56,560 ERROR Thoi gian chu trinh vuot qua 100ms
+2021-08-23 17:56:57,100 ERROR Thoi gian chu trinh vuot qua 100ms
+2021-08-23 17:56:58,974 ERROR Thoi gian chu trinh vuot qua 100ms
+2021-08-23 17:56:59,266 ERROR Thoi gian chu trinh vuot qua 100ms
+2021-08-23 17:56:59,873 ERROR Thoi gian chu trinh vuot qua 100ms
+2021-08-23 17:57:00,976 ERROR Thoi gian chu trinh vuot qua 100ms
+2021-08-23 17:57:04,645 ERROR Thoi gian chu trinh vuot qua 100ms
+2021-08-23 17:57:06,466 ERROR Thoi gian chu trinh vuot qua 100ms
+2021-08-23 17:57:10,254 ERROR Thoi gian chu trinh vuot qua 100ms
+2021-08-23 17:57:13,948 ERROR Thoi gian chu trinh vuot qua 100ms
+2021-08-23 17:57:14,149 ERROR Thoi gian chu trinh vuot qua 100ms
+2021-08-23 17:57:15,908 ERROR Thoi gian chu trinh vuot qua 100ms
+2021-08-23 17:57:16,540 ERROR Thoi gian chu trinh vuot qua 100ms
+2021-08-23 17:57:17,778 ERROR Thoi gian chu trinh vuot qua 100ms
+2021-08-23 17:57:19,620 ERROR Thoi gian chu trinh vuot qua 100ms
+2021-08-23 17:57:21,545 ERROR Thoi gian chu trinh vuot qua 100ms
+2021-08-23 17:57:23,399 ERROR Thoi gian chu trinh vuot qua 100ms
+2021-08-23 17:57:25,257 ERROR Thoi gian chu trinh vuot qua 100ms
+2021-08-23 17:57:27,642 ERROR Thoi gian chu trinh vuot qua 100ms
+2021-08-23 17:57:33,254 ERROR Thoi gian chu trinh vuot qua 100ms
+2021-08-23 17:57:33,458 ERROR Thoi gian chu trinh vuot qua 100ms
+2021-08-23 17:57:35,220 ERROR Thoi gian chu trinh vuot qua 100ms
+2021-08-23 17:57:36,686 ERROR Thoi gian chu trinh vuot qua 100ms
+2021-08-23 17:57:37,086 ERROR Thoi gian chu trinh vuot qua 100ms
+2021-08-23 17:57:38,837 ERROR Thoi gian chu trinh vuot qua 100ms
+2021-08-23 17:57:40,695 ERROR Thoi gian chu trinh vuot qua 100ms
+2021-08-23 17:57:40,811 ERROR Thoi gian chu trinh vuot qua 100ms
+2021-08-23 17:57:41,197 ERROR Thoi gian chu trinh vuot qua 100ms
+2021-08-23 17:57:42,700 ERROR Thoi gian chu trinh vuot qua 100ms
+2021-08-23 17:57:44,559 ERROR Thoi gian chu trinh vuot qua 100ms
+2021-08-23 17:57:46,426 ERROR Thoi gian chu trinh vuot qua 100ms
+2021-08-23 17:57:46,627 ERROR Thoi gian chu trinh vuot qua 100ms
+2021-08-23 17:57:48,404 ERROR Thoi gian chu trinh vuot qua 100ms
+2021-08-23 17:57:52,063 ERROR Thoi gian chu trinh vuot qua 100ms
+2021-08-23 17:57:52,348 ERROR Thoi gian chu trinh vuot qua 100ms
+2021-08-23 17:57:55,852 ERROR Thoi gian chu trinh vuot qua 100ms
+2021-08-23 17:57:56,069 ERROR Thoi gian chu trinh vuot qua 100ms
+2021-08-23 17:57:56,722 ERROR Thoi gian chu trinh vuot qua 100ms
+2021-08-23 17:57:57,826 ERROR Thoi gian chu trinh vuot qua 100ms
+2021-08-23 17:58:03,462 ERROR Thoi gian chu trinh vuot qua 100ms
+2021-08-23 17:58:05,233 ERROR Thoi gian chu trinh vuot qua 100ms
+2021-08-23 17:58:05,836 ERROR Thoi gian chu trinh vuot qua 100ms
+2021-08-23 17:58:07,196 ERROR Thoi gian chu trinh vuot qua 100ms
+2021-08-23 17:58:10,873 ERROR Thoi gian chu trinh vuot qua 100ms
+2021-08-23 17:58:12,801 ERROR Thoi gian chu trinh vuot qua 100ms
+2021-08-23 17:58:14,814 ERROR Thoi gian chu trinh vuot qua 100ms
+2021-08-23 17:58:16,827 ERROR Thoi gian chu trinh vuot qua 100ms
+2021-08-23 17:58:16,980 ERROR Thoi gian chu trinh vuot qua 100ms
+2021-08-23 17:58:18,748 ERROR Thoi gian chu trinh vuot qua 100ms
+2021-08-23 17:58:19,051 ERROR Thoi gian chu trinh vuot qua 100ms
+2021-08-23 17:58:22,428 ERROR Thoi gian chu trinh vuot qua 100ms
+2021-08-23 17:58:26,159 ERROR Thoi gian chu trinh vuot qua 100ms
+2021-08-23 17:58:28,022 ERROR Thoi gian chu trinh vuot qua 100ms
+2021-08-23 17:58:29,903 ERROR Thoi gian chu trinh vuot qua 100ms
+2021-08-23 17:58:31,814 ERROR Thoi gian chu trinh vuot qua 100ms
+2021-08-23 17:58:34,005 ERROR Thoi gian chu trinh vuot qua 100ms
+2021-08-23 17:58:35,498 ERROR Thoi gian chu trinh vuot qua 100ms
+2021-08-23 17:58:36,858 ERROR Thoi gian chu trinh vuot qua 100ms
+2021-08-23 17:58:37,968 ERROR Thoi gian chu trinh vuot qua 100ms
+2021-08-23 17:58:39,228 ERROR Thoi gian chu trinh vuot qua 100ms
+2021-08-23 17:58:42,955 ERROR Thoi gian chu trinh vuot qua 100ms
+2021-08-23 17:58:44,861 ERROR Thoi gian chu trinh vuot qua 100ms
+2021-08-23 17:58:46,791 ERROR Thoi gian chu trinh vuot qua 100ms
+2021-08-23 17:58:49,221 ERROR Thoi gian chu trinh vuot qua 100ms
+2021-08-23 17:58:50,482 ERROR Thoi gian chu trinh vuot qua 100ms
+2021-08-23 17:58:52,380 ERROR Thoi gian chu trinh vuot qua 100ms
+2021-08-23 17:58:56,032 ERROR Thoi gian chu trinh vuot qua 100ms
+2021-08-23 17:58:56,879 ERROR Thoi gian chu trinh vuot qua 100ms
+2021-08-23 17:58:58,046 ERROR Thoi gian chu trinh vuot qua 100ms
+2021-08-23 17:58:59,814 ERROR Thoi gian chu trinh vuot qua 100ms
+2021-08-23 17:59:00,015 ERROR Thoi gian chu trinh vuot qua 100ms
+2021-08-23 17:59:01,797 ERROR Thoi gian chu trinh vuot qua 100ms
+2021-08-23 17:59:02,194 ERROR Thoi gian chu trinh vuot qua 100ms
+2021-08-23 17:59:05,463 ERROR Thoi gian chu trinh vuot qua 100ms
+2021-08-23 17:59:05,564 ERROR Thoi gian chu trinh vuot qua 100ms
+2021-08-23 17:59:06,168 ERROR Thoi gian chu trinh vuot qua 100ms
+2021-08-23 17:59:07,424 ERROR Thoi gian chu trinh vuot qua 100ms
+2021-08-23 17:59:09,843 ERROR Thoi gian chu trinh vuot qua 100ms
+2021-08-23 17:59:11,152 ERROR Thoi gian chu trinh vuot qua 100ms
+2021-08-23 17:59:14,844 ERROR Thoi gian chu trinh vuot qua 100ms
+2021-08-23 17:59:16,996 ERROR Thoi gian chu trinh vuot qua 100ms
+2021-08-23 17:59:18,796 ERROR Thoi gian chu trinh vuot qua 100ms
+2021-08-23 17:59:19,012 ERROR Thoi gian chu trinh vuot qua 100ms
+2021-08-23 17:59:20,671 ERROR Thoi gian chu trinh vuot qua 100ms
+2021-08-23 17:59:22,561 ERROR Thoi gian chu trinh vuot qua 100ms
+2021-08-23 17:59:26,216 ERROR Thoi gian chu trinh vuot qua 100ms
+2021-08-23 17:59:28,205 ERROR Thoi gian chu trinh vuot qua 100ms
+2021-08-23 17:59:29,909 ERROR Thoi gian chu trinh vuot qua 100ms
+2021-08-23 17:59:31,878 ERROR Thoi gian chu trinh vuot qua 100ms
+2021-08-23 17:59:32,094 ERROR Thoi gian chu trinh vuot qua 100ms
+2021-08-23 17:59:33,837 ERROR Thoi gian chu trinh vuot qua 100ms
+2021-08-23 17:59:37,094 ERROR Thoi gian chu trinh vuot qua 100ms
+2021-08-23 17:59:37,636 ERROR Thoi gian chu trinh vuot qua 100ms
+2021-08-23 17:59:41,325 ERROR Thoi gian chu trinh vuot qua 100ms
+2021-08-23 17:59:42,628 ERROR Thoi gian chu trinh vuot qua 100ms
+2021-08-23 17:59:43,268 ERROR Thoi gian chu trinh vuot qua 100ms
+2021-08-23 17:59:45,137 ERROR Thoi gian chu trinh vuot qua 100ms
+2021-08-23 17:59:45,438 ERROR Thoi gian chu trinh vuot qua 100ms
+2021-08-23 17:59:47,012 ERROR Thoi gian chu trinh vuot qua 100ms
+2021-08-23 17:59:47,228 ERROR Thoi gian chu trinh vuot qua 100ms
+2021-08-23 17:59:48,902 ERROR Thoi gian chu trinh vuot qua 100ms
+2021-08-23 17:59:52,644 ERROR Thoi gian chu trinh vuot qua 100ms
+2021-08-23 17:59:54,635 ERROR Thoi gian chu trinh vuot qua 100ms
+2021-08-23 17:59:56,339 ERROR Thoi gian chu trinh vuot qua 100ms
+2021-08-23 17:59:57,040 ERROR Thoi gian chu trinh vuot qua 100ms
+2021-08-23 17:59:58,946 ERROR Thoi gian chu trinh vuot qua 100ms

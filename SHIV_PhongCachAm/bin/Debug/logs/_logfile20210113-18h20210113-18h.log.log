@@ -1,0 +1,27 @@
+2021-01-13 18:12:22,337 INFO Mo file excel
+2021-01-13 18:12:22,343 INFO Dong tat ca file excel dang mo
+2021-01-13 18:12:22,343 INFO Khoi tao du lieu
+2021-01-13 18:12:22,345 INFO Khoi tao tat ca bien trang thai
+2021-01-13 18:12:22,346 INFO Khoi tao ket noi chuong trinh
+2021-01-13 18:12:22,347 INFO Tao ket noi du lieu voi PLC FX5U
+2021-01-13 18:12:22,716 INFO Tao ket noi du lieu voi PLC FX3G
+2021-01-13 18:12:23,197 INFO Ket noi cong COM7 - lay du lieu dong dien nhap luc
+2021-01-13 18:12:25,029 INFO Ket noi cong COM5 - lay du lieu tieng on
+2021-01-13 18:12:25,513 INFO Ket noi cong COM8 - lay du lieu vong quay
+2021-01-13 18:12:25,513 INFO Khoi tao thread lay du lieu lien tuc
+2021-01-13 18:12:25,513 INFO Khoi tao thread lay du lieu lien tuc --Chutrinh_LayDuLieu--
+2021-01-13 18:12:25,639 INFO Chu trinh - 0 - Khoi tao + Doi tin hieu bat dau chay
+2021-01-13 18:13:20,701 ERROR Thoi gian chu trinh vuot qua 100ms
+2021-01-13 18:13:40,685 INFO Mo file excel
+2021-01-13 18:13:40,692 INFO Dong tat ca file excel dang mo
+2021-01-13 18:13:40,692 INFO Khoi tao du lieu
+2021-01-13 18:13:40,693 INFO Khoi tao tat ca bien trang thai
+2021-01-13 18:13:40,695 INFO Khoi tao ket noi chuong trinh
+2021-01-13 18:13:40,695 INFO Tao ket noi du lieu voi PLC FX5U
+2021-01-13 18:13:41,068 INFO Tao ket noi du lieu voi PLC FX3G
+2021-01-13 18:13:41,557 INFO Ket noi cong COM7 - lay du lieu dong dien nhap luc
+2021-01-13 18:13:43,985 INFO Ket noi cong COM5 - lay du lieu tieng on
+2021-01-13 18:13:44,478 INFO Ket noi cong COM8 - lay du lieu vong quay
+2021-01-13 18:13:44,478 INFO Khoi tao thread lay du lieu lien tuc
+2021-01-13 18:13:44,478 INFO Khoi tao thread lay du lieu lien tuc --Chutrinh_LayDuLieu--
+2021-01-13 18:13:44,579 INFO Chu trinh - 0 - Khoi tao + Doi tin hieu bat dau chay

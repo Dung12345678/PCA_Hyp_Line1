@@ -1,0 +1,3 @@
+COM2: Đồng hồ đo điện
+COM3: Đo tiếng ồn
+COM4: PLC
